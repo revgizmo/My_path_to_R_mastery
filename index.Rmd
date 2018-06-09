@@ -1,0 +1,32 @@
+--- 
+title: "Ongoing blog of Conor's path to R mastery"
+author: "Conor Healy"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: 
+  bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+
+description: "This is the ongoing blog of Conor's path to R mastery"
+---
+
+
+
+#Ongoing blog of Conor's path to R mastery
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+
+
+```
+
+---
+nocite: | 
+  @R-base, @R-dplyr
+...

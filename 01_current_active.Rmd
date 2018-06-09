@@ -1,0 +1,35 @@
+#Current Active Bookmarks  {#active}
+
+## key driver analysis
+
+### Continuous and automatic key driver analysis of customer feedback
+* [Continuous and automatic key driver analysis of customer feedback](https://avira.github.io/dsblog/2016-11-18-customer-feedback-drivers.html)
+
+##Finalfit
+
+### Elegant regression results tables and plots in R: the finalfit package
+*[Elegant regression results tables and plots in R: the finalfit package (Ewen Harrison, 2018)](https://www.r-bloggers.com/elegant-regression-results-tables-and-plots-in-r-the-finalfit-package/)
+
+* This article was first published on  [R – DataSurg](http://www.datasurg.net/2018/05/16/elegant-regression-results-tables-and-plots-the-finalfit-package/)
+* See Finalfit_README.Rmd
+
+### Finalfit, knitr and R Markdown for quick results
+* [Finalfit, knitr and R Markdown for quick results (Harrison, 2018)](https://www.r-bloggers.com/finalfit-knitr-and-r-markdown-for-quick-results/)
+
+* This article was first published on  [R – DataSurg](http://www.datasurg.net/2018/05/22/finalfit-knitr-and-r-markdown-for-quick-results/)
+* See Finalfit_example_1.Rmd
+* See Finalfit_example_2.Rmd
+
+##Bookdown
+
+### bookdown: Authoring Books and Technical Documents with R Markdown
+*[bookdown: Authoring Books and Technical Documents with R Markdown (Xie, 2018)](https://bookdown.org/yihui/bookdown/)
+    * Lots of good stuff on how to use R Markdown to build books/websites, etc.
+
+### bookdownplus package
+* [bookdownplus package](https://github.com/pzhaonet/bookdownplus): an R package for writing assorted books and documents, such as academic articles, mails, guitar chords, chemical melecular formulae, with R bookdown
+    * Templates and stuff
+    * [R bookdownplus Textbook (Zhao, 2017)](https://bookdown.org/baydap/bookdownplus/)
+
+### [Writing your thesis with bookdown (Berry, 2017)](https://eddjberry.netlify.com/post/writing-your-thesis-with-bookdown/)
+* Good tips and tricks

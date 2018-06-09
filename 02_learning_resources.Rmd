@@ -1,0 +1,91 @@
+#Learning Resources
+
+
+## New to R Kickstart your learning and career with these 6 steps!
+### [New to R Kickstart your learning and career with these 6 steps! – paulvanderlaken.com (Paul van der Laken, 2017)](https://paulvanderlaken.com/2017/10/18/learn-r/)
+
+0. Create a directory for your R learning stuff somewhere on your computer.
+0. Download [A (very) short introduction to R](https://cran.r-project.org/doc/contrib/Torfs+Brauer-Short-R-Intro.pdf) by Paul Torfs and Claudia Bauer 
+     + Read the introduction and follow the steps. It will help you install all R software on your own computer and familiarize you with the standard data types.
+0.References/Cheat Sheets -  Many standard functions exist in R and after a while you will remember them by heart. For now, it’s good to have a dictionary or references close by hand. Download and read the cheat sheets for:
+     + [R Base (Mhairi McNeill)](https://paulvanderlaken.files.wordpress.com/2017/08/base-r-cheetsheat.pdf) and 
+     + [R Base Functions (Tom Short)](https://paulvanderlaken.files.wordpress.com/2017/08/r-base-functions-reference-card.pdf). 
+     + Because you’ll be writing most of your R scripts in RStudio, it’s also recommended to have an: 
+     + [RStudio Cheatsheet](https://github.com/rstudio/cheatsheets/raw/master/rstudio-ide.pdf) as well as an 
+     + [RStudio Keyboard Shortcuts Cheatsheet](https://support.rstudio.com/hc/en-us/articles/200711853-Keyboard-Shortcuts) by hand.
+0. [Swirl](http://swirlstats.com/) - Go through the exercises in the [Swirl](http://swirlstats.com/) package and take 1: R Programming: The basics of programming in R .
+     + Open up your RStudio and enter the two lines of code below in your console window. 
+     + `install.packages('swirl') #download swirl package`
+     + `library(swirl) #load in swirl package`
+     + Swirl ([webpage](http://swirlstats.com/)) will automatically start and after a couple of prompts you will be able to choose the learning course called 1: R Programming: The basics of programming in R.  
+     + This course consists of 15 modules via which you will master the basics of R in the environment itself. Start with module 1 and complete between one to three modules per day, so that you finish the swirl course in a week.
+4. [YaRrr! The Pirate’s Guide to R (Phillips, 2017) starting in chapter 3](https://bookdown.org/ndphillips/YaRrr/jumpin.html).
+     + OK, you should now be familiar with the basics of R. However, knowledge is crystallized via repetition. I therefore suggest, you walk through the book YaRrr! The Pirate’s Guide to R (Phillips, 2017) starting in chapter 3. It’s a fun book and will provide you with more knowledge on how to program custom functions, loops, and some basic statistical modelling techniques – the thing R was actually designed for.
+0. [R for Data Science (Grolemund & Wickham, 2017)](http://r4ds.had.co.nz/)
+     + By now, you can say you might say you are an *adapt R programmer with statistical modelling experience*. However, you have been working with base R functions mostly, knowledge of which is a must-have to really understand the language. In practice, R programmers rely strongly on developed packages nevertheless. A very useful group of packages is commonly referred to as the [tidyverse](https://paulvanderlaken.com/2017/07/07/tidyverse-101-simplifying-life-for-users/). You will be amazed at how much this set of packages simplifies working in R. The next step therefore, is to work through the book [R for Data Science (Grolemund & Wickham, 2017)](http://r4ds.had.co.nz/).
+0. You are now several steps and a couple of weeks further. You possess basic knowledge of the R language, know how to write scripts in RStudio, are capable of programming in base R as well as using the advanced functionality of the tidyverse, and you have even made a start with some basic statistical modelling.
+ It’s time to set you loose in the wonderful world of the R community. If you had not done this earlier, you should get accounts on / subscribe to / 
+     + [Stack Overflow](https://stackoverflow.com/questions/tagged/r)  
+     + [Cross Validated](https://stats.stackexchange.com/) 
+     + [R Help Mailing List](https://stat.ethz.ch/mailman/listinfo/r-help)
+     + [R Bloggers](http://www.r-bloggers.com/)
+     + [paulvanderlaken.com - Data Science, Machine Learning, & Visualization](paulvanderlaken.com)
+     + On Twitter, have a look at [#rstats](https://twitter.com/search?q=%23rstats&src=typd) and, 
+     + On reddit, subscribe to the [rstats](https://www.reddit.com/r/rstats/), [rstudio](https://www.reddit.com/r/RStudio/), and [statistics](https://www.reddit.com/r/statistics/) threads. 
+0. Continuing Education
+     + At this time, I can’t but advise you to return to the [R Resources Overview (Paul van der Laken, 2017)](https://paulvanderlaken.com/2017/08/10/r-resources-cheatsheets-tutorials-books/) and to continue broadening your R programming skills. 
+     + Pick materials in the area that interests you:
+        a. If you want to become a hardcore **programmer**, this [Coursera R programming course](https://www.coursera.org/learn/r-programming) may better suit you and you will want to learn [Efficient R Programming (Gillespie & Lovelace, 2017)](https://csgillespie.github.io/efficientR/).
+        a. Relatedly, if you want to become a **program developer**, building functions and packages, you also want to consider the above resources and simultaneously master [Software Development in R (Peng, Kross, & Anderson, 2017)](https://leanpub.com/msdr?utm_content=bufferaf023&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer).
+        a. If you like **visualization**, look into 
+            + [R Graph Gallery with code examples](http://www.r-graph-gallery.com/) and 
+            + [read this practical introduction to ggplot2 (Healy, 2017)](http://socviz.co/index.html#preface) and
+            + [Hitchhiker’s Guide to ggplot2 in R (Burchell & Vargas, 2016)](https://leanpub.com/hitchhikers_ggplot2).
+        a. Relately, if you like **interactive visualizations**, you will want to look at the above as well as 
+           + [R Shiny](https://github.com/dpastoor/awesome-shiny) and 
+           + [HTML Widgets](http://gallery.htmlwidgets.org/)
+        a. If you want to become a **data scientist**, 
+           + focus on machine learning via this [Data School course on statistical learning (Hastie & Tibshirani, 2014)](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/). 
+           + If you prefer a shorter, practical introduction, try this [Kaggle Competition Titanic walkthrough on Youtube](https://www.youtube.com/watch?v=Zx2TguRHrJE).
+        a. If you like **automation and reporting**, start with 
+           + [the basics of markdown](http://rmarkdown.rstudio.com/authoring_basics.html) and 
+           + [Regular Expressions](https://paulvanderlaken.com/2017/10/03/regular-expressions-in-r-part-1-introduction-and-base-r-functions/)
+        a. If you’re more interested in **text analysis and text mining**, knowledge of 
+           + [Regular Expressions](https://paulvanderlaken.com/2017/10/03/regular-expressions-in-r-part-1-introduction-and-base-r-functions/) is a must-have and 
+           + a good additional start would be the book on [Tidy Text Mining (Silges & Robinson, 2017)](http://tidytextmining.com/)
+
+
+
+
+
+## R for Data Science
+
+### R for Data Science
+* [R for Data Science](http://r4ds.had.co.nz/)
+
+### R for Data Science Solutions
+* [R for Data Science Solutions](https://jrnold.github.io/r4ds-exercise-solutions/tidy-data.html)   
+    * Solutions to r4ds
+
+## Other Learning Resources
+
+[YaRrr! The Pirate&#39;s Guide to R](https://bookdown.org/ndphillips/YaRrr/importingdata.html)
+
+[R resources (free courses, books, tutorials, &amp; cheat sheets) – paulvanderlaken.com](https://paulvanderlaken.com/2017/08/10/r-resources-cheatsheets-tutorials-books/)
+
+[Advanced R by Hadley Wickham](http://adv-r.had.co.nz/)
+
+[Programming with dplyr](https://cran.r-project.org/web/packages/dplyr/vignettes/programming.html)
+
+* Quoting, enquoting, !!, etc.
+
+[Using R for psychological research - A simple guide to an elegant language](http://personality-project.org/r/)   
+
+* Appears to be a good overall reference
+* owners/maintainers of the psych package
+
+
+[R packages by Hadley Wickham](http://r-pkgs.had.co.nz/)
+
+
+------
