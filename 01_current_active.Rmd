@@ -49,3 +49,5 @@
      * created ssh keys
      * tested push to git from shell and RStudio
      * updated this note and Committed/Pushed to git
+* Next step: [17 Existing project, GitHub first](http://happygitwithr.com/existing-github-first.html)
+
