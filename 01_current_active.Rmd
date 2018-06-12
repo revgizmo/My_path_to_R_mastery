@@ -33,3 +33,19 @@
 
 ### [Writing your thesis with bookdown (Berry, 2017)](https://eddjberry.netlify.com/post/writing-your-thesis-with-bookdown/)
 * Good tips and tricks
+
+## Happy Git and GitHub for the useR
+* [Happy Git and GitHub for the useR (Bryan, 2018)](http://happygitwithr.com/)
+* Amazing tutorial on getting set up with git and R
+* Will be a great resources for troubleshooting git/R problems
+* Creating a new project: [New project, GitHub first](http://happygitwithr.com/new-github-first.html)
+* Workflow:
+     * Start day with the “Pull” button from the “Git” tab in RStudio (make sure you are starting with the current versions)
+     * Save/Commit regularly with informative commit changes
+         * Amend Commits when you make incremental saves.  Do commits for separate changes.
+* 6/11: set up git on mac:
+     * installed R & RStudio on mac
+     * installed git and emacs
+     * created ssh keys
+     * tested push to git from shell and RStudio
+     * updated this note and Committed/Pushed to git
