@@ -83,8 +83,6 @@
 
 [Good enough practices in scientific computing](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510#sec009)
 
-[Happy Git and GitHub for the useR](http://happygitwithr.com/)
-
 [ProjectTemplate](http://projecttemplate.net/getting_started.html)
 
 [A perfect RStudio layout (Ilya Kashnitsky, 2018)](https://www.r-bloggers.com/a-perfect-rstudio-layout/)
