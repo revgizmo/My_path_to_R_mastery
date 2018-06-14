@@ -17,6 +17,8 @@ description: "This is the ongoing blog of Conor's path to R mastery"
 
 #Ongoing blog of Conor's path to R mastery
 
+*testing Rstudio git connection
+
 ```{r include=FALSE}
 # automatically create a bib database for R packages
 knitr::write_bib(c(
