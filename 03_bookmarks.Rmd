@@ -460,6 +460,8 @@ https://www.geckoboard.com/assets/data-fallacies-to-avoid.pdf
 * [Karl Broman (Broman 2016)](http://kbroman.org/)
      * Excellent site with lots of discussion of Reproducable research, knitr, and R overall
 
+[Generate Dynamic R Markdown Blocks](https://stackoverflow.com/questions/21729415/generate-dynamic-r-markdown-blocks)
 
+* Top Answer: Try knit_expand() (Dickson, 2014)
 ------
 
