@@ -1,5 +1,7 @@
 # Other Stuff
 
+
+
 ## Surveys
 
 [Conduct and Interpret an Ordinal Regression - Statistics Solutions](https://www.statisticssolutions.com/ordinal-regression-2/)
@@ -15,6 +17,9 @@
 [example-r-analysis-README.md at master · klmr-example-r-analysis · GitHub](https://github.com/klmr/example-r-analysis/blob/master/README.md)
 
 
+
+------
+
 ## Fun
 
 [HyperStat Online An Introductory Statistics Textbook and Online Tutorial for Help in Statistics Courses](http://davidmlane.com/hyperstat/index.html)
@@ -25,6 +30,9 @@
 
 [The Hacker&#39;s Diet](http://www.fourmilab.ch/hackdiet/e4/)
 
+
+
+------
 
 ## Six Sigma
 
@@ -39,6 +47,9 @@
 [How To Lose Weight Using Lean Six Sigma - GoLeanSixSigma.com](https://goleansixsigma.com/how-to-lose-weight-using-lean-six-sigma/)
 
 
+
+------
+
 ## CX related
 
 https://www.reddit.com/r/personalfinance/comments/8ho27e/shoutout_to_cfpb/?st=JGWFDE4O&sh=c1732482
@@ -46,20 +57,27 @@ https://www.reddit.com/r/personalfinance/comments/8ho27e/shoutout_to_cfpb/?st=JG
 
 [Journey Map Like A Pro: A Workshop For Customer Experience Professionals (Forrester, 2017)](https://www.forrester.com/Journey+Map+Like+A+Pro/agenda/-/E-EVE7881)
 
-[The Customer Experience Journey Mapping Toolkit (Designing CX, 2018)](http://designingcx.com/cx-journey-mapping-toolkit/)     
+[The Customer Experience Journey Mapping Toolkit (Designing CX, 2018)](http://designingcx.com/cx-journey-mapping-toolkit/)    
+
 * Great resource for Journey Mapping, including multiple pdf/ppt templates
 
 [Customer Journey Mapping and CX Research (Stickdorn, 2015)](https://www.slideshare.net/MarcStickdorn1/customer-journey-mapping-cx-research-marc-stickdorn-at-ui20)
 
-[The customer journey map (Service Design Tools, 2018)](http://www.servicedesigntools.org/tools/8)     
-* Journey Map Case Studies and walkthrough   
-* [CUSTOMER JOURNEY MAPPING GAME (Tallec, 2013)](https://prezi.com/1qu6lq4qucsm/customer-journey-mapping-game-transport/)    
-     * Prezi of the journey mapping game (to be copied and used)
+[The customer journey map (Service Design Tools, 2018)](http://www.servicedesigntools.org/tools/8)        
 
-[Developing a Digital Strategy: Journey Mapping (Miller, 2015)](https://centricconsulting.com/developing-a-digital-strategy-journey-mapping/)     
+* Journey Map Case Studies and walkthrough        
+* [CUSTOMER JOURNEY MAPPING GAME (Tallec, 2013)](https://prezi.com/1qu6lq4qucsm/customer-journey-mapping-game-transport/)         
+      * Prezi of the journey mapping game (to be copied and used)
+
+[Developing a Digital Strategy: Journey Mapping (Miller, 2015)](https://centricconsulting.com/developing-a-digital-strategy-journey-mapping/)    
+
 * Good overview and planning thoughts for Journey Mapping
 
 
+
+------
+
+## Rmd stuff
 
 ```{r}
 getwd()
@@ -70,4 +88,3 @@ getwd()
 ```r
 knitr::write_bib(file = "packages.bib")  
 ```
-
