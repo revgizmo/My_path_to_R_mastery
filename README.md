@@ -1,7 +1,1 @@
-# test
-
-This is a test
-
-This is a line from RStudio
-
-Line added from GitHub.
+# [My_path_to_R_mastery](https://revgizmo.github.io/My_path_to_R_mastery/)
