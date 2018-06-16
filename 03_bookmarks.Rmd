@@ -1,5 +1,7 @@
 # Bookmarks
 
+
+
 ## R Reference
 
 [Keyboard Shortcuts – RStudio Support](https://support.rstudio.com/hc/en-us/articles/200711853-Keyboard-Shortcuts)
@@ -8,13 +10,15 @@
 
 [http--www.rpad.org-Rpad-R-refcard.pdf](http://www.rpad.org/Rpad/R-refcard.pdf)
 
-[Jonathan Baron&#39;s R help page](http://finzi.psych.upenn.edu/)   
+[Jonathan Baron&#39;s R help page](http://finzi.psych.upenn.edu/)    
 
 * lots of links for r functions, blogs, and other references
 
-[R commands](http://www.personality-project.org/r/r.commands.html)
+[R commands](http://www.personality-project.org/r/r.commands.html)    
 
 * List of the most useful R commands
+
+
 
 ## R Graphs
 
@@ -72,12 +76,12 @@
 [Writing your thesis with R Markdown (3) – Figures, R code and tables Rosanna&#39;s Research](https://rosannavanhespenresearch.wordpress.com/2016/03/18/writing-your-thesis-with-r-markdown-3-figures-r-code-and-tables/)
 
 
-## R Workflow / Version Control
 
+## R Workflow / Version Control
 
 [Git and GitHub · R packages](http://r-pkgs.had.co.nz/git.html)
 
-[GitHub - MaximeWack-tidyflow Tidyflow a workflow that fits the tidyverse](https://github.com/MaximeWack/tidyflow)   
+[GitHub - MaximeWack-tidyflow Tidyflow a workflow that fits the tidyverse](https://github.com/MaximeWack/tidyflow)    
 
   * This is the workflow process that seems to work best for me right now
 
@@ -85,14 +89,15 @@
 
 [ProjectTemplate](http://projecttemplate.net/getting_started.html)
 
-[A perfect RStudio layout (Ilya Kashnitsky, 2018)](https://www.r-bloggers.com/a-perfect-rstudio-layout/)
+[A perfect RStudio layout (Ilya Kashnitsky, 2018)](https://www.r-bloggers.com/a-perfect-rstudio-layout/) 
 
   * My current preferred layout
-  * Adjust in “Tools” –> “Global options” –> “Pane layout”:   
-    + Top Left: Source
-    + Bottom Left: History (then collapse)
-    + Top Right: Console
-    + Bottom Right: Everything else 
+  * Adjust in “Tools” –> “Global options” –> “Pane layout”:    
+     + Top Left: Source
+     + Bottom Left: History (then collapse)
+     + Top Right: Console
+     + Bottom Right: Everything else 
+
 
 
 ## R Projects
@@ -102,7 +107,6 @@
 [Mapping earthquakes off the Irish Coast using the leaflet package in R R-bloggers](https://www.r-bloggers.com/mapping-earthquakes-off-the-irish-coast-using-the-leaflet-package-in-r/)
 
 [Simulating 10 000 Tic Tac Toe Games - Analytic Freaks](http://analyticfreaks.com/simulating-10-000-tic-tac-toe-games/)
-
 
 
 ## R Blogs and general reference
@@ -117,9 +121,11 @@
 
 
 
+------
+
 ## R links/blog posts to read
 
-[Using R and psych for personality and psychological research](https://personality-project.org/r/psych/)
+[Using R and psych for personality and psychological research](https://personality-project.org/r/psych/)    
 
 * Psych package
 
@@ -141,14 +147,6 @@
 [“Are My Scores Good?” Well, Compared to What?](http://customerthink.com/are-my-scores-good-well-compared-to-what/)
 
 http://datasciencemasters.org/
-
-http://gitready.com/
-
-http://happygitwithr.com/
-
-http://happygitwithr.com/big-picture.html
-
-http://jeromyanglim.blogspot.com/2010/11/getting-started-with-git-egit-eclipse.html
 
 http://kbroman.org/knitr_knutshell/pages/Rmarkdown.html
 
@@ -444,24 +442,30 @@ https://www.tidyverse.org/articles/2017/12/workflow-vs-script/
 
 https://www.webpagefx.com/blog/web-design/git-tutorials-beginners/
 
-Package ‘fuzzyjoin’
-
 https://www.geckoboard.com/assets/data-fallacies-to-avoid.pdf
 
-[Bookdown main site](https://bookdown.org/)
+Package ‘fuzzyjoin’
+
+* [fuzzyjoin](https://github.com/dgrtwo/fuzzyjoin)
+
+[Bookdown main site](https://bookdown.org/)    
 
 * [blogdown: Creating Websites with R Markdown (Yihui Xie, Amber Thomas, Alison Presmanes Hill, 2017)](https://bookdown.org/yihui/blogdown/)
 * lots of other book links
 
 
-[Tools for Reproducible Research Spring (Broman 2016)](http://kbroman.org/Tools4RR/)  
+[Tools for Reproducible Research Spring (Broman 2016)](http://kbroman.org/Tools4RR/)    
 
-* [Writing reproducible reports: knitr with R Markdown (Broman 2016)](http://kbroman.org/Tools4RR/assets/lectures/03_knitr_Rmd.pdf)   
+* [Writing reproducible reports: knitr with R Markdown (Broman 2016)](http://kbroman.org/Tools4RR/assets/lectures/03_knitr_Rmd.pdf)    
 * [Karl Broman (Broman 2016)](http://kbroman.org/)
-     * Excellent site with lots of discussion of Reproducable research, knitr, and R overall
+      * Excellent site with lots of discussion of Reproducable research, knitr, and R overall
+* http://kbroman.org/steps2rr/
+
+[Bookdown_Resources, Phil Bowsher, 2017](https://beta.rstudioconnect.com/content/3059/Bookdown_Resources.html)
+
+* Appears to be an excellent resource
 
 [Generate Dynamic R Markdown Blocks](https://stackoverflow.com/questions/21729415/generate-dynamic-r-markdown-blocks)
 
 * Top Answer: Try knit_expand() (Dickson, 2014)
 ------
-

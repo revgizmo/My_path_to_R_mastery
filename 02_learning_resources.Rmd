@@ -2,6 +2,7 @@
 
 
 ## New to R Kickstart your learning and career with these 6 steps!
+
 ### [New to R Kickstart your learning and career with these 6 steps! – paulvanderlaken.com (Paul van der Laken, 2017)](https://paulvanderlaken.com/2017/10/18/learn-r/)
 
 0. Create a directory for your R learning stuff somewhere on your computer.
@@ -56,36 +57,53 @@
 
 
 
-
+------
 
 ## R for Data Science
 
 ### R for Data Science
-* [R for Data Science](http://r4ds.had.co.nz/)
+[R for Data Science](http://r4ds.had.co.nz/)
 
 ### R for Data Science Solutions
-* [R for Data Science Solutions](https://jrnold.github.io/r4ds-exercise-solutions/tidy-data.html)   
-    * Solutions to r4ds
+[R for Data Science Solutions](https://jrnold.github.io/r4ds-exercise-solutions/tidy-data.html) 
+
+* Solutions to r4ds
+
+
+
+------
 
 ## Other Learning Resources
 
-[YaRrr! The Pirate&#39;s Guide to R](https://bookdown.org/ndphillips/YaRrr/importingdata.html)
+[YaRrr! The Pirate&#39;s Guide to R](https://bookdown.org/ndphillips/YaRrr/importingdata.html)    
 
-[R resources (free courses, books, tutorials, &amp; cheat sheets) – paulvanderlaken.com](https://paulvanderlaken.com/2017/08/10/r-resources-cheatsheets-tutorials-books/)
+[R resources (free courses, books, tutorials, &amp; cheat sheets) – paulvanderlaken.com](https://paulvanderlaken.com/2017/08/10/r-resources-cheatsheets-tutorials-books/)    
 
-[Advanced R by Hadley Wickham](http://adv-r.had.co.nz/)
+[Advanced R by Hadley Wickham](http://adv-r.had.co.nz/)    
 
-[Programming with dplyr](https://cran.r-project.org/web/packages/dplyr/vignettes/programming.html)
+[Programming with dplyr](https://cran.r-project.org/web/packages/dplyr/vignettes/programming.html)    
 
 * Quoting, enquoting, !!, etc.
 
-[Using R for psychological research - A simple guide to an elegant language](http://personality-project.org/r/)   
+[Using R for psychological research - A simple guide to an elegant language](http://personality-project.org/r/)    
 
 * Appears to be a good overall reference
 * owners/maintainers of the psych package
 
-
 [R packages by Hadley Wickham](http://r-pkgs.had.co.nz/)
 
+
+
+------
+
+## Git
+
+### git ready: learn git one commit at a time
+
+[git ready: learn git one commit at a time (Quaranto, 2009)](http://gitready.com/)
+
+* Some good intro resources.  Dated 2009, so possibly old.
+* 6/12-13: read the Beginner section
+* Next Steps: read the Intermediate and Advanced sections, and possibly look through the Resources
 
 ------
