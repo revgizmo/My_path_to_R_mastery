@@ -180,11 +180,7 @@ http://www.statsflowchart.co.uk/
 
 http://www.win-vector.com/blog/2018/02/r-tip-use-qc-for-fast-legible-quoting/
 
-http://www-cs-students.stanford.edu/~blynn/gitmagic/ch03.html
-
 https://avira.github.io/dsblog/2016-11-18-customer-feedback-drivers.html
-
-https://betterexplained.com/articles/aha-moments-when-learning-git/
 
 https://blog.coursera.org/top-10-blogs-data-scientists/
 
@@ -235,8 +231,6 @@ https://github.com/tidyverse/broom/blob/master/README.md
 https://github.com/ujjwalkarn/DataScienceR
 
 https://git-scm.com/book/en/v2
-
-https://guides.github.com/introduction/flow/?utm_source=onboarding-series&utm_medium=email&utm_content=read-the-guide-cta&utm_campaign=learn-github-flow-email
 
 https://mcfromnz.wordpress.com/2011/11/06/kaplan-meier-survival-plot-with-at-risk-table/
 
@@ -439,8 +433,6 @@ https://www.stat.auckland.ac.nz/~paul/Reports/deviceloc/deviceloc.html
 https://www.tidytextmining.com/index.html
 
 https://www.tidyverse.org/articles/2017/12/workflow-vs-script/
-
-https://www.webpagefx.com/blog/web-design/git-tutorials-beginners/
 
 https://www.geckoboard.com/assets/data-fallacies-to-avoid.pdf
 

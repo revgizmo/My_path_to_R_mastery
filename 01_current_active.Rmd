@@ -88,20 +88,30 @@ Chapter: [Continuous Integration](https://bookdown.org/rdpeng/RProgDA/continuous
 
 
 ### Happy Git and GitHub for the useR
-* [Happy Git and GitHub for the useR (Bryan, 2018)](http://happygitwithr.com/)
+*
+[Happy Git and GitHub for the useR (Bryan, 2018)](http://happygitwithr.com/)
+
 * Amazing tutorial on getting set up with git and R
 * Will be a great resources for troubleshooting git/R problems
-* Creating a new project: [New project, GitHub first](http://happygitwithr.com/new-github-first.html)
-* Workflow:
-  * Start day with the “Pull” button from the “Git” tab in RStudio (make sure you are starting with the current versions)
-* Save/Commit regularly with informative commit changes
+* __New Project Workflow:__
+    + Creating a new project: [New project, GitHub first](http://happygitwithr.com/new-github-first.html)
+    + Create a new github repository repository
+    + Clone or download -> copy link
+    + in RStudio -> File -> New Project -> Version Control -> Git -> paste url
+* __Daily Workflow:__
+    + Start day with the “Pull” button from the “Git” tab in RStudio (make sure you are starting with the current versions)
+    + Save/Commit regularly with informative commit changes
 * Amend Commits when you make incremental saves.  Do commits for separate changes.
 * 6/11: set up git on mac:
-  * installed R & RStudio on mac
-* installed git and emacs
-* created ssh keys
-* tested push to git from shell and RStudio
-* updated this note and Committed/Pushed to git
+    + installed R & RStudio on mac
+    + installed git and emacs
+    + created ssh keys
+    + tested push to git from shell and RStudio
+    + updated this note and Committed/Pushed to git
+* 6/15: set up git on pc
+    + had some trouble with PC shell vs terminal, but was able to successfully connect.
+    + pulled Alternate branch of this workbook to begin merge process
+    + merged Alternate branch into Master to gather all links/updates as of some time last week
 * Next step: [17 Existing project, GitHub first](http://happygitwithr.com/existing-github-first.html)
 * Also see: http://happygitwithr.com/big-picture.html
 
@@ -109,6 +119,18 @@ Chapter: [Continuous Integration](https://bookdown.org/rdpeng/RProgDA/continuous
 ### getting-started-with-git-egit-eclipse
 
 http://jeromyanglim.blogspot.com/2010/11/getting-started-with-git-egit-eclipse.html
+
+### Other Git
+
+http://www-cs-students.stanford.edu/~blynn/gitmagic/ch03.html
+
+https://betterexplained.com/articles/aha-moments-when-learning-git/
+
+https://guides.github.com/introduction/flow/?utm_source=onboarding-series&utm_medium=email&utm_content=read-the-guide-cta&utm_campaign=learn-github-flow-email
+
+https://www.webpagefx.com/blog/web-design/git-tutorials-beginners/
+
+
 
 ------
 
