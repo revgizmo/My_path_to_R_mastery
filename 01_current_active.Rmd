@@ -49,7 +49,7 @@
 
 ### bookdownplus package
 
-[bookdownplus package](https://github.com/pzhaonet/bookdownplus): an R package for writing assorted books and documents, such as academic articles, mails, guitar chords, chemical melecular formulae, with R bookdown    
+[bookdownplus package](https://github.com/pzhaonet/bookdownplus): an R package for writing assorted books and documents, such as academic articles, mails, guitar chords, chemical molecular formulae, with R bookdown    
 
 * Templates and stuff    
 * [R bookdownplus Textbook (Zhao, 2017)](https://bookdown.org/baydap/bookdownplus/)
@@ -104,11 +104,11 @@ Chapter: [Continuous Integration](https://bookdown.org/rdpeng/RProgDA/continuous
 * Amend Commits when you make incremental saves.  Do commits for separate changes.
 * 6/11: set up git on mac:
     + installed R & RStudio on mac
-    + installed git and emacs
+    + installed git and Emacs
     + created ssh keys
     + tested push to git from shell and RStudio
     + updated this note and Committed/Pushed to git
-* 6/15: set up git on pc
+* 6/15: set up git on PC
     + had some trouble with PC shell vs terminal, but was able to successfully connect.
     + pulled Alternate branch of this workbook to begin merge process
     + merged Alternate branch into Master to gather all links/updates as of some time last week
@@ -116,9 +116,27 @@ Chapter: [Continuous Integration](https://bookdown.org/rdpeng/RProgDA/continuous
 * Also see: http://happygitwithr.com/big-picture.html
 
 
+### Learn Git Branching
+
+[learnGitBranching](https://github.com/pcottle/learnGitBranching)
+
+* [Learn Git Branching](https://learngitbranching.js.org/)
+* Interactive introduction to git branching (learning reference), including good basic use of the terminal to enter commands
+* slowly working through levels
+    + 6/16: worked through Ramping up #2
+
+
 ### getting-started-with-git-egit-eclipse
 
 http://jeromyanglim.blogspot.com/2010/11/getting-started-with-git-egit-eclipse.html
+
+
+### Github On Demand Training
+
+[Github On Demand Training](https://services.github.com/on-demand/)
+
+* Most recent link: [Hello World](https://guides.github.com/activities/hello-world/)
+
 
 ### Other Git
 
@@ -129,6 +147,15 @@ https://betterexplained.com/articles/aha-moments-when-learning-git/
 https://guides.github.com/introduction/flow/?utm_source=onboarding-series&utm_medium=email&utm_content=read-the-guide-cta&utm_campaign=learn-github-flow-email
 
 https://www.webpagefx.com/blog/web-design/git-tutorials-beginners/
+
+[An introduction to Git and how to use it with RStudio](https://r-bio.github.io/intro-git-rstudio/)
+
+* Part of [The R class R programming for biologists](https://r-bio.github.io/) (which looks like a good R tutorial overall)
+* 2018-06-16: high level overview of git, with some example code for what can/can't be done in RStudio
+
+[VERSION CONTROL WITH RSTUDIO AND GITHUB(https://aberdeenstudygroup.github.io/studyGroup/lessons/SG-T1-GitHubVersionControl/VersionControl/)
+
+* 2018-06-16: very high level overview of git with RStudio.  Jenny Bryan's happygitwithr is far superior.
 
 
 

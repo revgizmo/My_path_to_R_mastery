@@ -460,4 +460,9 @@ Package ‘fuzzyjoin’
 [Generate Dynamic R Markdown Blocks](https://stackoverflow.com/questions/21729415/generate-dynamic-r-markdown-blocks)
 
 * Top Answer: Try knit_expand() (Dickson, 2014)
+
+[The R class R programming for biologists](https://r-bio.github.io/01-intro-R/)
+
+* Looks like a good introduction/tutorial to R, RStudio, etc.
+
 ------
