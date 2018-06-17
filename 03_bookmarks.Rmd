@@ -465,4 +465,9 @@ Package ‘fuzzyjoin’
 
 * Looks like a good introduction/tutorial to R, RStudio, etc.
 
+[Deeply Trivial](http://www.deeplytrivial.com/)
+
+* Statistics and R
+* [Working with Your Facebook Data in R](http://www.deeplytrivial.com/2018/06/working-with-your-facebook-data-in-r.html)
+
 ------
