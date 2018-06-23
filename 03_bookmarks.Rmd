@@ -98,6 +98,10 @@
      + Top Right: Console
      + Bottom Right: Everything else 
 
+[ProjectTemplate](http://projecttemplate.net/) package 
+
+* Recommended by the Not so standard deviations podcast
+* Doesn't look like a format that I would find useful.  Too informal once the project is set up.
 
 
 ## R Projects
@@ -435,6 +439,90 @@ https://www.tidytextmining.com/index.html
 https://www.tidyverse.org/articles/2017/12/workflow-vs-script/
 
 https://www.geckoboard.com/assets/data-fallacies-to-avoid.pdf
+
+[A guide to working with character data in R](https://www.r-bloggers.com/a-guide-to-working-with-character-data-in-r/)
+
+[A little function to help generate ICCs in simple clustered data](https://www.r-bloggers.com/a-little-function-to-help-generate-iccs-in-simple-clustered-data/)
+
+[AI Data Sets to Use For Your Next Creative Project](https://lifehacker.com/these-data-sets-are-just-waiting-for-your-next-creative-1826947365)
+
+[Anomaly Detection for Business Metrics with R](https://www.r-bloggers.com/anomaly-detection-for-business-metrics-with-r/)
+
+[As machine learning evolves, we need to update the definition of 'data scientist' | VentureBeat](https://venturebeat.com/2018/05/20/as-machine-learning-evolves-we-need-to-update-the-definition-of-data-scientist/)
+
+[Because I've had to reference my linear algebra recommendations post several times now, here are my updated recommendations.](https://www.reddit.com/r/statistics/comments/8s9ql7/because_ive_had_to_reference_my_linear_algebra/?st=JIM9LI6I&sh=1e12e0d1)
+
+[Book suggestions for a student pursuing a degree in statistics?](https://www.reddit.com/r/statistics/comments/8qaik1/book_suggestions_for_a_student_pursuing_a_degree/?st=JIALAOPO&sh=820546be)
+
+[Can I get some advice on learning to use R?](https://www.reddit.com/r/statistics/comments/8p9r08/can_i_get_some_advice_on_learning_to_use_r/?st=JI4LMWB8&sh=ae45a74f)
+
+[Creating Slopegraphs with R](https://www.r-bloggers.com/creating-slopegraphs-with-r/)
+
+[Data + Art STEAM Project: Initial Results](https://www.r-bloggers.com/data-art-steam-project-initial-results/)
+
+[Data on 1,340 Coffee Bean Reviews (aroma, acidity, flavor, altitude, + more)](https://www.reddit.com/r/datasets/comments/8rndor/data_on_1340_coffee_bean_reviews_aroma_acidity/?st=JII49KVW&sh=7e209430)
+
+[Don't Worry: Google Only Checks Your Location Every 10 Minutes](http://www.sastibe.de/2018/04/don-t-worry-google-location/)
+
+[drake](https://ropensci.github.io/drake/)
+
+[Fun with lists (in R) • Apoorv Anand](http://behindbars.netlify.com/post/fun-with-lists/)
+
+[GitHub - andbe/keysLocksSimulations: Simulate keys/lock question scenarios](https://github.com/andbe/keysLocksSimulations)
+
+[GitHub - jldbc/coffee-quality-database: Building the Coffee Quality Institute Database](https://github.com/jldbc/coffee-quality-database)
+
+[How to learn Bayesian statistics à la DataCamp or swirl()?](https://www.reddit.com/r/rstats/comments/8succ5/how_to_learn_bayesian_statistics_%C3%A0_la_datacamp_or/?st=JIP0T1DG&sh=cde0d4c8)
+
+[How to setup RStudio Server Open Source Edition like the Pro version](https://www.reddit.com/r/rstats/comments/8sofmb/how_to_setup_rstudio_server_open_source_edition/?st=JIO1INHO&sh=0f9ab105)
+
+[https://dm13450.github.io/2018/06/12/Isle-of-Man-TT.html](https://dm13450.github.io/2018/06/12/Isle-of-Man-TT.html)
+
+[I created a tool to automatically extract the most important sentences from an article of text; it also has a physics-based network visualization of the underlying algorithm [OC]](https://www.reddit.com/r/dataisbeautiful/comments/8m9ha6/i_created_a_tool_to_automatically_extract_the/?st=JHNE6JUD&sh=18f33fdf)
+
+[Interview Challenge with One of the Biggest Tech Companies](https://www.reddit.com/r/RStudio/comments/8nghxk/interview_challenge_with_one_of_the_biggest_tech/?st=JHUL6L1Q&sh=98e0e003)
+
+[Introduction to DataExplorer](https://cran.r-project.org/web/packages/DataExplorer/vignettes/dataexplorer-intro.html)
+
+[jldbc/coffee-quality-database: Building the Coffee Quality Institute Database](https://github.com/jldbc/coffee-quality-database#notification-settings)
+
+[Machine learning may be most useful in tiny, embedded, offline processors / Boing Boing](https://boingboing.net/2018/06/11/smart-dust.html)
+
+[Markov Chain Delinquency Problem in R](https://www.reddit.com/r/statistics/comments/8q3kyt/markov_chain_delinquency_problem_in_r/?st=JI9BLVWO&sh=93f88cee)
+
+[Melt and cast the shape of your data.frame – Exercises](https://www.r-bloggers.com/melt-and-cast-the-shape-of-your-data-frame-exercises/)
+
+[Michèle Nuijten and John Sakaluk — The Bayes Factor — Overcast](https://overcast.fm/+K3nma1RBk)
+
+[Monte Carlo Part Two](https://www.r-bloggers.com/monte-carlo-part-two/)
+
+[PH525x series - Biomedical Data Science](http://genomicsclass.github.io/book/)
+
+[Prediction Interval, the wider sister of Confidence Interval](https://www.r-bloggers.com/prediction-interval-the-wider-sister-of-confidence-interval/)
+
+[Reading financial statements (PDF) for data analysis](https://reddit.app.link/KfMOsV5ytN)
+
+[Share Your Method of Analysis Without Sharing Your Data - Quantified Self](http://quantifiedself.com/2018/05/open-humans-personal-data-notebooks/)
+
+[Should I use an ordered multinomial logit model or just use ANOVA?](https://www.reddit.com/r/statistics/comments/8lq86q/should_i_use_an_ordered_multinomial_logit_model/?st=JHKK5I1O&sh=df64fff9)
+
+[Stagraph | Powered By R](https://stagraph.com/Post?Id=31&Title=Powered+By+R)
+
+[The Significance of Poisson Distribution in Statistics | Hashtag Statistics](http://www.hashtagstatistics.com/2018/05/the-significance-of-poisson.html?m=1)
+
+[Using DataCamp’s Autograder to Teach R](https://www.r-bloggers.com/using-datacamps-autograder-to-teach-r/)
+
+[Variance Explained](http://varianceexplained.org/)
+
+[Visualising cumulative binomial probabilities with Shiny](https://www.reddit.com/r/Rlanguage/comments/8rdskp/visualising_cumulative_binomial_probabilities/?st=JIGHJ6H9&sh=6bc695a3)
+
+[wrapr 1.5.0 available on CRAN](https://www.r-bloggers.com/wrapr-1-5-0-available-on-cran/)
+
+[R workflow fun](https://maraaverick.rbind.io/2017/09/r-workflow-fun/)
+
+* An article about various R workflow tools that the Author found interesting
+
+[xplain package](https://twitter.com/jsugarelli/status/992121083254984705?s=12)
 
 Package ‘fuzzyjoin’
 
