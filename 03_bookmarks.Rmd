@@ -558,8 +558,9 @@ Package ‘fuzzyjoin’
 * Statistics and R
 * [Working with Your Facebook Data in R](http://www.deeplytrivial.com/2018/06/working-with-your-facebook-data-in-r.html)
 
+------
 
-##R notes 2 (converted to MD) iPad 
+## R notes 2 (converted to MD) iPad 
 
 [April 2018: “Top 40” New Packages](https://www.r-bloggers.com/april-2018-top-40-new-packages/)
 
