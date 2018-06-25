@@ -558,4 +558,152 @@ Package ‘fuzzyjoin’
 * Statistics and R
 * [Working with Your Facebook Data in R](http://www.deeplytrivial.com/2018/06/working-with-your-facebook-data-in-r.html)
 
+
+##R notes 2 (converted to MD) iPad 
+
+[April 2018: “Top 40” New Packages](https://www.r-bloggers.com/april-2018-top-40-new-packages/)
+
+
+[Slopegraphs and R – a Pleasant Diversion – May 26, 2018](https://www.r-bloggers.com/slopegraphs-and-r-a-pleasant-diversion-may-26-2018/)
+
+
+[Programmatically Creating Text Output in R – Exercises](https://www.r-bloggers.com/programmatically-creating-text-output-in-r-exercises/)
+
+
+[The Fix Is in: Finding Infix Functions Inside Contributed R Package “Utilities” Files](https://www.r-bloggers.com/the-fix-is-in-finding-infix-functions-inside-contributed-r-package-utilities-files/)
+
+
+[RStudio:Addins Part 3 – View Objects, Files, Functions and More With 1 Keypress](https://www.r-bloggers.com/rstudioaddins-part-3-view-objects-files-functions-and-more-with-1-keypress/)
+
+
+[Statistics Sunday: Two R Packages to Check Out](https://www.r-bloggers.com/statistics-sunday-two-r-packages-to-check-out/)
+
+
+[A Recipe for Recipes](https://www.r-bloggers.com/a-recipe-for-recipes/)
+
+
+[Data Lunch 2Feb: the Use of Bookdown to Write Documents and Reports](https://bookdown.org/fgabriel1891/datalunch2feb/)
+
+
+[Data Lunch 2Feb: the Use of Bookdown to Write Documents and Reports](https://bookdown.org/fgabriel1891/datalunch2feb/)
+
+
+[Structure of the Book](https://bookdown.org/yihui/rmarkdown/structure-of-the-book.html)
+
+
+[RStudio:Addins Part 3 – View Objects, Files, Functions and More With 1 Keypress](https://www.r-bloggers.com/rstudioaddins-part-3-view-objects-files-functions-and-more-with-1-keypress/)
+
+
+[Finalfit, Knitr and R Markdown for Quick Results](https://www.r-bloggers.com/finalfit-knitr-and-r-markdown-for-quick-results/)
+
+
+[Join GitHub Today](https://github.com/topepo/recipes)
+
+
+[eRum 2018 - May 15 - Edwin Thoen - YouTube](https://t.co/LwbRMyYVS8?amp=1)
+
+
+[Ricochet Id: Ricochet:2Bax37Pseb6Mewj4](https://rud.is/)
+
+
+[New R Package Xplain: Providing Interactive Interpretations and Explanations of Statistical Results](https://www.r-bloggers.com/new-r-package-xplain-providing-interactive-interpretations-and-explanations-of-statistical-results/)
+
+
+[Fancy Plot (With Posterior Samples) for Bayesian Regressions](https://www.r-bloggers.com/fancy-plot-with-posterior-samples-for-bayesian-regressions/)
+
+
+[Sentiment Use Across the Course of Pitchfork Music Reviews: a Tidy Text Analysis With R](https://www.r-bloggers.com/sentiment-use-across-the-course-of-pitchfork-music-reviews-a-tidy-text-analysis-with-r/)
+
+
+[CHAID and Caret – a Good Combo – June 6, 2018](https://www.r-bloggers.com/chaid-and-caret-a-good-combo-june-6-2018/)
+
+
+[Intro to Time Series Analysis -Part 1](https://www.r-bloggers.com/intro-to-time-series-analysis-part-1/)
+
+
+[R Functions for Bayesian Model Statistics and Summaries #Rstats #Stan #Brms](https://www.r-bloggers.com/r-functions-for-bayesian-model-statistics-and-summaries-rstats-stan-brms/)
+
+
+[Statistics “Sunday”: More Sentiment Analysis Resources](https://www.r-bloggers.com/statistics-sunday-more-sentiment-analysis-resources/)
+
+
+[Animating Changes in Football Kits Using R](https://www.r-bloggers.com/animating-changes-in-football-kits-using-r/)
+
+
+[Learn the Tidyverse](https://www.tidyverse.org/learn/)
+
+
+[Recommended Courses](https://www.datacamp.com/courses)
+
+
+[Learn the Tidyverse](https://www.tidyverse.org/learn/)
+
+
+[Tidyverse Cookbook](https://bookdown.org/Tazinho/Tidyverse-Cookbook/)
+
+
+[Git and GitHub](http://r-pkgs.had.co.nz/git.html)
+
+
+[Jennybc/Happy-Git-With-R](https://github.com/jennybc/happy-git-with-r)
+
+
+[Git-Novice](https://github.com/swcarpentry/git-novice)
+
+
+[Ranking the Most Influential Computer Security Papers Ever Published](https://boingboing.net/2018/06/13/backrub.html/amp)
+
+
+[Beautiful Visualizations in R](https://www.r-bloggers.com/beautiful-visualizations-in-r/)
+
+
+[A Comparative Review of the Deducer GUI for R](https://www.r-bloggers.com/a-comparative-review-of-the-deducer-gui-for-r/)
+
+
+[Working With Your Facebook Data in R](https://www.r-bloggers.com/working-with-your-facebook-data-in-r/)
+
+
+[How to Create a Flexdashboard: Exercises](https://www.r-bloggers.com/how-to-create-a-flexdashboard-exercises/)
+
+
+[Detecting Unconscious Bias in Models, With R](https://www.r-bloggers.com/detecting-unconscious-bias-in-models-with-r/)
+
+
+[Machine Learning in R With H2O and LIME: a Free Workshop!](https://www.r-bloggers.com/machine-learning-in-r-with-h2o-and-lime-a-free-workshop/)
+
+
+[Create Outstanding Dashboards With the New semantic.dashboard Package](https://www.r-bloggers.com/create-outstanding-dashboards-with-the-new-semantic-dashboard-package/)
+
+
+[Easy APA Formatted Bayesian Correlation](https://www.r-bloggers.com/easy-apa-formatted-bayesian-correlation/)
+
+
+[Statistics Sunday: Creating Wordclouds](https://www.r-bloggers.com/statistics-sunday-creating-wordclouds/)
+
+
+[Getting Data From Pdfs Using the Pdftools Package](https://www.r-bloggers.com/getting-data-from-pdfs-using-the-pdftools-package/)
+
+
+[Non-Linear Model in R Exercises](https://www.r-bloggers.com/non-linear-model-in-r-exercises/)
+
+
+[Neural Networks Are Essentially Polynomial Regression](https://www.r-bloggers.com/neural-networks-are-essentially-polynomial-regression/)
+
+
+[Big News: Vtreat 1.2.0 Is Available on CRAN, and It Is Now Big Data Capable](https://www.r-bloggers.com/big-news-vtreat-1-2-0-is-available-on-cran-and-it-is-now-big-data-capable/)
+
+
+[Intro to Time Series Analysis Part 2 :Exercises](https://www.r-bloggers.com/intro-to-time-series-analysis-part-2-exercises/)
+
+
+[Awesome Twitter Word Clouds in R](https://www.r-bloggers.com/awesome-twitter-word-clouds-in-r/)
+
+
+[Forecasting My Weight With R](https://www.r-bloggers.com/forecasting-my-weight-with-r/)
+
+
+[Data Science for Business Tutorial: Using Machine Learning With LIME to Understand Employee Churn](https://www.r-bloggers.com/data-science-for-business-tutorial-using-machine-learning-with-lime-to-understand-employee-churn/)
+
+
+ 
 ------
