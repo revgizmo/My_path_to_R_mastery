@@ -704,6 +704,444 @@ Package ‘fuzzyjoin’
 
 [Data Science for Business Tutorial: Using Machine Learning With LIME to Understand Employee Churn](https://www.r-bloggers.com/data-science-for-business-tutorial-using-machine-learning-with-lime-to-understand-employee-churn/)
 
+------
+
+## used Workflow to add names to link only bookmarks
+
+[The Open Source Data Science Masters](http://datasciencemasters.org/)
+
+
+[R Markdown](http://kbroman.org/knitr_knutshell/pages/Rmarkdown.html)
+
+
+[Becoming a Data Scientist – Curriculum via Metromap](http://nirvacana.com/thoughts/2013/07/08/becoming-a-data-scientist/)
+
+
+[RpadTpDataScientist1](http://nirvacana.com/thoughts/wp-content/uploads/2018/01/RoadToDataScientist1.png)
+
+
+[Write Your Own R Package](http://stat545.com/packages06_foofactors-package.html)
+
+
+[UC Business Analytics R Programming Guide](http://uc-r.github.io/)
+
+
+[Advice to Aspiring Data Scientists: Start a Blog](http://varianceexplained.org/r/start-blog/)
+
+
+[An Overview of Keyword Extraction Techniques](http://www.bnosac.be/index.php/blog/77-an-overview-of-keyword-extraction-techniques)
+
+Data Analytics Classroom 
+
+*	[Lesson 36 – Counts: the Language of Poisson Distribution](http://www.dataanalysisclassroom.com/lesson36/)
+
+
+*	[Lesson 61 – Resto](http://www.dataanalysisclassroom.com/lesson61/)
+
+
+[How Not to Sort by Average Rating](http://www.evanmiller.org/how-not-to-sort-by-average-rating.html)
+
+
+[Feature Engineering and Selection: a Practical Approach for Predictive Models](http://www.feat.engineering/index.html)
+
+
+[2.5 Other Considerations](http://www.feat.engineering/stroke-tour.html#stroke-exploration)
+
+
+[Rcommander](http://www.rcommander.com/)
+
+
+[Apple Health Data How to Export Analyze Visualize Guide](http://www.ryanpraski.com/apple-health-data-how-to-export-analyze-visualize-guide/)
+
+
+[An Interactive Stats Flowchart / Decision Tree to Help You Choose an Appropriate Statistical Test.](http://www.statsflowchart.co.uk/)
+
+
+[R Tip: Use Qc() for Fast Legible Quoting](http://www.win-vector.com/blog/2018/02/r-tip-use-qc-for-fast-legible-quoting/)
+
+
+[Continuous and Automatic Key Driver Analysis of Customer Feedback](https://avira.github.io/dsblog/2016-11-18-customer-feedback-drivers.html)
+
+
+[Our Top 10 Blogs for Data Scientists](https://blog.coursera.org/top-10-blogs-data-scientists/)
+
+
+[Questions About Questions](https://challenge.threesixtygiving.org/faq)
+
+
+[Package Â€˜Fuzzyjoinâ€™ March 2, 2018](https://cran.r-project.org/web/packages/fuzzyjoin/fuzzyjoin.pdf)
+
+
+[remindR: in Code Text Reminders to Aid Code Development](https://cran.r-project.org/web/packages/remindR/vignettes/remindR_vignette.html)
+
+
+[Lobe](https://daringfireball.net/2018/05/lobe)
+
+
+[Outliers Detection and Intervention Analysis](https://datascienceplus.com/outliers-detection-and-intervention-analysis/)
+
+
+[R Plotting Systems](https://devopedia.org/r-plotting-systems)
+
+
+[Programming With Dplyr](https://dplyr.tidyverse.org/articles/programming.html)
+
+
+[Digging Deeper: Online Resources for Intermediate to Advanced R Users](https://edomt.github.io/Intermediate-Advanced-R/)
+
+
+[Computer Science and Programming](https://fivebooks.com/best-books/programming-computer-science-ana-bell/)
+
+
+[taskviewr](https://github.com/bearloga/taskviewr)
+
+
+[nps_tests.R](https://github.com/brendan-r/NPS/blob/master/R/nps_tests.R)
+
+
+[First20Hours/Google-10000-English](https://github.com/first20hours/google-10000-english)
+
+
+[Ggplotgui](https://github.com/gertstulp/ggplotgui/blob/master/README.md)
+
+
+[CausalImpact](https://github.com/google/CausalImpact)
+
+
+[What They Forgot to Teach You About R](https://github.com/jennybc/what-they-forgot/blob/master/README.md)
+
+
+[roxygen](https://github.com/klutometis/roxygen)
+
+
+[Awesome R](https://github.com/qinwf/awesome-R)
+
+
+[r-podcast](https://github.com/rbind/r-podcast)
+
+
+[testthat](https://github.com/r-lib/testthat)
+
+
+[The drake R package](https://github.com/ropensci/drake/blob/master/README.md)
+
+
+[Seanchrismurphy/a-Psychologists-Guide-to-R](https://github.com/seanchrismurphy/A-Psychologists-Guide-to-R)
+
+
+[Broom: Let's Tidy Up a Bit](https://github.com/tidyverse/broom/blob/master/README.md)
+
+
+[R Data Science Tutorials](https://github.com/ujjwalkarn/DataScienceR)
+
+
+[--Fast-Version-Control](https://git-scm.com/book/en/v2)
+
+
+[Kaplan-Meier Survival Plot – With at Risk Table](https://mcfromnz.wordpress.com/2011/11/06/kaplan-meier-survival-plot-with-at-risk-table/)
+
+
+[R Resources (Free Courses, Books, Tutorials, & Cheat Sheets)](https://paulvanderlaken.com/2017/08/10/r-resources-cheatsheets-tutorials-books/)
+
+
+[Rstudio::Conf 2018 Summary](https://paulvanderlaken.com/2018/02/08/rstudioconf-2018-summary/)
+
+
+[Episode 7: Best Practices for Workflow Management](https://r-podcast.org/episode/007-best-practices-for-workflow-management/)
+
+
+[R Weekly 2018-26 Chat, Highlight](https://rweekly.org/)
+
+
+[My First R Package Building Experience: Reflections From Creating Bulletchartr!](https://ryo-n7.github.io/2018-04-30-bulletchartr-package-experience/)
+
+
+[Life Data and Design Decisions](https://speakerdeck.com/cjlortie/life-data-and-design-decisions)
+
+
+[Data Rectangling](https://speakerdeck.com/jennybc/data-rectangling)
+
+
+[How Do You Combine “Revision Control” With “Workflow” for R?](https://stackoverflow.com/questions/2286831/how-do-you-combine-revision-control-with-workflow-for-r)
+
+
+[R and Version Control for the Solo Data Analyst](https://stackoverflow.com/questions/2712421/r-and-version-control-for-the-solo-data-analyst)
+
+
+[What Is the R Assignment Operator := For?](https://stackoverflow.com/questions/32817780/what-is-the-r-assignment-operator-for)
+
+
+[Data Scientist Resume Projects](https://statsbot.co/blog/data-scientist-resume-projects/)
+
+
+[Lobe’s Ridiculously Simple Machine Learning Platform Aims to Empower Non-Technical Creators](https://techcrunch.com/2018/05/05/lobes-ridiculously-simple-machine-learning-platform-aims-to-empower-non-technical-creators/)
+
+
+[Top Takeaways From Studying iPhone X Owners](https://techpinions.com/top-takeaways-from-studying-iphone-x-owners/52639)
+
+
+[A Completely Subjective Ranking of Data Science Podcasts](https://tonyelhabr.rbind.io/posts/data-science-podcasts/)
+
+
+[Data Science for Startups: Business Intelligence](https://towardsdatascience.com/data-science-for-startups-business-intelligence-f4a2ba728e75)
+
+
+[Top R Language Resources to Improve Your Data Skills](https://www.computerworld.com/article/2497464/business-intelligence/top-r-language-resources-to-improve-your-data-skills.html)
+
+
+[Welcome to DataCamp](https://www.datacamp.com/onboarding)
+
+
+[A Primer on Web Scraping in R](https://www.kdnuggets.com/2018/01/primer-web-scraping-r.html/2)
+
+
+[15 Types of Regression You Should Know](https://www.listendata.com/2018/03/regression-analysis.html?m=1)
+
+
+[Analyzing Customer Data From Square](https://www.r-bloggers.com/analyzing-customer-data-from-square/amp/)
+
+
+[An Overview of Keyword Extraction Techniques](https://www.r-bloggers.com/an-overview-of-keyword-extraction-techniques/)
+
+
+[An Overview of R With a Curated Learning Path](https://www.r-bloggers.com/an-overview-of-r-with-a-curated-learning-path/)
+
+
+[An R Tutorial: Visual Representation of Complex Multivariate Relationships Using the R Qgraph Package, Part Two Repost](https://www.r-bloggers.com/an-r-tutorial-visual-representation-of-complex-multivariate-relationships-using-the-r-qgraph-package-part-two-repost/)
+
+
+[Blog Archives](https://www.r-bloggers.com/author/chuck-powell/page/2/)
+
+
+[Automated Feature Selection Using bounceR](https://www.r-bloggers.com/automated-feature-selection-using-bouncer/amp/)
+
+
+[Beautiful and Powerful Correlation Tables in R](https://www.r-bloggers.com/beautiful-and-powerful-correlation-tables-in-r/amp/)
+
+
+[Beautiful and Powerful Correlation Tables in R](https://www.r-bloggers.com/beautiful-and-powerful-correlation-tables-in-r-2/)
+
+
+[CHAID and R – When You Need Explanation – May 15, 2018](https://www.r-bloggers.com/chaid-and-r-when-you-need-explanation-may-15-2018/)
+
+
+[Cleaning Up Tables](https://www.r-bloggers.com/cleaning-up-tables/)
+
+
+[Confessions of a Data Scientist: Why I Quit Social Media and Still Cut My Own Grass](https://www.r-bloggers.com/confessions-of-a-data-scientist-why-i-quit-social-media-and-still-cut-my-own-grass/amp/)
+
+
+[Create Your Machine Learning Library From Scratch With R ! (2/5) – PCA](https://www.r-bloggers.com/create-your-machine-learning-library-from-scratch-with-r-2-5-pca/)
+
+
+[Create Your Machine Learning Library From Scratch With R ! (3/5) – KNN](https://www.r-bloggers.com/create-your-machine-learning-library-from-scratch-with-r-3-5-knn/)
+
+
+[Data Science for Business: Course Launch in 5 Days!!!](https://www.r-bloggers.com/data-science-for-business-course-launch-in-5-days/)
+
+
+[Deep Learning From First Principles in Python, R and Octave – Part 8](https://www.r-bloggers.com/deep-learning-from-first-principles-in-python-r-and-octave-part-8/amp/)
+
+
+[Do Clustering by “Dimensional Collapse”](https://www.r-bloggers.com/do-clustering-by-dimensional-collapse/amp/)
+
+
+[Enterprise Dashboards With R Markdown](https://www.r-bloggers.com/enterprise-dashboards-with-r-markdown/)
+
+
+[Exploratory Factor Analysis in R](https://www.r-bloggers.com/exploratory-factor-analysis-in-r/)
+
+
+[Flow Charts in R](https://www.r-bloggers.com/flow-charts-in-r/amp/)
+
+
+[Get Your Tracks From the Strava API and Plot Them on Leaflet Maps](https://www.r-bloggers.com/get-your-tracks-from-the-strava-api-and-plot-them-on-leaflet-maps/amp/)
+
+
+[Greybox Package for R](https://www.r-bloggers.com/greybox-package-for-r/amp/)
+
+
+[Tutorials for Learning R](https://www.r-bloggers.com/how-to-learn-r-2/)
+
+
+[How to Plot With Dygraphs: Exercises](https://www.r-bloggers.com/how-to-plot-with-dygraphs-exercises/amp/)
+
+
+[Icon: Web Icons for Rmarkdown](https://www.r-bloggers.com/icon-web-icons-for-rmarkdown/)
+
+
+[Introducing Datazar Paper](https://www.r-bloggers.com/introducing-datazar-paper/)
+
+
+[Intro to FFTree Exercise](https://www.r-bloggers.com/intro-to-fftree-exercise/)
+
+
+[My Book “Deep Learning From First Principles” Now on Amazon](https://www.r-bloggers.com/my-book-deep-learning-from-first-principles-now-on-amazon/)
+
+
+[Ordinal Data](https://www.r-bloggers.com/ordinal-data/)
+
+
+[Purrr Like a Kitten Till the Lake Pipes RoaR](https://www.r-bloggers.com/purrr-like-a-kitten-till-the-lake-pipes-roar/amp/)
+
+
+[Qualitative Data Science: Using RQDA to Analyse Interviews](https://www.r-bloggers.com/qualitative-data-science-using-rqda-to-analyse-interviews/amp/)
+
+
+[Rectangling Onboarding](https://www.r-bloggers.com/rectangling-onboarding/amp/)
+
+
+[Reliability Chapter Added to “Empirical Software Engineering Using R”](https://www.r-bloggers.com/reliability-chapter-added-to-empirical-software-engineering-using-r/)
+
+
+[Remove Password Protection From Excel Sheets Using R](https://www.r-bloggers.com/remove-password-protection-from-excel-sheets-using-r/amp/)
+
+
+[RStudio:Addins Part 1. – Code Reproducibility Testing](https://www.r-bloggers.com/rstudioaddins-part-1-code-reproducibility-testing/amp/)
+
+
+[RStudio:Addins Part 2 – Roxygen Documentation Formatting Made Easy](https://www.r-bloggers.com/rstudioaddins-part-2-roxygen-documentation-formatting-made-easy/amp/)
+
+
+[Slides From My JAX 2018 Talk: Deep Learning – a Primer](https://www.r-bloggers.com/slides-from-my-jax-2018-talk-deep-learning-a-primer/amp/)
+
+
+[Statistical Sins: Is Your Classification Model Any Good?](https://www.r-bloggers.com/statistical-sins-is-your-classification-model-any-good/amp/)
+
+
+[Statistics Sunday: Conducting Meta-Analysis in R](https://www.r-bloggers.com/statistics-sunday-conducting-meta-analysis-in-r/amp/)
+
+
+[Statistics Sunday: Tokenizing Text](https://www.r-bloggers.com/statistics-sunday-tokenizing-text/amp/)
+
+
+[Statistics Sunday: Welcome to Sentiment Analysis With “Hotel California”](https://www.r-bloggers.com/statistics-sunday-welcome-to-sentiment-analysis-with-hotel-california/amp/)
+
+
+[Teaching an Advanced R Course](https://www.r-bloggers.com/teaching-an-advanced-r-course/)
+
+
+[Tidying Messy Excel Data (Introduction)](https://www.r-bloggers.com/tidying-messy-excel-data-introduction/)
+
+
+[To Purrr or Not to Purrr](https://www.r-bloggers.com/to-purrr-or-not-to-purrr/)
+
+
+[Understanding PCA Using Stack Overflow Data](https://www.r-bloggers.com/understanding-pca-using-stack-overflow-data/amp/)
+
+
+[Why You Should Regret Not Going to eRum 2018?](https://www.r-bloggers.com/why-you-should-regret-not-going-to-erum-2018/)
+
+
+[Wrapr 1.4.1 Now Up on CRAN](https://www.r-bloggers.com/wrapr-1-4-1-now-up-on-cran/amp/)
+
+
+[Writing Better R Functions Part Four – April 17, 2018](https://www.r-bloggers.com/writing-better-r-functions-part-four-april-17-2018/)
+
+
+[X Is for By](https://www.r-bloggers.com/x-is-for-by/amp/)
+
+
+[Z Is for Z-Scores and Standardizing](https://www.r-bloggers.com/z-is-for-z-scores-and-standardizing/amp/)
+
+
+[Leaderboard](https://www.rdocumentation.org/trends?page1=3&sort1=direct&page2=1&sort2=total&page3=1&page4=1)
+
+
+[The Number of Job Applications It Took to Become a Viz Practitioner [OC]](https://www.reddit.com/r/dataisbeautiful/comments/8ggpfo/the_number_of_job_applications_it_took_to_become/?st=JGPAQWXW&sh=016299eb)
+
+
+[Is There Any Serious Computer Science Course Available for Free Online?](https://www.reddit.com/r/IWantToLearn/comments/8kttv1/is_there_any_serious_computer_science_course/?st=JHFP0QUA&sh=36b7ef38)
+
+
+[Non-Standard Evaluations Example](https://www.reddit.com/r/Rlanguage/comments/8gaw6t/nonstandard_evaluations_example/?st=JGOMGPPX&sh=2955447f)
+
+
+[Any Ideas for Some Projects I Can Do to Show Off My Knowledge of R?](https://www.reddit.com/r/Rlanguage/comments/8i35fl/any_ideas_for_some_projects_i_can_do_to_show_off/?st=JGYLSTF9&sh=212e6066)
+
+
+[Any Ideas for Some Projects I Can Do to Show Off My Knowledge of R?](https://www.reddit.com/r/Rlanguage/comments/8i35fl/any_ideas_for_some_projects_i_can_do_to_show_off/?st=JGZNXNTH&sh=dff568aa)
+
+
+[Top 20 R Libraries for Data Science in 2018 [Infographic]](https://www.reddit.com/r/Rlanguage/comments/8l9fgr/top_20_r_libraries_for_data_science_in_2018/?st=JHHT40NH&sh=56731e5a)
+
+
+[In RStudio, How Do You Decide Which Code Goes in Your RMarkdown Document and Which Code Goes in Your RScript?](https://www.reddit.com/r/rstats/comments/5t8s2h/in_rstudio_how_do_you_decide_which_code_goes_in/)
+
+
+[R for Psych Students? Beginner](https://www.reddit.com/r/rstats/comments/8arr3v/r_for_psych_students_beginner/?st=JFSBHANY&sh=b36ca40f)
+
+
+[Anyone Tried Some Analysis on Your Own Facebook Data? How to Get HTM Files Into RStudio?](https://www.reddit.com/r/rstats/comments/8d04jh/anyone_tried_some_analysis_on_your_own_facebook/?st=JG47SLV2&sh=a3fdb179)
+
+
+[Organization Best Practices- Is It Better to Have Separate Files for Data Importing+Cleaning, Function Creation, Analysis Etc. That Link to Each Other, or to Put Everything in One R File?](https://www.reddit.com/r/rstats/comments/8ey75t/organization_best_practices_is_it_better_to_have/?st=JGFSAVJT&sh=cc463478)
+
+
+[Introduction to Compositional Data Analysis in R - Preferably With a Geoscience Background](https://www.reddit.com/r/rstats/comments/8gh7mj/introduction_to_compositional_data_analysis_in_r/?st=JGP9AT1Z&sh=469d65da)
+
+
+[Every. Damn. Time.](https://www.reddit.com/r/rstats/comments/8gj0ry/every_damn_time/?st=JGPLKG6C&sh=ff75d805)
+
+
+[Replace data frame names in formula en masse](https://www.reddit.com/r/rstats/comments/8gr9yt/replace_data_frame_names_in_formula_en_masse/?st=JGQZVPE7&sh=d107f53c)
+
+
+[Resources for Data Imputation?](https://www.reddit.com/r/rstats/comments/8iokrl/resources_for_data_imputation/?st=JH28FVR8&sh=af8f2f02)
+
+
+[Announcement: New Package for Providing Interactive Interpretations and Explanations for Statistical Results](https://www.reddit.com/r/rstats/comments/8jf41q/announcement_new_package_for_providing/?st=JH6XR2AV&sh=a473a57c)
+
+
+[Publish R Markdown to DataScience+ via Your Editor (i.e., RStudio) and Promote You Work](https://www.reddit.com/r/rstats/comments/8jkry9/publish_r_markdown_to_datascience_via_your_editor/?st=JH82ZORK&sh=1bee25d6)
+
+
+[Machine Learning and Its Applications](https://www.reddit.com/r/rstats/comments/8jui4j/machine_learning_and_its_applications/?st=JH95P6J0&sh=92ae98bd)
+
+
+[Soliciting Reactions to My Portfolio Project](https://www.reddit.com/r/rstats/comments/8jw5lz/soliciting_reactions_to_my_portfolio_project/?st=JH9PQ3GI&sh=ab711c9b)
+
+
+[How Do I Use Latent Growth Curve Analysis in R?](https://www.reddit.com/r/rstats/comments/8klfga/how_do_i_use_latent_growth_curve_analysis_in_r/?st=JHDSQQC5&sh=cae35385)
+
+
+[Create Waterfall Charts Using R & Ggplot2](https://www.reddit.com/r/rstats/comments/8ks2lj/create_waterfall_charts_using_r_ggplot2/?st=JHF037L3&sh=e1414a1c)
+
+
+["Errors in Statistics for Medical Research". Any Suggestions?](https://www.reddit.com/r/statistics/comments/8cw4i4/errors_in_statistics_for_medical_research_any/?st=JG3RS3HY&sh=e100e2b8)
+
+
+[LongCatEDA: an R Package to Visualize Longitudinal Change in Categorical Variables](https://www.reddit.com/r/statistics/comments/8e2rlp/longcateda_an_r_package_to_visualize_longitudinal/?st=JGAWBIUQ&sh=a2e2fe9d)
+
+
+[Odds Ratio and Its Relevance in Case Control / Cohort Studies](https://www.reddit.com/r/statistics/comments/8f8mtm/odds_ratio_and_its_relevance_in_case_control/?st=JGHFVV1B&sh=aab16f60)
+
+
+[Help Interpreting Ordinal Logistic Regression Odds Ratios?](https://www.reddit.com/r/statistics/comments/8guc0k/help_interpreting_ordinal_logistic_regression/?st=JGRGZ6KX&sh=48e9e33e)
+
+
+[Getting Hired as a Data Scientist](https://www.reddit.com/r/statistics/comments/8ieikb/getting_hired_as_a_data_scientist/?st=JH0U1J4K&sh=1e9a3b55)
+
+
+[Best Resources to Self-Study Graduate Statistics?](https://www.reddit.com/r/statistics/comments/8jqv3l/best_resources_to_selfstudy_graduate_statistics/?st=JH8K1JLI&sh=e39322d7)
+
+
+[Data Visualisation COMPETITION](https://www.reddit.com/r/visualization/comments/8io6wo/data_visualisation_competition/?st=JH297DXI&sh=07e5f8e6)
+
+
+[Pimp My RMD: a Few Tips for R Markdown](https://www.r-graph-gallery.com/pimp-my-rmd-a-few-tips-for-r-markdown/)
+
+
+[Extreme Makeover: R Graphics Edition](https://www.stat.auckland.ac.nz/%7Epaul/Reports/deviceloc/deviceloc.html)
+
+
+[Text Mining With R](https://www.tidytextmining.com/index.html)
+
+
+[Project-Oriented Workflow](https://www.tidyverse.org/articles/2017/12/workflow-vs-script/)
+
+
+[Data fallacies to avoid](https://www.geckoboard.com/assets/data-fallacies-to-avoid.pdf)
 
  
 ------
