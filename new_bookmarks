@@ -9,3 +9,7 @@
 * [Understanding Probability, Odds, and Odds Ratios in Logistic Regression](http://thecraftofstatisticalanalysis.com/understanding-probability-odds-ratios-regression/)
 
 * [Some ideas on communicating risks to the general public](http://www.decisionsciencenews.com/2010/12/03/some-ideas-on-communicating-risks-to-the-general-public/)
+
+    + Natural frequencies instead of probabilities
+    + Consider the colorectal cancer example given previously. Only 1 in 24 doctors tested could give the correct answer. The following, mathematically-equivalent, representation of the problem was given to doctors (also from [3]):
+    + __Out of every 10,000 people, 30 have colorectal cancer. Of these 30, 15 will have a positive haemoccult test. Out of the remaining 9,970 people without colorectal cancer, 300 will still test positive. How many of those who test positive actually have colorectal cancer?__
