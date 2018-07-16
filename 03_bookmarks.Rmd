@@ -1146,3 +1146,124 @@ Data Analytics Classroom
 
  
 ------
+
+## From ipad 7/16
+
+[New Course: Marketing Analytics in R](https://www.r-bloggers.com/new-course-marketing-analytics-in-r/)
+
+
+[Formatted Correlation With Effect Size](https://www.r-bloggers.com/formatted-correlation-with-effect-size/)
+
+
+[ReproducibleResearch](https://www.rdocumentation.org/taskviews#ReproducibleResearch)
+
+
+[[Ggplot2] Welcome Viridis !](https://www.r-bloggers.com/ggplot2-welcome-viridis/)
+
+
+[Data Science for Business: 3 Reasons You Need to Learn the Expected Value Framework](https://www.r-bloggers.com/data-science-for-business-3-reasons-you-need-to-learn-the-expected-value-framework/)
+
+
+[What You Can Expect From R](https://mran.microsoft.com/documents/what-is-r/)
+
+
+[In Case You Missed It: June 2018 Roundup](https://www.r-bloggers.com/in-case-you-missed-it-june-2018-roundup/)
+
+
+[Global Migration, Animated With R](http://blog.revolutionanalytics.com/2018/06/global-migration-animated-with-r.html)
+
+
+[Should You Learn R or Python for Data Science?](http://blog.revolutionanalytics.com/2018/06/python-or-r.html)
+
+
+[The Financial Times and BBC Use R for Publication Graphics](http://blog.revolutionanalytics.com/2018/06/ft-bbc-uses-r.html)
+
+
+[A Guide to Working With Character Data in R](http://blog.revolutionanalytics.com/2018/06/handling-strings-with-r.html)
+
+
+[](http://i.qa.viglink.com/?key=9c219f6b27c7571a83003d3349a56c73&insertId=356858bd&type=CD&exp=-100%3ACILITE%3A1&libId=jjhbf81x01021u9s000TA19hbkh5unk1bq&loc=https%3A%2F%2Fwww.r-bloggers.com%2Fin-case-you-missed-it-june-2018-roundup%2F&v=1&out=http%3A%2F%2Fscribd.evyy.net%2Fc%2F27795%2F402022%2F4417&title=In%20case%20you%20missed%20it%3A%20June%202018%20roundup%20%7C%20R-bloggers&txt=%3Cspan%3Ee%3C%2Fspan%3E%3Cspan%3E-%3C%2Fspan%3E%3Cspan%3Ebook%3C%2Fspan%3E)
+
+
+[AI, Machine Learning and Data Science Roundup: June 2018](http://blog.revolutionanalytics.com/2018/06/ai-roundup-june-2018.html)
+
+
+[PYPL Language Rankings: Python Ranks #1, R at #7 in Popularity](http://blog.revolutionanalytics.com/2018/06/pypl-programming-language-trends.html)
+
+
+[Interpreting Machine Learning Models With the Lime Package for R](http://blog.revolutionanalytics.com/2018/06/lime-package.html)
+
+
+[Detecting Unconscious Bias in Models, With R](http://blog.revolutionanalytics.com/2018/06/understanding-bias.html)
+
+
+[Microsoft R Open 3.5.0 Now Available](http://blog.revolutionanalytics.com/2018/06/microsoft-r-open-350-now-available.html)
+
+
+[Hotfix for Microsoft R Open 3.5.0 on Linux](http://blog.revolutionanalytics.com/2018/06/hotfix-for-mro-350-on-linux.html)
+
+
+[What's New in Azure for Machine Learning and AI](http://blog.revolutionanalytics.com/2018/06/whats-new-in-azure-for-machine-learning-and-ai.html)
+
+
+[How the Odds Ratio Confounds: a Brief Study in a Few Colorful Figures](https://www.r-bloggers.com/how-the-odds-ratio-confounds-a-brief-study-in-a-few-colorful-figures/)
+
+
+[Writing Pipe-Friendly Functions](https://www.r-bloggers.com/writing-pipe-friendly-functions/)
+
+
+[Time Series Analysis With Documentation and Steps I Follow for Analytics Projects.](https://laranikalranalytics.blogspot.com/2018/07/time-series-analysis-with-documentation.html)
+
+
+[Dealing With Heteroskedasticity; Regression With Robust Standard Errors Using R](https://www.r-bloggers.com/dealing-with-heteroskedasticity-regression-with-robust-standard-errors-using-r/)
+
+
+[New Course: Interactive Maps With Leaflet in R](https://www.r-bloggers.com/new-course-interactive-maps-with-leaflet-in-r/)
+
+
+[Life (Expectancy), Animated](https://www.r-bloggers.com/life-expectancy-animated/)
+
+
+[Survey Your Audience and Visualise the Results With R and Google Forms](https://www.r-bloggers.com/survey-your-audience-and-visualise-the-results-with-r-and-google-forms/)
+
+
+[Tidily Evaluated Ggplot2](https://www.johnmackintosh.com/2018-07-04-tidily-evaluated-ggplot2/)
+
+
+[More Tidy Evaluation With Ggplot2](https://www.r-bloggers.com/more-tidy-evaluation-with-ggplot2/)
+
+
+[Data Summary in One Go](https://costaleconomist.blogspot.com/2018/07/data-summary-in-one-go.html)
+
+
+[Predict Customer Churn With Gradient Boosting](https://www.r-bloggers.com/predict-customer-churn-with-gradient-boosting/)
+
+
+[Seplyr 0.5.8 Now Available on CRAN](https://www.r-bloggers.com/seplyr-0-5-8-now-available-on-cran/)
+
+
+[Handling Outliers With R](https://www.r-bloggers.com/handling-outliers-with-r/)
+
+
+[Missing Data Imputation and Instrumental Variables Regression: the Tidy Approach](https://www.r-bloggers.com/missing-data-imputation-and-instrumental-variables-regression-the-tidy-approach/)
+
+
+[New Course: Python for R Users](https://www.r-bloggers.com/new-course-python-for-r-users/)
+
+
+[From Data to Viz | Find the Graphic You Need](https://www.r-bloggers.com/from-data-to-viz-find-the-graphic-you-need/)
+
+
+[Why I Rarely Use Apply](https://www.r-bloggers.com/why-i-rarely-use-apply/)
+
+
+[Customizing Styler – the Quick Way](https://www.r-bloggers.com/customizing-styler-the-quick-way/)
+
+
+[Continuous Deployment of Package Documentation With Pkgdown and Travis CI](https://www.r-bloggers.com/continuous-deployment-of-package-documentation-with-pkgdown-and-travis-ci/)
+
+
+**[Six Sigma DMAIC Series in R – Part 3](https://www.r-bloggers.com/six-sigma-dmaic-series-in-r-part-3/)**
+
+
+
