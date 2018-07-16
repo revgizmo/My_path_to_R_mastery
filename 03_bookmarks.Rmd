@@ -1266,4 +1266,116 @@ Data Analytics Classroom
 **[Six Sigma DMAIC Series in R – Part 3](https://www.r-bloggers.com/six-sigma-dmaic-series-in-r-part-3/)**
 
 
+## iPhone Notes 7/16
+
+Check out fwrite for csv in and out
+How to Perform a Logistic Regression in R | DataScience+
+Validate package to include data frame of testing from not so standard deviations episode 18 asser from r open Sci 
+
+[Switching to Blogdown, Netlify and Travis](https://lorenzwalthert.netlify.com/posts/getting-up-and-running-with-blogdown-netlify-and-travis/)
+
+
+[We Use Cookies on Kaggle to Deliver Our Services, Analyze Web Traffic, and Improve Your Experience on the Site. by Using Kaggle, You Agree to Our Use of Cookies.](https://www.kaggle.com/learn/r)
+
+
+[Anybody Interested in Analyzing Last Summer's /R/Statistics User Survey?](https://www.reddit.com/r/statistics/comments/8u2zna/anybody_interested_in_analyzing_last_summers/?st=JIW4NIHQ&sh=2933ccee)
+
+
+[Models Are About What Changes, and What Doesn’t](https://www.r-bloggers.com/models-are-about-what-changes-and-what-doesnt/)
+
+
+[May 2018: “Top 40” New Packages](https://www.r-bloggers.com/may-2018-top-40-new-packages/)
+
+
+[A List of Over 1,000 Datasets Available in R Packages](https://www.reddit.com/r/rstats/comments/8tyezj/a_list_of_over_1000_datasets_available_in_r/?st=JIWEBAEI&sh=ca19998d)
+
+
+[A List of Over 1,000 Datasets Available in R Packages](https://www.reddit.com/r/rstats/comments/8tyezj/a_list_of_over_1000_datasets_available_in_r/?st=JIWEBAEI&sh=ca19998d)
+
+
+Tidy text package used for Frump text analysis 
+
+Check out 538 R analyses on GitHub 
+
+Check out show notes from not so standard deviations episode 23 Walt Hickey
+
+
+[Extract FRED Data for OLS Regression Analysis: a Complete R Tutorial](https://www.reddit.com/r/rstats/comments/8udyhj/extract_fred_data_for_ols_regression_analysis_a/?st=JIXRG4R1&sh=be56fdd8)
+
+
+[Extract FRED Data for OLS Regression Analysis: a Complete R Tutorial](https://www.reddit.com/r/rstats/comments/8udyhj/extract_fred_data_for_ols_regression_analysis_a/?st=JIXRG4R1&sh=be56fdd8)
+
+
+[Global, Arctic and Antarctic Sea-Ice Area Barrel - June 2018 [OC]](https://www.reddit.com/r/dataisbeautiful/comments/8v6a2w/global_arctic_and_antarctic_seaice_area_barrel/?st=JJ2UYMT4&sh=dac5f118)
+
+
+[My "Frite" Package Was Just Published by Cran. It Provides Basic Tools for Code Generation and Diagnostic Functions That Are Useful in Everyday Scenarios.](https://www.reddit.com/r/rstats/comments/8vjusr/my_frite_package_was_just_published_by_cran_it/?st=JJ4T9PJJ&sh=b413f0cb)
+
+
+[My "Frite" Package Was Just Published by Cran. It Provides Basic Tools for Code Generation and Diagnostic Functions That Are Useful in Everyday Scenarios.](https://www.reddit.com/r/rstats/comments/8vjusr/my_frite_package_was_just_published_by_cran_it/?st=JJ4T9PJJ&sh=b413f0cb)
+
+
+[Time Series Analysis in R - for All Data Science Lovers](https://www.reddit.com/r/Rlanguage/comments/8vptak/time_series_analysis_in_r_for_all_data_science/?st=JJ5ALAKB&sh=ec941a9e)
+
+
+[Comparison of Top Data Science Libraries for Python, R and Scala [Infographic]](https://www.reddit.com/r/Rlanguage/comments/8vqwjf/comparison_of_top_data_science_libraries_for/?st=JJ5R2PM5&sh=088f9ad8)
+
+
+[Comparison of Top Data Science Libraries for Python, R and Scala [Infographic]](https://www.reddit.com/r/Rlanguage/comments/8vqwjf/comparison_of_top_data_science_libraries_for/?st=JJ5R2PM5&sh=088f9ad8)
+
+
+[Visualize the World Cup With R! Part 2: Visualizing Changes in the Group Table During the Final Matchday!](https://www.reddit.com/r/rstats/comments/8wbol0/visualize_the_world_cup_with_r_part_2_visualizing/?st=JJ8Z05MM&sh=81cfd5e6)
+
+
+[Visualize the World Cup With R! Part 2: Visualizing Changes in the Group Table During the Final Matchday!](https://www.reddit.com/r/rstats/comments/8wbol0/visualize_the_world_cup_with_r_part_2_visualizing/?st=JJ8Z05MM&sh=81cfd5e6)
+
+
+[Bias in Pre-Post Designs – an Example From the Turnbaugh Et Al (2006) Mouse Fecal Transplant Study](https://www.middleprofessor.com/files/quasipubs/change_scores.html)
+
+
+[Mlr or Caret](https://www.reddit.com/r/Rlanguage/comments/8x0e1i/mlr_or_caret/?st=JJCY9BMD&sh=1a3ac5f4)
+
+
+[Mlr or Caret](https://www.reddit.com/r/Rlanguage/comments/8x0e1i/mlr_or_caret/?st=JJCY9BMD&sh=1a3ac5f4)
+
+
+[How to Build a Data Science Portfolio](https://www.reddit.com/r/datascience/comments/8x4x1x/how_to_build_a_data_science_portfolio/?st=JJDMLHGB&sh=5af99ec1)
+
+
+[How to Build a Data Science Portfolio](https://www.reddit.com/r/datascience/comments/8x4x1x/how_to_build_a_data_science_portfolio/?st=JJDMLHGB&sh=5af99ec1)
+
+
+[Can Someone Help Me Get a Better Understanding of the ROC Curve and Its Applications?](https://www.reddit.com/r/statistics/comments/8x6soo/can_someone_help_me_get_a_better_understanding_of/?st=JJDNTA1H&sh=60fa7480)
+
+
+[Can Someone Help Me Get a Better Understanding of the ROC Curve and Its Applications?](https://www.reddit.com/r/statistics/comments/8x6soo/can_someone_help_me_get_a_better_understanding_of/?st=JJDNTA1H&sh=60fa7480)
+
+
+[How to Update Your Wordpress Website From R](https://www.reddit.com/r/RStudio/comments/8xaore/how_to_update_your_wordpress_website_from_r/?st=JJEBIDZV&sh=5471cc31)
+
+
+[Guide to Becoming an Average Programmer and Infocybersecurity](https://www.reddit.com/r/Hacking_Tutorials/comments/8xb8a6/guide_to_becoming_an_average_programmer_and/?st=JJEWYDR5&sh=57cb61aa)
+
+
+[Guide to Becoming an Average Programmer and Infocybersecurity](https://www.reddit.com/r/Hacking_Tutorials/comments/8xb8a6/guide_to_becoming_an_average_programmer_and/?st=JJEWYDR5&sh=57cb61aa)
+
+
+[R Markdown: the Definitive Guide](https://reddit.app.link/fKnq23M1xO)
+
+
+[R Markdown: the Definitive Guide](https://reddit.app.link/fKnq23M1xO)
+
+
+[Announcing the R Markdown Book](https://www.reddit.com/r/Rlanguage/comments/8yxvmq/announcing_the_r_markdown_book/?st=JJM4KKK5&sh=e1c96cc5)
+
+
+[Announcing the R Markdown Book](https://www.reddit.com/r/Rlanguage/comments/8yxvmq/announcing_the_r_markdown_book/?st=JJM4KKK5&sh=e1c96cc5)
+
+
+[The True Meaning of Confidence Interval](https://www.reddit.com/r/rstats/comments/8z41o7/the_true_meaning_of_confidence_interval/?st=JJN9UE2T&sh=d75fd747)
+
+
+[20 Free Online Courses to Learn Data Science](https://www.reddit.com/r/datascience/comments/8zbd1t/20_free_online_courses_to_learn_data_science/?st=JJOH13CS&sh=6dd306bb)
+
+
 
