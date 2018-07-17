@@ -129,14 +129,97 @@
 
 ## R links/blog posts to read
 
+
+[R workflow fun](https://maraaverick.rbind.io/2017/09/r-workflow-fun/)
+
+* An article about various R workflow tools that the Author found interesting
+
+
+Package ‘fuzzyjoin’
+
+* [fuzzyjoin](https://github.com/dgrtwo/fuzzyjoin)
+
+[Bookdown main site](https://bookdown.org/)    
+
+* [blogdown: Creating Websites with R Markdown (Yihui Xie, Amber Thomas, Alison Presmanes Hill, 2017)](https://bookdown.org/yihui/blogdown/)
+* lots of other book links
+
+
+[Tools for Reproducible Research Spring (Broman 2016)](http://kbroman.org/Tools4RR/)    
+
+* [Writing reproducible reports: knitr with R Markdown (Broman 2016)](http://kbroman.org/Tools4RR/assets/lectures/03_knitr_Rmd.pdf)    
+* [Karl Broman (Broman 2016)](http://kbroman.org/)
+      * Excellent site with lots of discussion of Reproducable research, knitr, and R overall
+* http://kbroman.org/steps2rr/
+
+[Bookdown_Resources, Phil Bowsher, 2017](https://beta.rstudioconnect.com/content/3059/Bookdown_Resources.html)
+
+* Appears to be an excellent resource
+
+[Generate Dynamic R Markdown Blocks](https://stackoverflow.com/questions/21729415/generate-dynamic-r-markdown-blocks)
+
+* Top Answer: Try knit_expand() (Dickson, 2014)
+
+[The R class R programming for biologists](https://r-bio.github.io/01-intro-R/)
+
+* Looks like a good introduction/tutorial to R, RStudio, etc.
+
+[Deeply Trivial](http://www.deeplytrivial.com/)
+
+* Statistics and R
+* [Working with Your Facebook Data in R](http://www.deeplytrivial.com/2018/06/working-with-your-facebook-data-in-r.html)
+
 [Using R and psych for personality and psychological research](https://personality-project.org/r/psych/)    
 
 * Psych package
 
+[I created a tool to automatically extract the most important sentences from an article of text; it also has a physics-based network visualization of the underlying algorithm [OC]](https://www.reddit.com/r/dataisbeautiful/comments/8m9ha6/i_created_a_tool_to_automatically_extract_the/?st=JHNE6JUD&sh=18f33fdf)
+
+
+**[Six Sigma DMAIC Series in R – Part 3](https://www.r-bloggers.com/six-sigma-dmaic-series-in-r-part-3/)**
+
+
+Check out fwrite for csv in and out
+How to Perform a Logistic Regression in R | DataScience+
+Validate package to include data frame of testing from not so standard deviations episode 18 asser from r open Sci 
+
+
+
+[[Ggplot2] Welcome Viridis !](https://www.r-bloggers.com/ggplot2-welcome-viridis/)
+
+
+Tidy text package used for Frump text analysis 
+
+Check out 538 R analyses on GitHub 
+
+Check out show notes from not so standard deviations episode 23 Walt Hickey
+
+[Global, Arctic and Antarctic Sea-Ice Area Barrel - June 2018 [OC]](https://www.reddit.com/r/dataisbeautiful/comments/8v6a2w/global_arctic_and_antarctic_seaice_area_barrel/?st=JJ2UYMT4&sh=dac5f118)
+
+
+[Comparison of Top Data Science Libraries for Python, R and Scala [Infographic]](https://www.reddit.com/r/Rlanguage/comments/8vqwjf/comparison_of_top_data_science_libraries_for/?st=JJ5R2PM5&sh=088f9ad8)
+
+
+[Comparison of Top Data Science Libraries for Python, R and Scala [Infographic]](https://www.reddit.com/r/Rlanguage/comments/8vqwjf/comparison_of_top_data_science_libraries_for/?st=JJ5R2PM5&sh=088f9ad8)
+
+
+
+Data Analytics Classroom 
+
+*	[Lesson 36 – Counts: the Language of Poisson Distribution](http://www.dataanalysisclassroom.com/lesson36/)
+
+
+*	[Lesson 61 – Resto](http://www.dataanalysisclassroom.com/lesson61/)
+
+
+
+
+##Links
+
+
 [Testing · R packages](http://r-pkgs.had.co.nz/tests.html)
 
 [A Framework for Reproducible and Collaborative Data Science • workflowr](https://jdblischak.github.io/workflowr/)
-
 
 [Writing better R functions part four – April 17, 2018 R-bloggers](https://www.r-bloggers.com/writing-better-r-functions-part-four-april-17-2018/)
 
@@ -149,296 +232,6 @@
 [Learning Statistics with R](http://compcogscisydney.org/learning-statistics-with-r/)
 
 [“Are My Scores Good?” Well, Compared to What?](http://customerthink.com/are-my-scores-good-well-compared-to-what/)
-
-http://datasciencemasters.org/
-
-http://kbroman.org/knitr_knutshell/pages/Rmarkdown.html
-
-http://nirvacana.com/thoughts/2013/07/08/becoming-a-data-scientist/
-
-http://nirvacana.com/thoughts/wp-content/uploads/2018/01/RoadToDataScientist1.png
-
-http://stat545.com/packages06_foofactors-package.html
-
-http://uc-r.github.io/
-
-http://varianceexplained.org/r/start-blog/
-
-http://www.bnosac.be/index.php/blog/77-an-overview-of-keyword-extraction-techniques
-
-http://www.dataanalysisclassroom.com/lesson36/
-
-http://www.dataanalysisclassroom.com/lesson61/
-
-http://www.evanmiller.org/how-not-to-sort-by-average-rating.html
-
-http://www.feat.engineering/index.html
-
-http://www.feat.engineering/stroke-tour.html#stroke-exploration
-
-http://www.rcommander.com/
-
-http://www.ryanpraski.com/apple-health-data-how-to-export-analyze-visualize-guide/
-
-http://www.statsflowchart.co.uk/
-
-http://www.win-vector.com/blog/2018/02/r-tip-use-qc-for-fast-legible-quoting/
-
-https://avira.github.io/dsblog/2016-11-18-customer-feedback-drivers.html
-
-https://blog.coursera.org/top-10-blogs-data-scientists/
-
-https://challenge.threesixtygiving.org/faq
-
-https://cran.r-project.org/web/packages/fuzzyjoin/fuzzyjoin.pdf
-
-https://cran.r-project.org/web/packages/remindR/vignettes/remindR_vignette.html
-
-https://daringfireball.net/2018/05/lobe
-
-https://datascienceplus.com/outliers-detection-and-intervention-analysis/
-
-https://devopedia.org/r-plotting-systems
-
-https://dplyr.tidyverse.org/articles/programming.html
-
-https://edomt.github.io/Intermediate-Advanced-R/
-
-https://fivebooks.com/best-books/programming-computer-science-ana-bell/
-
-https://github.com/bearloga/taskviewr
-
-https://github.com/brendan-r/NPS/blob/master/R/nps_tests.R
-
-https://github.com/first20hours/google-10000-english
-
-https://github.com/gertstulp/ggplotgui/blob/master/README.md
-
-https://github.com/google/CausalImpact
-
-https://github.com/jennybc/what-they-forgot/blob/master/README.md
-
-https://github.com/klutometis/roxygen
-
-https://github.com/qinwf/awesome-R
-
-https://github.com/rbind/r-podcast
-
-https://github.com/r-lib/testthat
-
-https://github.com/ropensci/drake/blob/master/README.md
-
-https://github.com/seanchrismurphy/A-Psychologists-Guide-to-R
-
-https://github.com/tidyverse/broom/blob/master/README.md
-
-https://github.com/ujjwalkarn/DataScienceR
-
-https://git-scm.com/book/en/v2
-
-https://mcfromnz.wordpress.com/2011/11/06/kaplan-meier-survival-plot-with-at-risk-table/
-
-https://paulvanderlaken.com/2017/08/10/r-resources-cheatsheets-tutorials-books/
-
-https://paulvanderlaken.com/2018/02/08/rstudioconf-2018-summary/
-
-https://r-podcast.org/episode/007-best-practices-for-workflow-management/
-
-https://rweekly.org/
-
-https://ryo-n7.github.io/2018-04-30-bulletchartr-package-experience/
-
-https://speakerdeck.com/cjlortie/life-data-and-design-decisions
-
-https://speakerdeck.com/jennybc/data-rectangling
-
-https://stackoverflow.com/questions/2286831/how-do-you-combine-revision-control-with-workflow-for-r
-
-https://stackoverflow.com/questions/2712421/r-and-version-control-for-the-solo-data-analyst
-
-https://stackoverflow.com/questions/32817780/what-is-the-r-assignment-operator-for
-
-https://statsbot.co/blog/data-scientist-resume-projects/
-
-https://techcrunch.com/2018/05/05/lobes-ridiculously-simple-machine-learning-platform-aims-to-empower-non-technical-creators/
-
-https://techpinions.com/top-takeaways-from-studying-iphone-x-owners/52639
-
-https://tonyelhabr.rbind.io/posts/data-science-podcasts/
-
-https://towardsdatascience.com/data-science-for-startups-business-intelligence-f4a2ba728e75
-
-https://www.computerworld.com/article/2497464/business-intelligence/top-r-language-resources-to-improve-your-data-skills.html
-
-https://www.datacamp.com/onboarding
-
-https://www.kdnuggets.com/2018/01/primer-web-scraping-r.html/2
-
-https://www.listendata.com/2018/03/regression-analysis.html?m=1
-
-https://www.r-bloggers.com/analyzing-customer-data-from-square/amp/
-
-https://www.r-bloggers.com/an-overview-of-keyword-extraction-techniques/
-
-https://www.r-bloggers.com/an-overview-of-r-with-a-curated-learning-path/
-
-https://www.r-bloggers.com/an-r-tutorial-visual-representation-of-complex-multivariate-relationships-using-the-r-qgraph-package-part-two-repost/
-
-https://www.r-bloggers.com/author/chuck-powell/page/2/
-
-https://www.r-bloggers.com/automated-feature-selection-using-bouncer/amp/
-
-https://www.r-bloggers.com/beautiful-and-powerful-correlation-tables-in-r/amp/
-
-https://www.r-bloggers.com/beautiful-and-powerful-correlation-tables-in-r-2/
-
-https://www.r-bloggers.com/chaid-and-r-when-you-need-explanation-may-15-2018/
-
-https://www.r-bloggers.com/cleaning-up-tables/
-
-https://www.r-bloggers.com/confessions-of-a-data-scientist-why-i-quit-social-media-and-still-cut-my-own-grass/amp/
-
-https://www.r-bloggers.com/create-your-machine-learning-library-from-scratch-with-r-2-5-pca/
-
-https://www.r-bloggers.com/create-your-machine-learning-library-from-scratch-with-r-3-5-knn/
-
-https://www.r-bloggers.com/data-science-for-business-course-launch-in-5-days/
-
-https://www.r-bloggers.com/deep-learning-from-first-principles-in-python-r-and-octave-part-8/amp/
-
-https://www.r-bloggers.com/do-clustering-by-dimensional-collapse/amp/
-
-https://www.r-bloggers.com/enterprise-dashboards-with-r-markdown/
-
-https://www.r-bloggers.com/exploratory-factor-analysis-in-r/
-
-https://www.r-bloggers.com/flow-charts-in-r/amp/
-
-https://www.r-bloggers.com/get-your-tracks-from-the-strava-api-and-plot-them-on-leaflet-maps/amp/
-
-https://www.r-bloggers.com/greybox-package-for-r/amp/
-
-https://www.r-bloggers.com/how-to-learn-r-2/
-
-https://www.r-bloggers.com/how-to-plot-with-dygraphs-exercises/amp/
-
-https://www.r-bloggers.com/icon-web-icons-for-rmarkdown/
-
-https://www.r-bloggers.com/introducing-datazar-paper/
-
-https://www.r-bloggers.com/intro-to-fftree-exercise/
-
-https://www.r-bloggers.com/my-book-deep-learning-from-first-principles-now-on-amazon/
-
-https://www.r-bloggers.com/ordinal-data/
-
-https://www.r-bloggers.com/purrr-like-a-kitten-till-the-lake-pipes-roar/amp/
-
-https://www.r-bloggers.com/qualitative-data-science-using-rqda-to-analyse-interviews/amp/
-
-https://www.r-bloggers.com/rectangling-onboarding/amp/
-
-https://www.r-bloggers.com/reliability-chapter-added-to-empirical-software-engineering-using-r/
-
-https://www.r-bloggers.com/remove-password-protection-from-excel-sheets-using-r/amp/
-
-https://www.r-bloggers.com/rstudioaddins-part-1-code-reproducibility-testing/amp/
-
-https://www.r-bloggers.com/rstudioaddins-part-2-roxygen-documentation-formatting-made-easy/amp/
-
-https://www.r-bloggers.com/slides-from-my-jax-2018-talk-deep-learning-a-primer/amp/
-
-https://www.r-bloggers.com/statistical-sins-is-your-classification-model-any-good/amp/
-
-https://www.r-bloggers.com/statistics-sunday-conducting-meta-analysis-in-r/amp/
-
-https://www.r-bloggers.com/statistics-sunday-tokenizing-text/amp/
-
-https://www.r-bloggers.com/statistics-sunday-welcome-to-sentiment-analysis-with-hotel-california/amp/
-
-https://www.r-bloggers.com/teaching-an-advanced-r-course/
-
-https://www.r-bloggers.com/tidying-messy-excel-data-introduction/
-
-https://www.r-bloggers.com/to-purrr-or-not-to-purrr/
-
-https://www.r-bloggers.com/understanding-pca-using-stack-overflow-data/amp/
-
-https://www.r-bloggers.com/why-you-should-regret-not-going-to-erum-2018/
-
-https://www.r-bloggers.com/wrapr-1-4-1-now-up-on-cran/amp/
-
-https://www.r-bloggers.com/writing-better-r-functions-part-four-april-17-2018/
-
-https://www.r-bloggers.com/x-is-for-by/amp/
-
-https://www.r-bloggers.com/z-is-for-z-scores-and-standardizing/amp/
-
-https://www.rdocumentation.org/trends?page1=3&sort1=direct&page2=1&sort2=total&page3=1&page4=1
-
-https://www.reddit.com/r/dataisbeautiful/comments/8ggpfo/the_number_of_job_applications_it_took_to_become/?st=JGPAQWXW&sh=016299eb
-
-https://www.reddit.com/r/IWantToLearn/comments/8kttv1/is_there_any_serious_computer_science_course/?st=JHFP0QUA&sh=36b7ef38
-
-https://www.reddit.com/r/Rlanguage/comments/8gaw6t/nonstandard_evaluations_example/?st=JGOMGPPX&sh=2955447f
-
-https://www.reddit.com/r/Rlanguage/comments/8i35fl/any_ideas_for_some_projects_i_can_do_to_show_off/?st=JGYLSTF9&sh=212e6066
-
-https://www.reddit.com/r/Rlanguage/comments/8i35fl/any_ideas_for_some_projects_i_can_do_to_show_off/?st=JGZNXNTH&sh=dff568aa
-
-https://www.reddit.com/r/Rlanguage/comments/8l9fgr/top_20_r_libraries_for_data_science_in_2018/?st=JHHT40NH&sh=56731e5a
-
-https://www.reddit.com/r/rstats/comments/5t8s2h/in_rstudio_how_do_you_decide_which_code_goes_in/
-
-https://www.reddit.com/r/rstats/comments/8arr3v/r_for_psych_students_beginner/?st=JFSBHANY&sh=b36ca40f
-
-https://www.reddit.com/r/rstats/comments/8d04jh/anyone_tried_some_analysis_on_your_own_facebook/?st=JG47SLV2&sh=a3fdb179
-
-https://www.reddit.com/r/rstats/comments/8ey75t/organization_best_practices_is_it_better_to_have/?st=JGFSAVJT&sh=cc463478
-
-https://www.reddit.com/r/rstats/comments/8gh7mj/introduction_to_compositional_data_analysis_in_r/?st=JGP9AT1Z&sh=469d65da
-
-https://www.reddit.com/r/rstats/comments/8gj0ry/every_damn_time/?st=JGPLKG6C&sh=ff75d805
-
-https://www.reddit.com/r/rstats/comments/8gr9yt/replace_data_frame_names_in_formula_en_masse/?st=JGQZVPE7&sh=d107f53c
-
-https://www.reddit.com/r/rstats/comments/8iokrl/resources_for_data_imputation/?st=JH28FVR8&sh=af8f2f02
-
-https://www.reddit.com/r/rstats/comments/8jf41q/announcement_new_package_for_providing/?st=JH6XR2AV&sh=a473a57c
-
-https://www.reddit.com/r/rstats/comments/8jkry9/publish_r_markdown_to_datascience_via_your_editor/?st=JH82ZORK&sh=1bee25d6
-
-https://www.reddit.com/r/rstats/comments/8jui4j/machine_learning_and_its_applications/?st=JH95P6J0&sh=92ae98bd
-
-https://www.reddit.com/r/rstats/comments/8jw5lz/soliciting_reactions_to_my_portfolio_project/?st=JH9PQ3GI&sh=ab711c9b
-
-https://www.reddit.com/r/rstats/comments/8klfga/how_do_i_use_latent_growth_curve_analysis_in_r/?st=JHDSQQC5&sh=cae35385
-
-https://www.reddit.com/r/rstats/comments/8ks2lj/create_waterfall_charts_using_r_ggplot2/?st=JHF037L3&sh=e1414a1c
-
-https://www.reddit.com/r/statistics/comments/8cw4i4/errors_in_statistics_for_medical_research_any/?st=JG3RS3HY&sh=e100e2b8
-
-https://www.reddit.com/r/statistics/comments/8e2rlp/longcateda_an_r_package_to_visualize_longitudinal/?st=JGAWBIUQ&sh=a2e2fe9d
-
-https://www.reddit.com/r/statistics/comments/8f8mtm/odds_ratio_and_its_relevance_in_case_control/?st=JGHFVV1B&sh=aab16f60
-
-https://www.reddit.com/r/statistics/comments/8guc0k/help_interpreting_ordinal_logistic_regression/?st=JGRGZ6KX&sh=48e9e33e
-
-https://www.reddit.com/r/statistics/comments/8ieikb/getting_hired_as_a_data_scientist/?st=JH0U1J4K&sh=1e9a3b55
-
-https://www.reddit.com/r/statistics/comments/8jqv3l/best_resources_to_selfstudy_graduate_statistics/?st=JH8K1JLI&sh=e39322d7
-
-https://www.reddit.com/r/visualization/comments/8io6wo/data_visualisation_competition/?st=JH297DXI&sh=07e5f8e6
-
-https://www.r-graph-gallery.com/pimp-my-rmd-a-few-tips-for-r-markdown/
-
-https://www.stat.auckland.ac.nz/~paul/Reports/deviceloc/deviceloc.html
-
-https://www.tidytextmining.com/index.html
-
-https://www.tidyverse.org/articles/2017/12/workflow-vs-script/
-
-https://www.geckoboard.com/assets/data-fallacies-to-avoid.pdf
 
 [A guide to working with character data in R](https://www.r-bloggers.com/a-guide-to-working-with-character-data-in-r/)
 
@@ -478,8 +271,6 @@ https://www.geckoboard.com/assets/data-fallacies-to-avoid.pdf
 
 [https://dm13450.github.io/2018/06/12/Isle-of-Man-TT.html](https://dm13450.github.io/2018/06/12/Isle-of-Man-TT.html)
 
-[I created a tool to automatically extract the most important sentences from an article of text; it also has a physics-based network visualization of the underlying algorithm [OC]](https://www.reddit.com/r/dataisbeautiful/comments/8m9ha6/i_created_a_tool_to_automatically_extract_the/?st=JHNE6JUD&sh=18f33fdf)
-
 [Interview Challenge with One of the Biggest Tech Companies](https://www.reddit.com/r/RStudio/comments/8nghxk/interview_challenge_with_one_of_the_biggest_tech/?st=JHUL6L1Q&sh=98e0e003)
 
 [Introduction to DataExplorer](https://cran.r-project.org/web/packages/DataExplorer/vignettes/dataexplorer-intro.html)
@@ -518,49 +309,7 @@ https://www.geckoboard.com/assets/data-fallacies-to-avoid.pdf
 
 [wrapr 1.5.0 available on CRAN](https://www.r-bloggers.com/wrapr-1-5-0-available-on-cran/)
 
-[R workflow fun](https://maraaverick.rbind.io/2017/09/r-workflow-fun/)
-
-* An article about various R workflow tools that the Author found interesting
-
 [xplain package](https://twitter.com/jsugarelli/status/992121083254984705?s=12)
-
-Package ‘fuzzyjoin’
-
-* [fuzzyjoin](https://github.com/dgrtwo/fuzzyjoin)
-
-[Bookdown main site](https://bookdown.org/)    
-
-* [blogdown: Creating Websites with R Markdown (Yihui Xie, Amber Thomas, Alison Presmanes Hill, 2017)](https://bookdown.org/yihui/blogdown/)
-* lots of other book links
-
-
-[Tools for Reproducible Research Spring (Broman 2016)](http://kbroman.org/Tools4RR/)    
-
-* [Writing reproducible reports: knitr with R Markdown (Broman 2016)](http://kbroman.org/Tools4RR/assets/lectures/03_knitr_Rmd.pdf)    
-* [Karl Broman (Broman 2016)](http://kbroman.org/)
-      * Excellent site with lots of discussion of Reproducable research, knitr, and R overall
-* http://kbroman.org/steps2rr/
-
-[Bookdown_Resources, Phil Bowsher, 2017](https://beta.rstudioconnect.com/content/3059/Bookdown_Resources.html)
-
-* Appears to be an excellent resource
-
-[Generate Dynamic R Markdown Blocks](https://stackoverflow.com/questions/21729415/generate-dynamic-r-markdown-blocks)
-
-* Top Answer: Try knit_expand() (Dickson, 2014)
-
-[The R class R programming for biologists](https://r-bio.github.io/01-intro-R/)
-
-* Looks like a good introduction/tutorial to R, RStudio, etc.
-
-[Deeply Trivial](http://www.deeplytrivial.com/)
-
-* Statistics and R
-* [Working with Your Facebook Data in R](http://www.deeplytrivial.com/2018/06/working-with-your-facebook-data-in-r.html)
-
-------
-
-## R notes 2 (converted to MD) iPad 
 
 [April 2018: “Top 40” New Packages](https://www.r-bloggers.com/april-2018-top-40-new-packages/)
 
@@ -731,13 +480,6 @@ Package ‘fuzzyjoin’
 
 
 [An Overview of Keyword Extraction Techniques](http://www.bnosac.be/index.php/blog/77-an-overview-of-keyword-extraction-techniques)
-
-Data Analytics Classroom 
-
-*	[Lesson 36 – Counts: the Language of Poisson Distribution](http://www.dataanalysisclassroom.com/lesson36/)
-
-
-*	[Lesson 61 – Resto](http://www.dataanalysisclassroom.com/lesson61/)
 
 
 [How Not to Sort by Average Rating](http://www.evanmiller.org/how-not-to-sort-by-average-rating.html)
@@ -1144,10 +886,6 @@ Data Analytics Classroom
 
 [Data fallacies to avoid](https://www.geckoboard.com/assets/data-fallacies-to-avoid.pdf)
 
- 
-------
-
-## From ipad 7/16
 
 [New Course: Marketing Analytics in R](https://www.r-bloggers.com/new-course-marketing-analytics-in-r/)
 
@@ -1157,8 +895,6 @@ Data Analytics Classroom
 
 [ReproducibleResearch](https://www.rdocumentation.org/taskviews#ReproducibleResearch)
 
-
-[[Ggplot2] Welcome Viridis !](https://www.r-bloggers.com/ggplot2-welcome-viridis/)
 
 
 [Data Science for Business: 3 Reasons You Need to Learn the Expected Value Framework](https://www.r-bloggers.com/data-science-for-business-3-reasons-you-need-to-learn-the-expected-value-framework/)
@@ -1180,10 +916,6 @@ Data Analytics Classroom
 
 
 [A Guide to Working With Character Data in R](http://blog.revolutionanalytics.com/2018/06/handling-strings-with-r.html)
-
-
-[](http://i.qa.viglink.com/?key=9c219f6b27c7571a83003d3349a56c73&insertId=356858bd&type=CD&exp=-100%3ACILITE%3A1&libId=jjhbf81x01021u9s000TA19hbkh5unk1bq&loc=https%3A%2F%2Fwww.r-bloggers.com%2Fin-case-you-missed-it-june-2018-roundup%2F&v=1&out=http%3A%2F%2Fscribd.evyy.net%2Fc%2F27795%2F402022%2F4417&title=In%20case%20you%20missed%20it%3A%20June%202018%20roundup%20%7C%20R-bloggers&txt=%3Cspan%3Ee%3C%2Fspan%3E%3Cspan%3E-%3C%2Fspan%3E%3Cspan%3Ebook%3C%2Fspan%3E)
-
 
 [AI, Machine Learning and Data Science Roundup: June 2018](http://blog.revolutionanalytics.com/2018/06/ai-roundup-june-2018.html)
 
@@ -1263,15 +995,6 @@ Data Analytics Classroom
 [Continuous Deployment of Package Documentation With Pkgdown and Travis CI](https://www.r-bloggers.com/continuous-deployment-of-package-documentation-with-pkgdown-and-travis-ci/)
 
 
-**[Six Sigma DMAIC Series in R – Part 3](https://www.r-bloggers.com/six-sigma-dmaic-series-in-r-part-3/)**
-
-
-## iPhone Notes 7/16
-
-Check out fwrite for csv in and out
-How to Perform a Logistic Regression in R | DataScience+
-Validate package to include data frame of testing from not so standard deviations episode 18 asser from r open Sci 
-
 [Switching to Blogdown, Netlify and Travis](https://lorenzwalthert.netlify.com/posts/getting-up-and-running-with-blogdown-netlify-and-travis/)
 
 
@@ -1293,20 +1016,11 @@ Validate package to include data frame of testing from not so standard deviation
 [A List of Over 1,000 Datasets Available in R Packages](https://www.reddit.com/r/rstats/comments/8tyezj/a_list_of_over_1000_datasets_available_in_r/?st=JIWEBAEI&sh=ca19998d)
 
 
-Tidy text package used for Frump text analysis 
-
-Check out 538 R analyses on GitHub 
-
-Check out show notes from not so standard deviations episode 23 Walt Hickey
-
 
 [Extract FRED Data for OLS Regression Analysis: a Complete R Tutorial](https://www.reddit.com/r/rstats/comments/8udyhj/extract_fred_data_for_ols_regression_analysis_a/?st=JIXRG4R1&sh=be56fdd8)
 
 
 [Extract FRED Data for OLS Regression Analysis: a Complete R Tutorial](https://www.reddit.com/r/rstats/comments/8udyhj/extract_fred_data_for_ols_regression_analysis_a/?st=JIXRG4R1&sh=be56fdd8)
-
-
-[Global, Arctic and Antarctic Sea-Ice Area Barrel - June 2018 [OC]](https://www.reddit.com/r/dataisbeautiful/comments/8v6a2w/global_arctic_and_antarctic_seaice_area_barrel/?st=JJ2UYMT4&sh=dac5f118)
 
 
 [My "Frite" Package Was Just Published by Cran. It Provides Basic Tools for Code Generation and Diagnostic Functions That Are Useful in Everyday Scenarios.](https://www.reddit.com/r/rstats/comments/8vjusr/my_frite_package_was_just_published_by_cran_it/?st=JJ4T9PJJ&sh=b413f0cb)
@@ -1317,11 +1031,6 @@ Check out show notes from not so standard deviations episode 23 Walt Hickey
 
 [Time Series Analysis in R - for All Data Science Lovers](https://www.reddit.com/r/Rlanguage/comments/8vptak/time_series_analysis_in_r_for_all_data_science/?st=JJ5ALAKB&sh=ec941a9e)
 
-
-[Comparison of Top Data Science Libraries for Python, R and Scala [Infographic]](https://www.reddit.com/r/Rlanguage/comments/8vqwjf/comparison_of_top_data_science_libraries_for/?st=JJ5R2PM5&sh=088f9ad8)
-
-
-[Comparison of Top Data Science Libraries for Python, R and Scala [Infographic]](https://www.reddit.com/r/Rlanguage/comments/8vqwjf/comparison_of_top_data_science_libraries_for/?st=JJ5R2PM5&sh=088f9ad8)
 
 
 [Visualize the World Cup With R! Part 2: Visualizing Changes in the Group Table During the Final Matchday!](https://www.reddit.com/r/rstats/comments/8wbol0/visualize_the_world_cup_with_r_part_2_visualizing/?st=JJ8Z05MM&sh=81cfd5e6)

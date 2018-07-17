@@ -1,0 +1,337 @@
+<!DOCTYPE html>
+<html >
+
+<head>
+
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>Ongoing blog of Conor’s path to R mastery</title>
+  <meta name="description" content="This is the ongoing blog of Conor’s path to R mastery">
+  <meta name="generator" content="bookdown 0.7 and GitBook 2.6.7">
+
+  <meta property="og:title" content="Ongoing blog of Conor’s path to R mastery" />
+  <meta property="og:type" content="book" />
+  
+  
+  <meta property="og:description" content="This is the ongoing blog of Conor’s path to R mastery" />
+  
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:title" content="Ongoing blog of Conor’s path to R mastery" />
+  
+  <meta name="twitter:description" content="This is the ongoing blog of Conor’s path to R mastery" />
+  
+
+<meta name="author" content="Conor Healy">
+
+
+<meta name="date" content="2018-07-16">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  
+  
+<link rel="prev" href="bookmarks.html">
+<link rel="next" href="other-stuff.html">
+<script src="libs/jquery-2.2.3/jquery.min.js"></script>
+<link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-highlight.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-search.css" rel="stylesheet" />
+<link href="libs/gitbook-2.6.7/css/plugin-fontsettings.css" rel="stylesheet" />
+
+
+
+
+
+
+
+
+
+
+</head>
+
+<body>
+
+
+
+  <div class="book without-animation with-summary font-size-2 font-family-1" data-basepath=".">
+
+    <div class="book-summary">
+      <nav role="navigation">
+
+<ul class="summary">
+<li class="chapter" data-level="1" data-path="index.html"><a href="index.html"><i class="fa fa-check"></i><b>1</b> automatically create a bib database for R packages</a><ul>
+<li class="chapter" data-level="1.1" data-path="index.html"><a href="index.html#key-driver-analysis"><i class="fa fa-check"></i><b>1.1</b> key driver analysis</a><ul>
+<li class="chapter" data-level="1.1.1" data-path="index.html"><a href="index.html#continuous-and-automatic-key-driver-analysis-of-customer-feedback"><i class="fa fa-check"></i><b>1.1.1</b> Continuous and automatic key driver analysis of customer feedback</a></li>
+<li class="chapter" data-level="1.1.2" data-path="index.html"><a href="index.html#elegant-regression-results-tables-and-plots-in-r-the-finalfit-package"><i class="fa fa-check"></i><b>1.1.2</b> Elegant regression results tables and plots in R: the finalfit package</a></li>
+<li class="chapter" data-level="1.1.3" data-path="index.html"><a href="index.html#finalfit-knitr-and-r-markdown-for-quick-results"><i class="fa fa-check"></i><b>1.1.3</b> Finalfit, knitr and R Markdown for quick results</a></li>
+<li class="chapter" data-level="1.1.4" data-path="index.html"><a href="index.html#bookdown-authoring-books-and-technical-documents-with-r-markdown"><i class="fa fa-check"></i><b>1.1.4</b> bookdown: Authoring Books and Technical Documents with R Markdown</a></li>
+<li class="chapter" data-level="1.1.5" data-path="index.html"><a href="index.html#bookdownplus-package"><i class="fa fa-check"></i><b>1.1.5</b> bookdownplus package</a></li>
+<li class="chapter" data-level="1.1.6" data-path="index.html"><a href="index.html#writing-your-thesis-with-bookdown"><i class="fa fa-check"></i><b>1.1.6</b> Writing your thesis with bookdown</a></li>
+<li class="chapter" data-level="1.1.7" data-path="index.html"><a href="index.html#how-to-start-a-bookdown-book"><i class="fa fa-check"></i><b>1.1.7</b> How to Start a Bookdown Book</a></li>
+<li class="chapter" data-level="1.1.8" data-path="index.html"><a href="index.html#mastering-software-development-in-r-continuous-integration"><i class="fa fa-check"></i><b>1.1.8</b> Mastering Software Development in R: Continuous Integration</a></li>
+<li class="chapter" data-level="1.1.9" data-path="index.html"><a href="index.html#happy-git-and-github-for-the-user"><i class="fa fa-check"></i><b>1.1.9</b> Happy Git and GitHub for the useR</a></li>
+<li class="chapter" data-level="1.1.10" data-path="index.html"><a href="index.html#learn-git-branching"><i class="fa fa-check"></i><b>1.1.10</b> Learn Git Branching</a></li>
+<li class="chapter" data-level="1.1.11" data-path="index.html"><a href="index.html#getting-started-with-git-egit-eclipse"><i class="fa fa-check"></i><b>1.1.11</b> getting-started-with-git-egit-eclipse</a></li>
+<li class="chapter" data-level="1.1.12" data-path="index.html"><a href="index.html#github-on-demand-training"><i class="fa fa-check"></i><b>1.1.12</b> Github On Demand Training</a></li>
+<li class="chapter" data-level="1.1.13" data-path="index.html"><a href="index.html#other-git"><i class="fa fa-check"></i><b>1.1.13</b> Other Git</a></li>
+</ul></li>
+<li class="chapter" data-level="1.2" data-path="index.html"><a href="index.html#new-to-r-kickstart-your-learning-and-career-with-these-6-steps"><i class="fa fa-check"></i><b>1.2</b> New to R Kickstart your learning and career with these 6 steps!</a><ul>
+<li class="chapter" data-level="1.2.1" data-path="index.html"><a href="index.html#new-to-r-kickstart-your-learning-and-career-with-these-6-steps-paulvanderlaken.com-paul-van-der-laken-2017"><i class="fa fa-check"></i><b>1.2.1</b> <a href="https://paulvanderlaken.com/2017/10/18/learn-r/">New to R Kickstart your learning and career with these 6 steps! – paulvanderlaken.com (Paul van der Laken, 2017)</a></a></li>
+</ul></li>
+<li class="chapter" data-level="1.3" data-path="index.html"><a href="index.html#r-for-data-science"><i class="fa fa-check"></i><b>1.3</b> R for Data Science</a><ul>
+<li class="chapter" data-level="1.3.1" data-path="index.html"><a href="index.html#r-for-data-science-1"><i class="fa fa-check"></i><b>1.3.1</b> R for Data Science</a></li>
+<li class="chapter" data-level="1.3.2" data-path="index.html"><a href="index.html#r-for-data-science-solutions"><i class="fa fa-check"></i><b>1.3.2</b> R for Data Science Solutions</a></li>
+</ul></li>
+<li class="chapter" data-level="1.4" data-path="index.html"><a href="index.html#other-learning-resources"><i class="fa fa-check"></i><b>1.4</b> Other Learning Resources</a></li>
+<li class="chapter" data-level="1.5" data-path="index.html"><a href="index.html#git"><i class="fa fa-check"></i><b>1.5</b> Git</a><ul>
+<li class="chapter" data-level="1.5.1" data-path="index.html"><a href="index.html#git-ready-learn-git-one-commit-at-a-time"><i class="fa fa-check"></i><b>1.5.1</b> git ready: learn git one commit at a time</a></li>
+</ul></li>
+</ul></li>
+<li class="chapter" data-level="2" data-path="bookmarks.html"><a href="bookmarks.html"><i class="fa fa-check"></i><b>2</b> Bookmarks</a><ul>
+<li class="chapter" data-level="2.1" data-path="bookmarks.html"><a href="bookmarks.html#r-reference"><i class="fa fa-check"></i><b>2.1</b> R Reference</a></li>
+<li class="chapter" data-level="2.2" data-path="bookmarks.html"><a href="bookmarks.html#r-graphs"><i class="fa fa-check"></i><b>2.2</b> R Graphs</a></li>
+<li class="chapter" data-level="2.3" data-path="bookmarks.html"><a href="bookmarks.html#r-sentiment-analysis"><i class="fa fa-check"></i><b>2.3</b> R Sentiment Analysis</a></li>
+<li class="chapter" data-level="2.4" data-path="bookmarks.html"><a href="bookmarks.html#r-stats"><i class="fa fa-check"></i><b>2.4</b> R Stats</a></li>
+<li class="chapter" data-level="2.5" data-path="bookmarks.html"><a href="bookmarks.html#r-markdown"><i class="fa fa-check"></i><b>2.5</b> R Markdown</a></li>
+<li class="chapter" data-level="2.6" data-path="bookmarks.html"><a href="bookmarks.html#r-workflow-version-control"><i class="fa fa-check"></i><b>2.6</b> R Workflow / Version Control</a></li>
+<li class="chapter" data-level="2.7" data-path="bookmarks.html"><a href="bookmarks.html#r-projects"><i class="fa fa-check"></i><b>2.7</b> R Projects</a></li>
+<li class="chapter" data-level="2.8" data-path="bookmarks.html"><a href="bookmarks.html#r-blogs-and-general-reference"><i class="fa fa-check"></i><b>2.8</b> R Blogs and general reference</a></li>
+<li class="chapter" data-level="2.9" data-path="bookmarks.html"><a href="bookmarks.html#r-linksblog-posts-to-read"><i class="fa fa-check"></i><b>2.9</b> R links/blog posts to read</a></li>
+<li class="chapter" data-level="2.10" data-path="bookmarks.html"><a href="bookmarks.html#used-workflow-to-add-names-to-link-only-bookmarks"><i class="fa fa-check"></i><b>2.10</b> used Workflow to add names to link only bookmarks</a></li>
+</ul></li>
+<li class="chapter" data-level="3" data-path="bookmarks-1.html"><a href="bookmarks-1.html"><i class="fa fa-check"></i><b>3</b> Bookmarks</a><ul>
+<li class="chapter" data-level="3.1" data-path="bookmarks-1.html"><a href="bookmarks-1.html#r-links-flagged-on-mobile-that-need-to-be-integrated-in-blog"><i class="fa fa-check"></i><b>3.1</b> R Links flagged on mobile that need to be integrated in blog</a></li>
+</ul></li>
+<li class="chapter" data-level="4" data-path="other-stuff.html"><a href="other-stuff.html"><i class="fa fa-check"></i><b>4</b> Other Stuff</a><ul>
+<li class="chapter" data-level="4.1" data-path="other-stuff.html"><a href="other-stuff.html#surveys"><i class="fa fa-check"></i><b>4.1</b> Surveys</a></li>
+<li class="chapter" data-level="4.2" data-path="other-stuff.html"><a href="other-stuff.html#fun"><i class="fa fa-check"></i><b>4.2</b> Fun</a></li>
+<li class="chapter" data-level="4.3" data-path="other-stuff.html"><a href="other-stuff.html#six-sigma"><i class="fa fa-check"></i><b>4.3</b> Six Sigma</a></li>
+<li class="chapter" data-level="4.4" data-path="other-stuff.html"><a href="other-stuff.html#cx-related"><i class="fa fa-check"></i><b>4.4</b> CX related</a></li>
+<li class="chapter" data-level="4.5" data-path="other-stuff.html"><a href="other-stuff.html#rmd-stuff"><i class="fa fa-check"></i><b>4.5</b> Rmd stuff</a></li>
+<li class="chapter" data-level="4.6" data-path="other-stuff.html"><a href="other-stuff.html#r-markdown-1"><i class="fa fa-check"></i><b>4.6</b> R Markdown</a></li>
+<li class="chapter" data-level="4.7" data-path="other-stuff.html"><a href="other-stuff.html#including-plots"><i class="fa fa-check"></i><b>4.7</b> Including Plots</a></li>
+</ul></li>
+<li class="chapter" data-level="" data-path="references.html"><a href="references.html"><i class="fa fa-check"></i>References</a></li>
+</ul>
+
+      </nav>
+    </div>
+
+    <div class="book-body">
+      <div class="body-inner">
+        <div class="book-header" role="navigation">
+          <h1>
+            <i class="fa fa-circle-o-notch fa-spin"></i><a href="./">Ongoing blog of Conor’s path to R mastery</a>
+          </h1>
+        </div>
+
+        <div class="page-wrapper" tabindex="-1" role="main">
+          <div class="page-inner">
+
+            <section class="normal" id="section-">
+<div id="bookmarks-1" class="section level1">
+<h1><span class="header-section-number">3</span> Bookmarks</h1>
+<div id="r-links-flagged-on-mobile-that-need-to-be-integrated-in-blog" class="section level2">
+<h2><span class="header-section-number">3.1</span> R Links flagged on mobile that need to be integrated in blog</h2>
+<p><a href="http://datasciencemasters.org/" class="uri">http://datasciencemasters.org/</a></p>
+<p><a href="http://kbroman.org/knitr_knutshell/pages/Rmarkdown.html" class="uri">http://kbroman.org/knitr_knutshell/pages/Rmarkdown.html</a></p>
+<p><a href="http://nirvacana.com/thoughts/2013/07/08/becoming-a-data-scientist/" class="uri">http://nirvacana.com/thoughts/2013/07/08/becoming-a-data-scientist/</a></p>
+<p><a href="http://nirvacana.com/thoughts/wp-content/uploads/2018/01/RoadToDataScientist1.png" class="uri">http://nirvacana.com/thoughts/wp-content/uploads/2018/01/RoadToDataScientist1.png</a></p>
+<p><a href="http://stat545.com/packages06_foofactors-package.html" class="uri">http://stat545.com/packages06_foofactors-package.html</a></p>
+<p><a href="http://uc-r.github.io/" class="uri">http://uc-r.github.io/</a></p>
+<p><a href="http://varianceexplained.org/r/start-blog/" class="uri">http://varianceexplained.org/r/start-blog/</a></p>
+<p><a href="http://www.bnosac.be/index.php/blog/77-an-overview-of-keyword-extraction-techniques" class="uri">http://www.bnosac.be/index.php/blog/77-an-overview-of-keyword-extraction-techniques</a></p>
+<p><a href="http://www.dataanalysisclassroom.com/lesson36/" class="uri">http://www.dataanalysisclassroom.com/lesson36/</a></p>
+<p><a href="http://www.dataanalysisclassroom.com/lesson61/" class="uri">http://www.dataanalysisclassroom.com/lesson61/</a></p>
+<p><a href="http://www.evanmiller.org/how-not-to-sort-by-average-rating.html" class="uri">http://www.evanmiller.org/how-not-to-sort-by-average-rating.html</a></p>
+<p><a href="http://www.feat.engineering/index.html" class="uri">http://www.feat.engineering/index.html</a></p>
+<p><a href="http://www.feat.engineering/stroke-tour.html#stroke-exploration" class="uri">http://www.feat.engineering/stroke-tour.html#stroke-exploration</a></p>
+<p><a href="http://www.rcommander.com/" class="uri">http://www.rcommander.com/</a></p>
+<p><a href="http://www.ryanpraski.com/apple-health-data-how-to-export-analyze-visualize-guide/" class="uri">http://www.ryanpraski.com/apple-health-data-how-to-export-analyze-visualize-guide/</a></p>
+<p><a href="http://www.statsflowchart.co.uk/" class="uri">http://www.statsflowchart.co.uk/</a></p>
+<p><a href="http://www.win-vector.com/blog/2018/02/r-tip-use-qc-for-fast-legible-quoting/" class="uri">http://www.win-vector.com/blog/2018/02/r-tip-use-qc-for-fast-legible-quoting/</a></p>
+<p><a href="https://avira.github.io/dsblog/2016-11-18-customer-feedback-drivers.html" class="uri">https://avira.github.io/dsblog/2016-11-18-customer-feedback-drivers.html</a></p>
+<p><a href="https://blog.coursera.org/top-10-blogs-data-scientists/" class="uri">https://blog.coursera.org/top-10-blogs-data-scientists/</a></p>
+<p><a href="https://challenge.threesixtygiving.org/faq" class="uri">https://challenge.threesixtygiving.org/faq</a></p>
+<p><a href="https://cran.r-project.org/web/packages/fuzzyjoin/fuzzyjoin.pdf" class="uri">https://cran.r-project.org/web/packages/fuzzyjoin/fuzzyjoin.pdf</a></p>
+<p><a href="https://cran.r-project.org/web/packages/remindR/vignettes/remindR_vignette.html" class="uri">https://cran.r-project.org/web/packages/remindR/vignettes/remindR_vignette.html</a></p>
+<p><a href="https://daringfireball.net/2018/05/lobe" class="uri">https://daringfireball.net/2018/05/lobe</a></p>
+<p><a href="https://datascienceplus.com/outliers-detection-and-intervention-analysis/" class="uri">https://datascienceplus.com/outliers-detection-and-intervention-analysis/</a></p>
+<p><a href="https://devopedia.org/r-plotting-systems" class="uri">https://devopedia.org/r-plotting-systems</a></p>
+<p><a href="https://dplyr.tidyverse.org/articles/programming.html" class="uri">https://dplyr.tidyverse.org/articles/programming.html</a></p>
+<p><a href="https://edomt.github.io/Intermediate-Advanced-R/" class="uri">https://edomt.github.io/Intermediate-Advanced-R/</a></p>
+<p><a href="https://fivebooks.com/best-books/programming-computer-science-ana-bell/" class="uri">https://fivebooks.com/best-books/programming-computer-science-ana-bell/</a></p>
+<p><a href="https://github.com/bearloga/taskviewr" class="uri">https://github.com/bearloga/taskviewr</a></p>
+<p><a href="https://github.com/brendan-r/NPS/blob/master/R/nps_tests.R" class="uri">https://github.com/brendan-r/NPS/blob/master/R/nps_tests.R</a></p>
+<p><a href="https://github.com/first20hours/google-10000-english" class="uri">https://github.com/first20hours/google-10000-english</a></p>
+<p><a href="https://github.com/gertstulp/ggplotgui/blob/master/README.md" class="uri">https://github.com/gertstulp/ggplotgui/blob/master/README.md</a></p>
+<p><a href="https://github.com/google/CausalImpact" class="uri">https://github.com/google/CausalImpact</a></p>
+<p><a href="https://github.com/jennybc/what-they-forgot/blob/master/README.md" class="uri">https://github.com/jennybc/what-they-forgot/blob/master/README.md</a></p>
+<p><a href="https://github.com/klutometis/roxygen" class="uri">https://github.com/klutometis/roxygen</a></p>
+<p><a href="https://github.com/qinwf/awesome-R" class="uri">https://github.com/qinwf/awesome-R</a></p>
+<p><a href="https://github.com/rbind/r-podcast" class="uri">https://github.com/rbind/r-podcast</a></p>
+<p><a href="https://github.com/r-lib/testthat" class="uri">https://github.com/r-lib/testthat</a></p>
+<p><a href="https://github.com/ropensci/drake/blob/master/README.md" class="uri">https://github.com/ropensci/drake/blob/master/README.md</a></p>
+<p><a href="https://github.com/seanchrismurphy/A-Psychologists-Guide-to-R" class="uri">https://github.com/seanchrismurphy/A-Psychologists-Guide-to-R</a></p>
+<p><a href="https://github.com/tidyverse/broom/blob/master/README.md" class="uri">https://github.com/tidyverse/broom/blob/master/README.md</a></p>
+<p><a href="https://github.com/ujjwalkarn/DataScienceR" class="uri">https://github.com/ujjwalkarn/DataScienceR</a></p>
+<p><a href="https://git-scm.com/book/en/v2" class="uri">https://git-scm.com/book/en/v2</a></p>
+<p><a href="https://mcfromnz.wordpress.com/2011/11/06/kaplan-meier-survival-plot-with-at-risk-table/" class="uri">https://mcfromnz.wordpress.com/2011/11/06/kaplan-meier-survival-plot-with-at-risk-table/</a></p>
+<p><a href="https://paulvanderlaken.com/2017/08/10/r-resources-cheatsheets-tutorials-books/" class="uri">https://paulvanderlaken.com/2017/08/10/r-resources-cheatsheets-tutorials-books/</a></p>
+<p><a href="https://paulvanderlaken.com/2018/02/08/rstudioconf-2018-summary/" class="uri">https://paulvanderlaken.com/2018/02/08/rstudioconf-2018-summary/</a></p>
+<p><a href="https://r-podcast.org/episode/007-best-practices-for-workflow-management/" class="uri">https://r-podcast.org/episode/007-best-practices-for-workflow-management/</a></p>
+<p><a href="https://rweekly.org/" class="uri">https://rweekly.org/</a></p>
+<p><a href="https://ryo-n7.github.io/2018-04-30-bulletchartr-package-experience/" class="uri">https://ryo-n7.github.io/2018-04-30-bulletchartr-package-experience/</a></p>
+<p><a href="https://speakerdeck.com/cjlortie/life-data-and-design-decisions" class="uri">https://speakerdeck.com/cjlortie/life-data-and-design-decisions</a></p>
+<p><a href="https://speakerdeck.com/jennybc/data-rectangling" class="uri">https://speakerdeck.com/jennybc/data-rectangling</a></p>
+<p><a href="https://stackoverflow.com/questions/2286831/how-do-you-combine-revision-control-with-workflow-for-r" class="uri">https://stackoverflow.com/questions/2286831/how-do-you-combine-revision-control-with-workflow-for-r</a></p>
+<p><a href="https://stackoverflow.com/questions/2712421/r-and-version-control-for-the-solo-data-analyst" class="uri">https://stackoverflow.com/questions/2712421/r-and-version-control-for-the-solo-data-analyst</a></p>
+<p><a href="https://stackoverflow.com/questions/32817780/what-is-the-r-assignment-operator-for" class="uri">https://stackoverflow.com/questions/32817780/what-is-the-r-assignment-operator-for</a></p>
+<p><a href="https://statsbot.co/blog/data-scientist-resume-projects/" class="uri">https://statsbot.co/blog/data-scientist-resume-projects/</a></p>
+<p><a href="https://techcrunch.com/2018/05/05/lobes-ridiculously-simple-machine-learning-platform-aims-to-empower-non-technical-creators/" class="uri">https://techcrunch.com/2018/05/05/lobes-ridiculously-simple-machine-learning-platform-aims-to-empower-non-technical-creators/</a></p>
+<p><a href="https://techpinions.com/top-takeaways-from-studying-iphone-x-owners/52639" class="uri">https://techpinions.com/top-takeaways-from-studying-iphone-x-owners/52639</a></p>
+<p><a href="https://tonyelhabr.rbind.io/posts/data-science-podcasts/" class="uri">https://tonyelhabr.rbind.io/posts/data-science-podcasts/</a></p>
+<p><a href="https://towardsdatascience.com/data-science-for-startups-business-intelligence-f4a2ba728e75" class="uri">https://towardsdatascience.com/data-science-for-startups-business-intelligence-f4a2ba728e75</a></p>
+<p><a href="https://www.computerworld.com/article/2497464/business-intelligence/top-r-language-resources-to-improve-your-data-skills.html" class="uri">https://www.computerworld.com/article/2497464/business-intelligence/top-r-language-resources-to-improve-your-data-skills.html</a></p>
+<p><a href="https://www.datacamp.com/onboarding" class="uri">https://www.datacamp.com/onboarding</a></p>
+<p><a href="https://www.kdnuggets.com/2018/01/primer-web-scraping-r.html/2" class="uri">https://www.kdnuggets.com/2018/01/primer-web-scraping-r.html/2</a></p>
+<p><a href="https://www.listendata.com/2018/03/regression-analysis.html?m=1" class="uri">https://www.listendata.com/2018/03/regression-analysis.html?m=1</a></p>
+<p><a href="https://www.r-bloggers.com/analyzing-customer-data-from-square/amp/" class="uri">https://www.r-bloggers.com/analyzing-customer-data-from-square/amp/</a></p>
+<p><a href="https://www.r-bloggers.com/an-overview-of-keyword-extraction-techniques/" class="uri">https://www.r-bloggers.com/an-overview-of-keyword-extraction-techniques/</a></p>
+<p><a href="https://www.r-bloggers.com/an-overview-of-r-with-a-curated-learning-path/" class="uri">https://www.r-bloggers.com/an-overview-of-r-with-a-curated-learning-path/</a></p>
+<p><a href="https://www.r-bloggers.com/an-r-tutorial-visual-representation-of-complex-multivariate-relationships-using-the-r-qgraph-package-part-two-repost/" class="uri">https://www.r-bloggers.com/an-r-tutorial-visual-representation-of-complex-multivariate-relationships-using-the-r-qgraph-package-part-two-repost/</a></p>
+<p><a href="https://www.r-bloggers.com/author/chuck-powell/page/2/" class="uri">https://www.r-bloggers.com/author/chuck-powell/page/2/</a></p>
+<p><a href="https://www.r-bloggers.com/automated-feature-selection-using-bouncer/amp/" class="uri">https://www.r-bloggers.com/automated-feature-selection-using-bouncer/amp/</a></p>
+<p><a href="https://www.r-bloggers.com/beautiful-and-powerful-correlation-tables-in-r/amp/" class="uri">https://www.r-bloggers.com/beautiful-and-powerful-correlation-tables-in-r/amp/</a></p>
+<p><a href="https://www.r-bloggers.com/beautiful-and-powerful-correlation-tables-in-r-2/" class="uri">https://www.r-bloggers.com/beautiful-and-powerful-correlation-tables-in-r-2/</a></p>
+<p><a href="https://www.r-bloggers.com/chaid-and-r-when-you-need-explanation-may-15-2018/" class="uri">https://www.r-bloggers.com/chaid-and-r-when-you-need-explanation-may-15-2018/</a></p>
+<p><a href="https://www.r-bloggers.com/cleaning-up-tables/" class="uri">https://www.r-bloggers.com/cleaning-up-tables/</a></p>
+<p><a href="https://www.r-bloggers.com/confessions-of-a-data-scientist-why-i-quit-social-media-and-still-cut-my-own-grass/amp/" class="uri">https://www.r-bloggers.com/confessions-of-a-data-scientist-why-i-quit-social-media-and-still-cut-my-own-grass/amp/</a></p>
+<p><a href="https://www.r-bloggers.com/create-your-machine-learning-library-from-scratch-with-r-2-5-pca/" class="uri">https://www.r-bloggers.com/create-your-machine-learning-library-from-scratch-with-r-2-5-pca/</a></p>
+<p><a href="https://www.r-bloggers.com/create-your-machine-learning-library-from-scratch-with-r-3-5-knn/" class="uri">https://www.r-bloggers.com/create-your-machine-learning-library-from-scratch-with-r-3-5-knn/</a></p>
+<p><a href="https://www.r-bloggers.com/data-science-for-business-course-launch-in-5-days/" class="uri">https://www.r-bloggers.com/data-science-for-business-course-launch-in-5-days/</a></p>
+<p><a href="https://www.r-bloggers.com/deep-learning-from-first-principles-in-python-r-and-octave-part-8/amp/" class="uri">https://www.r-bloggers.com/deep-learning-from-first-principles-in-python-r-and-octave-part-8/amp/</a></p>
+<p><a href="https://www.r-bloggers.com/do-clustering-by-dimensional-collapse/amp/" class="uri">https://www.r-bloggers.com/do-clustering-by-dimensional-collapse/amp/</a></p>
+<p><a href="https://www.r-bloggers.com/enterprise-dashboards-with-r-markdown/" class="uri">https://www.r-bloggers.com/enterprise-dashboards-with-r-markdown/</a></p>
+<p><a href="https://www.r-bloggers.com/exploratory-factor-analysis-in-r/" class="uri">https://www.r-bloggers.com/exploratory-factor-analysis-in-r/</a></p>
+<p><a href="https://www.r-bloggers.com/flow-charts-in-r/amp/" class="uri">https://www.r-bloggers.com/flow-charts-in-r/amp/</a></p>
+<p><a href="https://www.r-bloggers.com/get-your-tracks-from-the-strava-api-and-plot-them-on-leaflet-maps/amp/" class="uri">https://www.r-bloggers.com/get-your-tracks-from-the-strava-api-and-plot-them-on-leaflet-maps/amp/</a></p>
+<p><a href="https://www.r-bloggers.com/greybox-package-for-r/amp/" class="uri">https://www.r-bloggers.com/greybox-package-for-r/amp/</a></p>
+<p><a href="https://www.r-bloggers.com/how-to-learn-r-2/" class="uri">https://www.r-bloggers.com/how-to-learn-r-2/</a></p>
+<p><a href="https://www.r-bloggers.com/how-to-plot-with-dygraphs-exercises/amp/" class="uri">https://www.r-bloggers.com/how-to-plot-with-dygraphs-exercises/amp/</a></p>
+<p><a href="https://www.r-bloggers.com/icon-web-icons-for-rmarkdown/" class="uri">https://www.r-bloggers.com/icon-web-icons-for-rmarkdown/</a></p>
+<p><a href="https://www.r-bloggers.com/introducing-datazar-paper/" class="uri">https://www.r-bloggers.com/introducing-datazar-paper/</a></p>
+<p><a href="https://www.r-bloggers.com/intro-to-fftree-exercise/" class="uri">https://www.r-bloggers.com/intro-to-fftree-exercise/</a></p>
+<p><a href="https://www.r-bloggers.com/my-book-deep-learning-from-first-principles-now-on-amazon/" class="uri">https://www.r-bloggers.com/my-book-deep-learning-from-first-principles-now-on-amazon/</a></p>
+<p><a href="https://www.r-bloggers.com/ordinal-data/" class="uri">https://www.r-bloggers.com/ordinal-data/</a></p>
+<p><a href="https://www.r-bloggers.com/purrr-like-a-kitten-till-the-lake-pipes-roar/amp/" class="uri">https://www.r-bloggers.com/purrr-like-a-kitten-till-the-lake-pipes-roar/amp/</a></p>
+<p><a href="https://www.r-bloggers.com/qualitative-data-science-using-rqda-to-analyse-interviews/amp/" class="uri">https://www.r-bloggers.com/qualitative-data-science-using-rqda-to-analyse-interviews/amp/</a></p>
+<p><a href="https://www.r-bloggers.com/rectangling-onboarding/amp/" class="uri">https://www.r-bloggers.com/rectangling-onboarding/amp/</a></p>
+<p><a href="https://www.r-bloggers.com/reliability-chapter-added-to-empirical-software-engineering-using-r/" class="uri">https://www.r-bloggers.com/reliability-chapter-added-to-empirical-software-engineering-using-r/</a></p>
+<p><a href="https://www.r-bloggers.com/remove-password-protection-from-excel-sheets-using-r/amp/" class="uri">https://www.r-bloggers.com/remove-password-protection-from-excel-sheets-using-r/amp/</a></p>
+<p><a href="https://www.r-bloggers.com/rstudioaddins-part-1-code-reproducibility-testing/amp/" class="uri">https://www.r-bloggers.com/rstudioaddins-part-1-code-reproducibility-testing/amp/</a></p>
+<p><a href="https://www.r-bloggers.com/rstudioaddins-part-2-roxygen-documentation-formatting-made-easy/amp/" class="uri">https://www.r-bloggers.com/rstudioaddins-part-2-roxygen-documentation-formatting-made-easy/amp/</a></p>
+<p><a href="https://www.r-bloggers.com/slides-from-my-jax-2018-talk-deep-learning-a-primer/amp/" class="uri">https://www.r-bloggers.com/slides-from-my-jax-2018-talk-deep-learning-a-primer/amp/</a></p>
+<p><a href="https://www.r-bloggers.com/statistical-sins-is-your-classification-model-any-good/amp/" class="uri">https://www.r-bloggers.com/statistical-sins-is-your-classification-model-any-good/amp/</a></p>
+<p><a href="https://www.r-bloggers.com/statistics-sunday-conducting-meta-analysis-in-r/amp/" class="uri">https://www.r-bloggers.com/statistics-sunday-conducting-meta-analysis-in-r/amp/</a></p>
+<p><a href="https://www.r-bloggers.com/statistics-sunday-tokenizing-text/amp/" class="uri">https://www.r-bloggers.com/statistics-sunday-tokenizing-text/amp/</a></p>
+<p><a href="https://www.r-bloggers.com/statistics-sunday-welcome-to-sentiment-analysis-with-hotel-california/amp/" class="uri">https://www.r-bloggers.com/statistics-sunday-welcome-to-sentiment-analysis-with-hotel-california/amp/</a></p>
+<p><a href="https://www.r-bloggers.com/teaching-an-advanced-r-course/" class="uri">https://www.r-bloggers.com/teaching-an-advanced-r-course/</a></p>
+<p><a href="https://www.r-bloggers.com/tidying-messy-excel-data-introduction/" class="uri">https://www.r-bloggers.com/tidying-messy-excel-data-introduction/</a></p>
+<p><a href="https://www.r-bloggers.com/to-purrr-or-not-to-purrr/" class="uri">https://www.r-bloggers.com/to-purrr-or-not-to-purrr/</a></p>
+<p><a href="https://www.r-bloggers.com/understanding-pca-using-stack-overflow-data/amp/" class="uri">https://www.r-bloggers.com/understanding-pca-using-stack-overflow-data/amp/</a></p>
+<p><a href="https://www.r-bloggers.com/why-you-should-regret-not-going-to-erum-2018/" class="uri">https://www.r-bloggers.com/why-you-should-regret-not-going-to-erum-2018/</a></p>
+<p><a href="https://www.r-bloggers.com/wrapr-1-4-1-now-up-on-cran/amp/" class="uri">https://www.r-bloggers.com/wrapr-1-4-1-now-up-on-cran/amp/</a></p>
+<p><a href="https://www.r-bloggers.com/writing-better-r-functions-part-four-april-17-2018/" class="uri">https://www.r-bloggers.com/writing-better-r-functions-part-four-april-17-2018/</a></p>
+<p><a href="https://www.r-bloggers.com/x-is-for-by/amp/" class="uri">https://www.r-bloggers.com/x-is-for-by/amp/</a></p>
+<p><a href="https://www.r-bloggers.com/z-is-for-z-scores-and-standardizing/amp/" class="uri">https://www.r-bloggers.com/z-is-for-z-scores-and-standardizing/amp/</a></p>
+<p><a href="https://www.rdocumentation.org/trends?page1=3&amp;sort1=direct&amp;page2=1&amp;sort2=total&amp;page3=1&amp;page4=1" class="uri">https://www.rdocumentation.org/trends?page1=3&amp;sort1=direct&amp;page2=1&amp;sort2=total&amp;page3=1&amp;page4=1</a></p>
+<p><a href="https://www.reddit.com/r/dataisbeautiful/comments/8ggpfo/the_number_of_job_applications_it_took_to_become/?st=JGPAQWXW&amp;sh=016299eb" class="uri">https://www.reddit.com/r/dataisbeautiful/comments/8ggpfo/the_number_of_job_applications_it_took_to_become/?st=JGPAQWXW&amp;sh=016299eb</a></p>
+<p><a href="https://www.reddit.com/r/IWantToLearn/comments/8kttv1/is_there_any_serious_computer_science_course/?st=JHFP0QUA&amp;sh=36b7ef38" class="uri">https://www.reddit.com/r/IWantToLearn/comments/8kttv1/is_there_any_serious_computer_science_course/?st=JHFP0QUA&amp;sh=36b7ef38</a></p>
+<p><a href="https://www.reddit.com/r/Rlanguage/comments/8gaw6t/nonstandard_evaluations_example/?st=JGOMGPPX&amp;sh=2955447f" class="uri">https://www.reddit.com/r/Rlanguage/comments/8gaw6t/nonstandard_evaluations_example/?st=JGOMGPPX&amp;sh=2955447f</a></p>
+<p><a href="https://www.reddit.com/r/Rlanguage/comments/8i35fl/any_ideas_for_some_projects_i_can_do_to_show_off/?st=JGYLSTF9&amp;sh=212e6066" class="uri">https://www.reddit.com/r/Rlanguage/comments/8i35fl/any_ideas_for_some_projects_i_can_do_to_show_off/?st=JGYLSTF9&amp;sh=212e6066</a></p>
+<p><a href="https://www.reddit.com/r/Rlanguage/comments/8i35fl/any_ideas_for_some_projects_i_can_do_to_show_off/?st=JGZNXNTH&amp;sh=dff568aa" class="uri">https://www.reddit.com/r/Rlanguage/comments/8i35fl/any_ideas_for_some_projects_i_can_do_to_show_off/?st=JGZNXNTH&amp;sh=dff568aa</a></p>
+<p><a href="https://www.reddit.com/r/Rlanguage/comments/8l9fgr/top_20_r_libraries_for_data_science_in_2018/?st=JHHT40NH&amp;sh=56731e5a" class="uri">https://www.reddit.com/r/Rlanguage/comments/8l9fgr/top_20_r_libraries_for_data_science_in_2018/?st=JHHT40NH&amp;sh=56731e5a</a></p>
+<p><a href="https://www.reddit.com/r/rstats/comments/5t8s2h/in_rstudio_how_do_you_decide_which_code_goes_in/" class="uri">https://www.reddit.com/r/rstats/comments/5t8s2h/in_rstudio_how_do_you_decide_which_code_goes_in/</a></p>
+<p><a href="https://www.reddit.com/r/rstats/comments/8arr3v/r_for_psych_students_beginner/?st=JFSBHANY&amp;sh=b36ca40f" class="uri">https://www.reddit.com/r/rstats/comments/8arr3v/r_for_psych_students_beginner/?st=JFSBHANY&amp;sh=b36ca40f</a></p>
+<p><a href="https://www.reddit.com/r/rstats/comments/8d04jh/anyone_tried_some_analysis_on_your_own_facebook/?st=JG47SLV2&amp;sh=a3fdb179" class="uri">https://www.reddit.com/r/rstats/comments/8d04jh/anyone_tried_some_analysis_on_your_own_facebook/?st=JG47SLV2&amp;sh=a3fdb179</a></p>
+<p><a href="https://www.reddit.com/r/rstats/comments/8ey75t/organization_best_practices_is_it_better_to_have/?st=JGFSAVJT&amp;sh=cc463478" class="uri">https://www.reddit.com/r/rstats/comments/8ey75t/organization_best_practices_is_it_better_to_have/?st=JGFSAVJT&amp;sh=cc463478</a></p>
+<p><a href="https://www.reddit.com/r/rstats/comments/8gh7mj/introduction_to_compositional_data_analysis_in_r/?st=JGP9AT1Z&amp;sh=469d65da" class="uri">https://www.reddit.com/r/rstats/comments/8gh7mj/introduction_to_compositional_data_analysis_in_r/?st=JGP9AT1Z&amp;sh=469d65da</a></p>
+<p><a href="https://www.reddit.com/r/rstats/comments/8gj0ry/every_damn_time/?st=JGPLKG6C&amp;sh=ff75d805" class="uri">https://www.reddit.com/r/rstats/comments/8gj0ry/every_damn_time/?st=JGPLKG6C&amp;sh=ff75d805</a></p>
+<p><a href="https://www.reddit.com/r/rstats/comments/8gr9yt/replace_data_frame_names_in_formula_en_masse/?st=JGQZVPE7&amp;sh=d107f53c" class="uri">https://www.reddit.com/r/rstats/comments/8gr9yt/replace_data_frame_names_in_formula_en_masse/?st=JGQZVPE7&amp;sh=d107f53c</a></p>
+<p><a href="https://www.reddit.com/r/rstats/comments/8iokrl/resources_for_data_imputation/?st=JH28FVR8&amp;sh=af8f2f02" class="uri">https://www.reddit.com/r/rstats/comments/8iokrl/resources_for_data_imputation/?st=JH28FVR8&amp;sh=af8f2f02</a></p>
+<p><a href="https://www.reddit.com/r/rstats/comments/8jf41q/announcement_new_package_for_providing/?st=JH6XR2AV&amp;sh=a473a57c" class="uri">https://www.reddit.com/r/rstats/comments/8jf41q/announcement_new_package_for_providing/?st=JH6XR2AV&amp;sh=a473a57c</a></p>
+<p><a href="https://www.reddit.com/r/rstats/comments/8jkry9/publish_r_markdown_to_datascience_via_your_editor/?st=JH82ZORK&amp;sh=1bee25d6" class="uri">https://www.reddit.com/r/rstats/comments/8jkry9/publish_r_markdown_to_datascience_via_your_editor/?st=JH82ZORK&amp;sh=1bee25d6</a></p>
+<p><a href="https://www.reddit.com/r/rstats/comments/8jui4j/machine_learning_and_its_applications/?st=JH95P6J0&amp;sh=92ae98bd" class="uri">https://www.reddit.com/r/rstats/comments/8jui4j/machine_learning_and_its_applications/?st=JH95P6J0&amp;sh=92ae98bd</a></p>
+<p><a href="https://www.reddit.com/r/rstats/comments/8jw5lz/soliciting_reactions_to_my_portfolio_project/?st=JH9PQ3GI&amp;sh=ab711c9b" class="uri">https://www.reddit.com/r/rstats/comments/8jw5lz/soliciting_reactions_to_my_portfolio_project/?st=JH9PQ3GI&amp;sh=ab711c9b</a></p>
+<p><a href="https://www.reddit.com/r/rstats/comments/8klfga/how_do_i_use_latent_growth_curve_analysis_in_r/?st=JHDSQQC5&amp;sh=cae35385" class="uri">https://www.reddit.com/r/rstats/comments/8klfga/how_do_i_use_latent_growth_curve_analysis_in_r/?st=JHDSQQC5&amp;sh=cae35385</a></p>
+<p><a href="https://www.reddit.com/r/rstats/comments/8ks2lj/create_waterfall_charts_using_r_ggplot2/?st=JHF037L3&amp;sh=e1414a1c" class="uri">https://www.reddit.com/r/rstats/comments/8ks2lj/create_waterfall_charts_using_r_ggplot2/?st=JHF037L3&amp;sh=e1414a1c</a></p>
+<p><a href="https://www.reddit.com/r/statistics/comments/8cw4i4/errors_in_statistics_for_medical_research_any/?st=JG3RS3HY&amp;sh=e100e2b8" class="uri">https://www.reddit.com/r/statistics/comments/8cw4i4/errors_in_statistics_for_medical_research_any/?st=JG3RS3HY&amp;sh=e100e2b8</a></p>
+<p><a href="https://www.reddit.com/r/statistics/comments/8e2rlp/longcateda_an_r_package_to_visualize_longitudinal/?st=JGAWBIUQ&amp;sh=a2e2fe9d" class="uri">https://www.reddit.com/r/statistics/comments/8e2rlp/longcateda_an_r_package_to_visualize_longitudinal/?st=JGAWBIUQ&amp;sh=a2e2fe9d</a></p>
+<p><a href="https://www.reddit.com/r/statistics/comments/8f8mtm/odds_ratio_and_its_relevance_in_case_control/?st=JGHFVV1B&amp;sh=aab16f60" class="uri">https://www.reddit.com/r/statistics/comments/8f8mtm/odds_ratio_and_its_relevance_in_case_control/?st=JGHFVV1B&amp;sh=aab16f60</a></p>
+<p><a href="https://www.reddit.com/r/statistics/comments/8guc0k/help_interpreting_ordinal_logistic_regression/?st=JGRGZ6KX&amp;sh=48e9e33e" class="uri">https://www.reddit.com/r/statistics/comments/8guc0k/help_interpreting_ordinal_logistic_regression/?st=JGRGZ6KX&amp;sh=48e9e33e</a></p>
+<p><a href="https://www.reddit.com/r/statistics/comments/8ieikb/getting_hired_as_a_data_scientist/?st=JH0U1J4K&amp;sh=1e9a3b55" class="uri">https://www.reddit.com/r/statistics/comments/8ieikb/getting_hired_as_a_data_scientist/?st=JH0U1J4K&amp;sh=1e9a3b55</a></p>
+<p><a href="https://www.reddit.com/r/statistics/comments/8jqv3l/best_resources_to_selfstudy_graduate_statistics/?st=JH8K1JLI&amp;sh=e39322d7" class="uri">https://www.reddit.com/r/statistics/comments/8jqv3l/best_resources_to_selfstudy_graduate_statistics/?st=JH8K1JLI&amp;sh=e39322d7</a></p>
+<p><a href="https://www.reddit.com/r/visualization/comments/8io6wo/data_visualisation_competition/?st=JH297DXI&amp;sh=07e5f8e6" class="uri">https://www.reddit.com/r/visualization/comments/8io6wo/data_visualisation_competition/?st=JH297DXI&amp;sh=07e5f8e6</a></p>
+<p><a href="https://www.r-graph-gallery.com/pimp-my-rmd-a-few-tips-for-r-markdown/" class="uri">https://www.r-graph-gallery.com/pimp-my-rmd-a-few-tips-for-r-markdown/</a></p>
+<p><a href="https://www.stat.auckland.ac.nz/~paul/Reports/deviceloc/deviceloc.html" class="uri">https://www.stat.auckland.ac.nz/~paul/Reports/deviceloc/deviceloc.html</a></p>
+<p><a href="https://www.tidytextmining.com/index.html" class="uri">https://www.tidytextmining.com/index.html</a></p>
+<p><a href="https://www.tidyverse.org/articles/2017/12/workflow-vs-script/" class="uri">https://www.tidyverse.org/articles/2017/12/workflow-vs-script/</a></p>
+<p><a href="https://www.geckoboard.com/assets/data-fallacies-to-avoid.pdf" class="uri">https://www.geckoboard.com/assets/data-fallacies-to-avoid.pdf</a></p>
+<p><a href="http://i.qa.viglink.com/?key=9c219f6b27c7571a83003d3349a56c73&amp;insertId=356858bd&amp;type=CD&amp;exp=-100%3ACILITE%3A1&amp;libId=jjhbf81x01021u9s000TA19hbkh5unk1bq&amp;loc=https%3A%2F%2Fwww.r-bloggers.com%2Fin-case-you-missed-it-june-2018-roundup%2F&amp;v=1&amp;out=http%3A%2F%2Fscribd.evyy.net%2Fc%2F27795%2F402022%2F4417&amp;title=In%20case%20you%20missed%20it%3A%20June%202018%20roundup%20%7C%20R-bloggers&amp;txt=%3Cspan%3Ee%3C%2Fspan%3E%3Cspan%3E-%3C%2Fspan%3E%3Cspan%3Ebook%3C%2Fspan%3E">http://i.qa.viglink.com/?key=9c219f6b27c7571a83003d3349a56c73&amp;insertId=356858bd&amp;type=CD&amp;exp=-100%3ACILITE%3A1&amp;libId=jjhbf81x01021u9s000TA19hbkh5unk1bq&amp;loc=https%3A%2F%2Fwww.r-bloggers.com%2Fin-case-you-missed-it-june-2018-roundup%2F&amp;v=1&amp;out=http%3A%2F%2Fscribd.evyy.net%2Fc%2F27795%2F402022%2F4417&amp;title=In%20case%20you%20missed%20it%3A%20June%202018%20roundup%20%7C%20R-bloggers&amp;txt=%3Cspan%3Ee%3C%2Fspan%3E%3Cspan%3E-%3C%2Fspan%3E%3Cspan%3Ebook%3C%2Fspan%3E</a></p>
+
+</div>
+</div>
+            </section>
+
+          </div>
+        </div>
+      </div>
+<a href="bookmarks.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="other-stuff.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+    </div>
+  </div>
+<script src="libs/gitbook-2.6.7/js/app.min.js"></script>
+<script src="libs/gitbook-2.6.7/js/lunr.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-search.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-sharing.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-fontsettings.js"></script>
+<script src="libs/gitbook-2.6.7/js/plugin-bookdown.js"></script>
+<script src="libs/gitbook-2.6.7/js/jquery.highlight.js"></script>
+<script>
+gitbook.require(["gitbook"], function(gitbook) {
+gitbook.start({
+"sharing": {
+"github": false,
+"facebook": true,
+"twitter": true,
+"google": false,
+"linkedin": false,
+"weibo": false,
+"instapper": false,
+"vk": false,
+"all": ["facebook", "google", "twitter", "linkedin", "weibo", "instapaper"]
+},
+"fontsettings": {
+"theme": "white",
+"family": "sans",
+"size": 2
+},
+"edit": {
+"link": "https://github.com/revgizmo/My_path_to_R_mastery/edit/master/03_bookmarks_temp.Rmd",
+"text": "Edit"
+},
+"download": null,
+"toc": {
+"collapse": "subsection"
+}
+});
+});
+</script>
+
+</body>
+
+</html>
