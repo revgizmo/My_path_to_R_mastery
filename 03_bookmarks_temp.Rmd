@@ -4,3 +4,255 @@
 
 ## R Links flagged on mobile that need to be integrated in blog
 
+[in Honor of a Two Week Break, I Have Graphed the Dice Rolls From the Start of Season 2](https://reddit.app.link/ih4oa0pTCO)
+
+
+[Introduction to DataExplorer](https://cran.r-project.org/web/packages/DataExplorer/vignettes/dataexplorer-intro.html)
+
+
+[Introduction to DataExplorer](https://cran.r-project.org/web/packages/DataExplorer/vignettes/dataexplorer-intro.html)
+
+
+[Basics of EDA Using Iris Dataset](https://www.reddit.com/r/datascience/comments/8zypdy/basics_of_eda_using_iris_dataset/?st=JJRKVCFE&sh=9a0de43c)
+
+
+[Basics of EDA Using Iris Dataset](https://www.reddit.com/r/datascience/comments/8zypdy/basics_of_eda_using_iris_dataset/?st=JJRKVCFE&sh=9a0de43c)
+
+
+[R Studio](http://studywalk.com/index.php?route=product/category&path=109_149)
+
+
+[Importance of Conveying Facts Through Storytelling in Data Science - for Data Scientists](https://www.reddit.com/r/datascience/comments/90g0t6/importance_of_conveying_facts_through/?st=JJU2RCWX&sh=3e138ce1)
+
+
+[Multiple Linear Regression R Code With Optimal Adjusted R^2](https://www.reddit.com/r/Rlanguage/comments/90ikh5/multiple_linear_regression_r_code_with_optimal/?st=JJUFATCT&sh=92593b48)
+
+
+[Multiple Linear Regression R Code With Optimal Adjusted R^2](https://www.reddit.com/r/Rlanguage/comments/90ikh5/multiple_linear_regression_r_code_with_optimal/?st=JJUFATCT&sh=92593b48)
+
+
+[Extracting Tables From PDFs in R Using the Tabulizer Package](https://www.reddit.com/r/rstats/comments/90kjeo/extracting_tables_from_pdfs_in_r_using_the/?st=JJUMLNYP&sh=16893fb5)
+
+
+[Extracting Tables From PDFs in R Using the Tabulizer Package](https://www.reddit.com/r/rstats/comments/90kjeo/extracting_tables_from_pdfs_in_r_using_the/?st=JJUMLNYP&sh=16893fb5)
+
+
+[R Markdown: How to Format Tables and Figures in .Docx Files](https://www.reddit.com/r/rstats/comments/90lsht/r_markdown_how_to_format_tables_and_figures_in/?st=JJUUCZTK&sh=95b2242c)
+
+
+[Data Analyst to Data Scientist](https://www.reddit.com/r/datascience/comments/90w2zi/data_analyst_to_data_scientist/?st=JJX2G94K&sh=941ed7ff)
+
+
+[Data Analyst to Data Scientist](https://www.reddit.com/r/datascience/comments/90w2zi/data_analyst_to_data_scientist/?st=JJX2G94K&sh=941ed7ff)
+
+
+[How to Quickly Make Reusable World Maps Based on Excel Worksheet Data Using Ggplot and RStudio!](https://www.reddit.com/r/RStudio/comments/9119mg/how_to_quickly_make_reusable_world_maps_based_on/?st=JJXI3UJ2&sh=4e7d6656)
+
+
+[REST APIs and Plumber](https://www.reddit.com/r/rstats/comments/918a5h/rest_apis_and_plumber/?st=JJYH1VJM&sh=0cb18a04)
+
+
+[Simple Guide to Learn How to Analyse Multilevel (Diary) Data?](https://www.reddit.com/r/rstats/comments/919ql6/simple_guide_to_learn_how_to_analyse_multilevel/?st=JJYROMWJ&sh=0739cc1f)
+
+
+[Simple Guide to Learn How to Analyse Multilevel (Diary) Data?](https://www.reddit.com/r/rstats/comments/919ql6/simple_guide_to_learn_how_to_analyse_multilevel/?st=JJYROMWJ&sh=0739cc1f)
+
+
+[Some Exercises Related to Logistic Regression, Principal Component Analysis, Linear Discriminant Analysis, Support Vector Machines, the Kernel Trick, Word Embedding and Constrained Optimization. Feedback and Stars Appreciated :P](https://www.reddit.com/r/datascience/comments/91au8m/some_exercises_related_to_logistic_regression/?st=JJYVX9MA&sh=01e1fcb3)
+
+
+[Some Exercises Related to Logistic Regression, Principal Component Analysis, Linear Discriminant Analysis, Support Vector Machines, the Kernel Trick, Word Embedding and Constrained Optimization. Feedback and Stars Appreciated :P](https://www.reddit.com/r/datascience/comments/91au8m/some_exercises_related_to_logistic_regression/?st=JJYVX9MA&sh=01e1fcb3)
+
+
+[Antipredator Behavior With R (or Why Wildebeest Should Stay Together)](https://www.r-bloggers.com/antipredator-behavior-with-r-or-why-wildebeest-should-stay-together/)
+
+
+[Machine Learning Results in R: One Plot to Rule Them All! (Part 2 – Regression Models)](https://www.reddit.com/r/rstats/comments/91gt8t/machine_learning_results_in_r_one_plot_to_rule/?st=JJZQL5P4&sh=ac5509ca)
+
+
+[91 Best Photoshop Tutorials (From Basic to Advanced)](https://www.reddit.com/r/howto/comments/91i1x5/91_best_photoshop_tutorials_from_basic_to_advanced/?st=JJZYKKH0&sh=aa42c844)
+
+
+[A very basic tutorial for performing linear mixed effects analyses (Tutorial 2)](http://www.bodowinter.com/tutorial/bw_LME_tutorial2.pdf)
+
+
+[Breaking Into Data Science in Seattle](https://www.reddit.com/r/datascience/comments/91j500/breaking_into_data_science_in_seattle/?st=JK02PD0P&sh=13fdf95e)
+
+
+[Breaking Into Data Science in Seattle](https://www.reddit.com/r/datascience/comments/91j500/breaking_into_data_science_in_seattle/?st=JK02PD0P&sh=13fdf95e)
+
+
+[Sentiment Analysis of Slack Reviews Using R](https://www.reddit.com/r/Rlanguage/comments/91kkff/sentiment_analysis_of_slack_reviews_using_r/?st=JK05B7SY&sh=3e70ff36)
+
+
+[Monte Carlo Simulation of E [OC]](https://www.reddit.com/r/dataisbeautiful/comments/91rgzy/monte_carlo_simulation_of_e_oc/?st=JK17Q7AM&sh=ab26ac2f)
+
+
+[Learn About Pi-Hole Ad Blocking for Your Home Network](https://www.reddit.com/r/raspberry_pi/comments/91r20f/learn_about_pihole_ad_blocking_for_your_home/?st=JK17SAQ6&sh=25c572c1)
+
+
+[Recommend the Book to Learn R in 14 Days for Medical Research to a Person That Already Knows Programming and Basic Statistics.](https://www.reddit.com/r/Rlanguage/comments/91v33z/recommend_the_book_to_learn_r_in_14_days_for/?st=JK1QOJU0&sh=fbc7a5fd)
+
+
+[Recommend the Book to Learn R in 14 Days for Medical Research to a Person That Already Knows Programming and Basic Statistics.](https://www.reddit.com/r/Rlanguage/comments/91v33z/recommend_the_book_to_learn_r_in_14_days_for/?st=JK1QOJU0&sh=fbc7a5fd)
+
+
+[R Programming](https://www.reddit.com/r/rprogramming/comments/91wp3j/r_programming/?st=JK1RI7FA&sh=b77823d2)
+
+
+[R Programming](https://www.reddit.com/r/rprogramming/comments/91wp3j/r_programming/?st=JK1RI7FA&sh=b77823d2)
+
+
+[i_wrote_this_how_to_guide_for_installing_pihole](https://www.reddit.com/r/raspberry_pi/comments/91ysu2/i_wrote_this_how_to_guide_for_installing_pihole/?st=JK25KSTZ&sh=cdf9ba63)
+
+
+[RStudio Connect 1.6.6 – Custom Emails](https://www.r-bloggers.com/rstudio-connect-1-6-6-custom-emails/)
+
+
+[RStudio Connect 1.6.6 – Custom Emails](https://www.r-bloggers.com/rstudio-connect-1-6-6-custom-emails/)
+
+
+[Getting Started With Frite](https://cran.r-project.org/web/packages/frite/vignettes/getting-started.html)
+
+
+[Introduction to DataExplorer](https://cran.r-project.org/web/packages/DataExplorer/vignettes/dataexplorer-intro.html)
+
+
+[Defensive Programming in R: How to Write Code That Fails Better](https://www.reddit.com/r/rstats/comments/9337dm/defensive_programming_in_r_how_to_write_code_that/?st=JK8ANY1B&sh=13297eff)
+
+
+[Resources Learning Shiny in R?](https://www.reddit.com/r/datascience/comments/937ef0/resources_learning_shiny_in_r/?st=JK8TKF83&sh=9d04135f)
+
+
+[Resources Learning Shiny in R?](https://www.reddit.com/r/datascience/comments/937ef0/resources_learning_shiny_in_r/?st=JK8TKF83&sh=9d04135f)
+
+
+[The Art of R Programming](https://archive.org/details/Norman_Matloff___The_Art_of_R_Programming)
+* [pdf in my dropbox](https://www.dropbox.com/s/wos9b8jvqur1rca/NSPpart.pdf?dl=0)
+
+[A First Course in Statistical Programming with R](http://einspem.upm.edu.my/wopr2017/2016.pdf)
+* [pdf in my dropbox](https://www.dropbox.com/s/s95k9sk9d6b6l7y/2016.pdf?dl=0)
+
+[R in Action, Second Edition](https://www.manning.com/books/r-in-action-second-edition?a_bid=5c2b1e1d&a_aid=RiA2ed)
+
+* [GitHub - R in Action, Second Edition](https://github.com/kabacoff/RiA2)
+
+
+[Efficient R Programming](https://csgillespie.github.io/efficientR/)
+
+
+[The R Inferno](http://www.burns-stat.com/documents/books/the-r-inferno/)
+
+
+[Efficient R Programming](https://csgillespie.github.io/efficientR/)
+
+[Frank Harrell from Vanderbilt has an excellent primer for biostatistics that incorporates R. Very practical and free, and he has great thoughts on clinical trial analysis. ](http://www.fharrell.com/doc/bbr.pdf)
+[Learning Python for Data Science](https://www.reddit.com/r/datascience/comments/93a4yl/learning_python_for_data_science/?st=JK91S0V9&sh=f774c3c7)
+
+
+[Learning Python for Data Science](https://www.reddit.com/r/datascience/comments/93a4yl/learning_python_for_data_science/?st=JK91S0V9&sh=f774c3c7)
+
+
+[New R Package Debugr – Use Automatic Debug Messages to Improve Your Code](https://www.r-bloggers.com/new-r-package-debugr-use-automatic-debug-messages-to-improve-your-code/amp/)
+
+
+**[Beyond Basic R – Introduction and Best Practices](https://www.r-bloggers.com/beyond-basic-r-introduction-and-best-practices/)**
+
+
+[A Certification for R Package Quality](https://www.r-bloggers.com/a-certification-for-r-package-quality/amp/)
+
+
+[Time-Dependent ROC for Survival Prediction Models in R](https://www.reddit.com/r/rstats/comments/93e93v/timedependent_roc_for_survival_prediction_models/?st=JKA1DIGQ&sh=428d9adc)
+
+
+[Time-Dependent ROC for Survival Prediction Models in R](https://www.reddit.com/r/rstats/comments/93e93v/timedependent_roc_for_survival_prediction_models/?st=JKA1DIGQ&sh=428d9adc)
+
+
+[How to Spotlight Your Apache Spark Skills](https://pluteski.github.io/speech-to-text/how-to-showcase-your-apache-spark-skills.html)
+
+
+[First Attempt to Create a Tutorial on Biostatistics Using R. Would Love to Hear Any Feedback or Questions Related to the Subject.](https://www.reddit.com/r/kaggle/comments/932ddj/first_attempt_to_create_a_tutorial_on/?st=JKA4L3RZ&sh=4bd6ecc9)
+
+
+[Your Friendly Guide to Colors in Data Visualisation](https://www.reddit.com/r/visualization/comments/93ngjk/your_friendly_guide_to_colors_in_data/?st=JKB4KA4M&sh=c38fc8c0)
+
+
+[Source Code Chapter Added to “Evidence-Based Software Engineering Using R”](https://www.r-bloggers.com/source-code-chapter-added-to-evidence-based-software-engineering-using-r/)
+
+
+[How to Correct Selection Bias](https://www.reddit.com/r/datascience/comments/93p7ii/how_to_correct_selection_bias/?st=JKB7P6UC&sh=03ffe990)
+
+
+[Clean Your Data in Seconds With This R Function](https://www.r-bloggers.com/clean-your-data-in-seconds-with-this-r-function/)
+
+
+[Get on Your Soapbox! R Blog Content and Promotion](https://www.r-bloggers.com/get-on-your-soapbox-r-blog-content-and-promotion/)
+
+
+[Just Use a Scatterplot. Also, Sydney Sprawls.](https://www.r-bloggers.com/just-use-a-scatterplot-also-sydney-sprawls/)
+
+
+[Machine Learning Results in R: One Plot to Rule Them All!](https://www.r-bloggers.com/machine-learning-results-in-r-one-plot-to-rule-them-all/)
+
+
+[Monte Carlo Shiny: Part Three](https://www.r-bloggers.com/monte-carlo-shiny-part-three/)
+
+
+[Automated Text Feature Engineering Using Textfeatures in R](https://www.r-bloggers.com/automated-text-feature-engineering-using-textfeatures-in-r/)
+
+
+[How to Read an Excel File Into R](https://www.r-bloggers.com/how-to-read-an-excel-file-into-r/)
+
+
+[Basic Generalised Linear Modelling – Part 1: Exercises](https://www.r-bloggers.com/basic-generalised-linear-modelling-part-1-exercises/)
+
+
+[Explaining Black-Box Machine Learning Models – Code Part 1: Tabular Data + Caret + Iml](https://www.r-bloggers.com/explaining-black-box-machine-learning-models-code-part-1-tabular-data-caret-iml/)
+
+
+[R.devices – Into the Void](https://www.r-bloggers.com/r-devices-into-the-void/)
+
+
+[RStudio:Addins Part 4 - Unit Testing Coverage Investigation and Improvement, Made Easy](https://jozefhajnala.gitlab.io/r/r104-unit-testing-coverage/)
+
+
+[Where to Get Help With Your R Question?](https://www.r-bloggers.com/where-to-get-help-with-your-r-question/)
+
+
+[MiKTeX Behind a Windows Firewall](https://www.r-bloggers.com/miktex-behind-a-windows-firewall/)
+
+
+[REST APIs and Plumber](https://www.r-bloggers.com/rest-apis-and-plumber/)
+
+
+[Gifski on CRAN: the Fastest GIF Encoder in the Universe](https://www.r-bloggers.com/gifski-on-cran-the-fastest-gif-encoder-in-the-universe/)
+
+
+[Machine Learning Results in R: One Plot to Rule Them All! (Part 2 – Regression Models)](https://www.r-bloggers.com/machine-learning-results-in-r-one-plot-to-rule-them-all-part-2-regression-models/)
+
+
+[Rj Editor – Analyse Your Data With R in Jamovi](https://www.r-bloggers.com/rj-editor-analyse-your-data-with-r-in-jamovi/)
+
+
+[House Price Data Cleansing and Segmentation Tool.](https://www.r-bloggers.com/house-price-data-cleansing-and-segmentation-tool/)
+
+
+[Visualizing Wine Reviews](https://www.r-bloggers.com/visualizing-wine-reviews/)
+
+
+[But Can Ravens Forecast?](https://www.r-bloggers.com/but-can-ravens-forecast/)
+
+
+[Announcing the 1St Bookdown Contest](https://www.r-bloggers.com/announcing-the-1st-bookdown-contest/)
+
+
+[Podcast on Nonclinical Statistics](https://www.r-bloggers.com/podcast-on-nonclinical-statistics/)
+
+
+[Long Running Tasks With Shiny: Challenges and Solutions](https://www.r-bloggers.com/long-running-tasks-with-shiny-challenges-and-solutions/)
+
+
+[Judging Freehand Circle Drawing Competitions](https://www.r-bloggers.com/judging-freehand-circle-drawing-competitions/)
+
+
+[highlighting-with-ggplot2-the-old-school-and-new-school-way/](https://www.r-bloggers.com/highlighting-with-ggplot2-the-old-school-and-new-school-way/)
