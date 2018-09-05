@@ -2,22 +2,51 @@
 ## Oakland Ford GoBikes
 
 Professor Eric Seuss, CSUEB
+
 * http://www.sci.csueastbay.edu/~esuess/
 * http://www.ratemyprofessors.com/ShowRatings.jsp?tid=1295355
+* http://www.sci.csueastbay.edu/~esuess/fordgobike/
+    * Try this and overwrite the github repository (below)
+    * Especially the section listing using the package gbfs to download from the API
+    
+* https://github.com/esuess
+* https://github.com/esuess/fordgobike2
+* https://github.com/esuess/fordgobike
+
+
+
+Data science at CSU East Bay
+
 
 
 Packages noted: 
+
 * https://cran.r-project.org/web/packages/rstanarm/index.html
 * Notebooks vs R Markdown 
-   * https://bookdown.org/yihui/rmarkdown/notebook.html
+    * https://bookdown.org/yihui/rmarkdown/notebook.html
+* tictoc
+* skimr
+    * skim() function looks awesome, especially the default histogram presentation
+* ggmap
+* gbfs
+
+
 
 Other notes
+
 * [Statistical Modeling: A Fresh Approach (Project MOSAIC Books), Daniel Kaplan](https://www.amazon.com/dp/B073WDBJ57/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
 * [UC Berkeley Certificate Program in Data Science](https://extension.berkeley.edu/public/category/courseCategoryCertificateProfile.do?method=load&certificateId=28652248)
 * Bay Area R User Group (meetup)
 * R Ladies (meetup)
 * R++ platform beta [link](https://rplusplus.com/en/)
 
+
+
 Projects:
+
 * Write up my project workflow in R
 * Write up my thoughts on how to learn R
+
+
+
+
