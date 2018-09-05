@@ -30,7 +30,9 @@
 
 [The Hacker&#39;s Diet](http://www.fourmilab.ch/hackdiet/e4/)
 
+[Role Playing with Probabilities: The Importance of Distributions](http://blog.revolutionanalytics.com/2017/11/role-playing-with-probabilities.html) 
 
+*[RolePlayingWithProbabilities.Rmd](https://github.com/JocelynBarker/RPGStatistics/blob/master/RolePlayingWithProbabilities.Rmd)
 
 ------
 
