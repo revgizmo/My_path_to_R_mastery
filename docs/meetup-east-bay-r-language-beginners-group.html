@@ -25,7 +25,7 @@
 <meta name="author" content="Conor Healy">
 
 
-<meta name="date" content="2018-09-15">
+<meta name="date" content="2018-10-06">
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="apple-mobile-web-app-capable" content="yes">
@@ -140,7 +140,10 @@ code > span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Inf
 </ul></li>
 </ul></li>
 <li class="chapter" data-level="4" data-path="meetup-east-bay-r-language-beginners-group.html"><a href="meetup-east-bay-r-language-beginners-group.html"><i class="fa fa-check"></i><b>4</b> Meetup - East Bay R Language Beginners Group</a><ul>
-<li class="chapter" data-level="4.1" data-path="meetup-east-bay-r-language-beginners-group.html"><a href="meetup-east-bay-r-language-beginners-group.html#oakland-ford-gobikes"><i class="fa fa-check"></i><b>4.1</b> Oakland Ford GoBikes</a></li>
+<li class="chapter" data-level="4.1" data-path="meetup-east-bay-r-language-beginners-group.html"><a href="meetup-east-bay-r-language-beginners-group.html#oakland-ford-gobikes---2018-09-04"><i class="fa fa-check"></i><b>4.1</b> Oakland Ford GoBikes - 2018-09-04</a></li>
+<li class="chapter" data-level="4.2" data-path="meetup-east-bay-r-language-beginners-group.html"><a href="meetup-east-bay-r-language-beginners-group.html#r-lightening-talks-time-series-classifier-interpretation-reticulate-python---2018-10-02"><i class="fa fa-check"></i><b>4.2</b> R Lightening Talks! Time Series, Classifier Interpretation, Reticulate Python - 2018-10-02</a><ul>
+<li class="chapter" data-level="4.2.1" data-path="meetup-east-bay-r-language-beginners-group.html"><a href="meetup-east-bay-r-language-beginners-group.html#jeff-newmiller"><i class="fa fa-check"></i><b>4.2.1</b> Jeff Newmiller</a></li>
+</ul></li>
 </ul></li>
 <li class="chapter" data-level="5" data-path="bookmarks.html"><a href="bookmarks.html"><i class="fa fa-check"></i><b>5</b> Bookmarks</a><ul>
 <li class="chapter" data-level="5.1" data-path="bookmarks.html"><a href="bookmarks.html#r-reference"><i class="fa fa-check"></i><b>5.1</b> R Reference</a></li>
@@ -194,8 +197,8 @@ code > span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Inf
             <section class="normal" id="section-">
 <div id="meetup---east-bay-r-language-beginners-group" class="section level1">
 <h1><span class="header-section-number">4</span> Meetup - East Bay R Language Beginners Group</h1>
-<div id="oakland-ford-gobikes" class="section level2">
-<h2><span class="header-section-number">4.1</span> Oakland Ford GoBikes</h2>
+<div id="oakland-ford-gobikes---2018-09-04" class="section level2">
+<h2><span class="header-section-number">4.1</span> Oakland Ford GoBikes - 2018-09-04</h2>
 <p>Professor Eric Seuss, CSUEB</p>
 <ul>
 <li><a href="http://www.sci.csueastbay.edu/~esuess/" class="uri">http://www.sci.csueastbay.edu/~esuess/</a></li>
@@ -238,7 +241,55 @@ code > span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Inf
 <li>Write up my project workflow in R</li>
 <li>Write up my thoughts on how to learn R</li>
 </ul>
+</div>
+<div id="r-lightening-talks-time-series-classifier-interpretation-reticulate-python---2018-10-02" class="section level2">
+<h2><span class="header-section-number">4.2</span> R Lightening Talks! Time Series, Classifier Interpretation, Reticulate Python - 2018-10-02</h2>
+<p><a href="https://www.meetup.com/r-enthusiasts/events/254842348/">Meetup Link</a></p>
+<p>Speaking:</p>
+<div id="jeff-newmiller" class="section level3">
+<h3><span class="header-section-number">4.2.1</span> Jeff Newmiller</h3>
+<p>A Quick Start for Handling Time-Series Data</p>
+<p>We will use the task of importing, summarizing and plotting a couple of time-stamped data sets to illustrate some pitfalls and best practices for working with time values in R.</p>
+<p>Bio</p>
+<p>Jeff Newmiller has been collecting and analyzing data using computers since 1981, and started using R in 2003. He currently assists investors in evaluating risk in solar photovoltaic power system projects, and develops physics-based and empirical (regression-based) models related to solar photovoltaic power equipment performance for DNV GL, an international engineering consulting firm.</p>
+<p><a href="https://github.com/jdnewmil/time-2018-10">Github - Overview of Date-Time Handling in R</a></p>
+<ul>
+<li>Excellent slideshow using slidy_presentation and RMarkdown</li>
+<li>Best practice, import the original datetime column, then convert to date. Then you can work backwards as you develop.
+<ul>
+<li>Timezone is important</li>
+<li>Set tz variable for the environment</li>
+<li><em>Don’t ever let your default timezone control how your data are interpreted! At a minimum invoke Sys.setenv(TZ=AppropriateTimeZone) at the beginning of your script.</em></li>
+</ul></li>
+</ul>
+<hr />
+<p>Stoney Vintson</p>
+<ol style="list-style-type: lower-alpha">
+<li>Quick Overview of Classifier Model Interpretation</li>
+</ol>
+<ul>
+<li>LIME (Local Interpretable Model-Agnostic Explanations)</li>
+<li><a href="https://github.com/thomasp85/lime" class="uri">https://github.com/thomasp85/lime</a></li>
+<li><a href="https://github.com/marcotcr/lime" class="uri">https://github.com/marcotcr/lime</a></li>
+<li>Shapely</li>
+<li><a href="https://christophm.github.io/interpretable-ml-book/" class="uri">https://christophm.github.io/interpretable-ml-book/</a></li>
+<li><a href="https://github.com/thomasp85/lime" class="uri">https://github.com/thomasp85/lime</a></li>
+<li><a href="https://github.com/christophm/iml" class="uri">https://github.com/christophm/iml</a></li>
+<li></li>
+</ul>
+<ol start="2" style="list-style-type: lower-alpha">
+<li>Hands on example in R with a github repo for further learning LIME and SMOTE for dealing with class imbalance in training examples</li>
+</ol>
+<p>Bio</p>
+<p>Stoney Vintson analyzes image and IMU data at Ceres Imaging. He has worked with computer vision at Trnio and Gigapan as well as a TA at the first immersive data class at General Assembly in San Francisco.</p>
+<hr />
+<p>Allan Miller</p>
+<p>Reticulate: Python for R Users</p>
+<p>How to access python modules from inside R using the Reticulate package, co-written by Hadley Wickham of RStudio and Wes McKinney, author of the python pandas library. We will discuss some examples of how to import python modules into R scripts, call python and pandas module functions, and pass data back and forth between python and R.</p>
+<p>Bio</p>
+<p>An active member of the Bay Area R community sine 2008, Allan Miller is an organizer of the East Bay R Meetup. He teaches statistics and data science using R at UC Berkeley Extension, is a member of their Data Science Advisory Committee, and is a Data Scientist at a local Solar Energy startup.</p>
 
+</div>
 </div>
 </div>
             </section>

@@ -1,5 +1,5 @@
 # Meetup - East Bay R Language Beginners Group
-## Oakland Ford GoBikes
+## Oakland Ford GoBikes - 2018-09-04
 
 Professor Eric Seuss, CSUEB
 
@@ -47,6 +47,64 @@ Projects:
 * Write up my project workflow in R
 * Write up my thoughts on how to learn R
 
+
+## R Lightening Talks! Time Series, Classifier Interpretation, Reticulate Python - 2018-10-02
+
+[Meetup Link](https://www.meetup.com/r-enthusiasts/events/254842348/)
+
+Speaking:
+
+### Jeff Newmiller
+
+A Quick Start for Handling Time-Series Data
+
+We will use the task of importing, summarizing and plotting a couple of time-stamped data sets to illustrate some pitfalls and best practices for working with time values in R.
+
+Bio
+
+Jeff Newmiller has been collecting and analyzing data using computers since 1981, and started using R in 2003. He currently assists investors in evaluating risk in solar photovoltaic power system projects, and develops physics-based and empirical (regression-based) models related to solar photovoltaic power equipment performance for DNV GL, an international engineering consulting firm.
+
+[Github - Overview of Date-Time Handling in R](https://github.com/jdnewmil/time-2018-10)
+
+* Excellent slideshow using slidy_presentation and RMarkdown
+* Best practice, import the original datetime column, then convert to date.  Then you can work backwards as you develop.
+    * Timezone is important
+    * Set tz variable for the environment
+    * _Don’t ever let your default timezone control how your data are interpreted! At a minimum invoke Sys.setenv(TZ=AppropriateTimeZone) at the beginning of your script._
+
+_________________________________________________________________________
+
+Stoney Vintson
+
+a. Quick Overview of Classifier Model Interpretation
+
+- LIME (Local Interpretable Model-Agnostic Explanations)
+- https://github.com/thomasp85/lime
+- https://github.com/marcotcr/lime
+- Shapely
+- https://christophm.github.io/interpretable-ml-book/
+- https://github.com/thomasp85/lime
+- https://github.com/christophm/iml
+- 
+
+b. Hands on example in R with a github repo for further learning
+LIME and SMOTE for dealing with class imbalance in training examples
+
+Bio
+
+Stoney Vintson analyzes image and IMU data at Ceres Imaging. He has worked with computer vision at Trnio and Gigapan as well as a TA at the first immersive data class at General Assembly in San Francisco.
+
+_________________________________________________________________________
+
+Allan Miller
+
+Reticulate: Python for R Users
+
+How to access python modules from inside R using the Reticulate package, co-written by Hadley Wickham of RStudio and Wes McKinney, author of the python pandas library. We will discuss some examples of how to import python modules into R scripts, call python and pandas module functions, and pass data back and forth between python and R.
+
+Bio
+
+An active member of the Bay Area R community sine 2008, Allan Miller is an organizer of the East Bay R Meetup. He teaches statistics and data science using R at UC Berkeley Extension, is a member of their Data Science Advisory Committee, and is a Data Scientist at a local Solar Energy startup.
 
 
 
