@@ -1,0 +1,28 @@
+## USF Intro session - 2018-10-19
+
+* [FAQ](https://www.usfca.edu/arts-sciences/graduate-programs/data-science/faqs)
+    * Recommended Linear Algebra course:
+        * [University of North Dakota](https://und.edu/academics/online/courses/enroll-anytime/math207.html#1)
+* 12 Month accelerated program
+    * 6 7-week modules & 1 2-week intersession course
+    * 7/8/19 - 6/28/19
+    * 60-80 hrs/wk
+    * Practicum:
+        * Similar to an internship, but with faculty mentors
+        * Want to ensure good probems / work mentors
+* Highly recommend applications by 12/5 - better scholarship opportunities, ore thorough review of applications
+* Pre-reqs: linear algebra @ accredited university
+    * Don't have to have completed prereqs, but need a defined plan.
+* Send info ?s to info@datascience
+* Faculty interview:
+    * Programming
+    * inferential statistics
+    * linear algebra
+* Personal statement: only 2 pages (won't even read page 3)
+    * show genuine interest in why this particular program
+    * where below average, address the issues
+        * want self-awareness - everyone struggles in the program - need to be able to self-evaluate
+* Letters of rec
+    * Strong letter of rec with detail of why fit for this program
+    * Work experience = 1 academic, 1 professional preferred
+    * Both can be from work if no reasonably current academic references

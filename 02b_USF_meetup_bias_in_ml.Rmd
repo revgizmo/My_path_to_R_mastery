@@ -1,0 +1,57 @@
+# Meetup - USF
+## Analysing & Preventing Unconscious Bias in Machine Learning. Rachel Thomas - 2018-10-19
+https://www.meetup.com/USF-Seminar-Series-in-Data-Science/events/254217548/
+Video: facebook.com/usfca.msds/
+
+Abstract: Increasingly AI is finding its way into nearly every product we use (everything from photo sharing apps to criminal justice decision algorithms), but often various types of bias are buried in the underlying data and models. This can have a damaging impact on both individuals and society. Through the lens of 3 case studies, we will look at how to diagnose bias, identify some sources, and some steps towards addressing it.
+
+* Check out gendershades.org
+    * Good example of use of data & diversity at varying levels of technical detail
+
+* Word Embeddings
+    * Word2Vec - google library of word embedings
+    * Stanford has a similar libraries
+    * Rachel Thomas - word embeddings youtube
+    * github: fastai/word-embeddings-workshop
+
+* ML can amplify bias
+
+* Compass software:
+    * Determining who has to post bail
+    * sentencing
+    * parole
+
+* Problems:
+    * Runaway feedback loops (predictive policing, etc.)
+    * Ethical variables to include - recedivism algorithms?
+
+* Solutions: 
+    * [AI ethics resources](http://www.fast.ai/2018/09/24/ai-ethics-resources/)
+    * [Fastai Practical Deep Learning For Coders course](http://course.fast.ai)
+    * De-bias word embeddings - at level of perception vs level of action
+        * Need to be looking for bias throughout
+    * __["Datasheets for Datasets"](https://arxiv.org/abs/1803.09010)__ - great paper/resource
+        * List of good questions about data sets
+        * Identify "human" elements of data sets
+        * Case study of history of datasets and regulations
+    * Meetup talk youtube: [Evan Estola - When Recommendations Systems Go Bad - MLconf SEA 2016](https://www.youtube.com/watch?v=MqoRzNhrTnQ)
+    * Talk to domain experts and those impacted
+    * Think about unintended consequences in advance:
+        * trolls/harassers
+        * authoritarian governments
+        * propaganda/disinformation
+
+* Questions:
+    * Bias in data
+    * Code auditable? Open source?
+    * Error rates for different sub-groups
+    * Accuracy of simple, rule-based alternative?
+    * Appeals process for mistakes?
+    * How diverse is the team building it?
+        * Diverse teams perform better
+        * Believing you are meritocratic INCREASES bias
+    * How do we address more nuanced biases once low hanging fruit are addressed?
+        * Can be an interesting conversation, but don't let perfect be the enemy of the good.
+    
+    
+    
