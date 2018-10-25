@@ -1,0 +1,51 @@
+#Test
+
+```{r}
+library(tidyverse)
+
+iphone_links <- "03_bookmarks_temp.Rmd"
+
+remove_md <- function(str) {
+  if (substr(str, 1, 1) == "[") {
+    str = substr(str, 2, nchar(str))
+  }
+
+  if (substr(str, nchar(str), nchar(str)) == ")") {
+    str = substr(str, 1, nchar(str) - 1)
+  }
+
+  return(str)
+}
+
+test <- read_lines(iphone_links, skip = 43, , n_max = 1000) %>%
+  as_tibble() %>%
+  filter(value != "") %>%
+  mutate(test1 = remove_md(value)) %>%
+  separate(test1, into = c("label", "url"), sep = "\\]\\(") %>%
+  distinct()
+
+
+
+test %>%
+  distinct(url)
+
+test_file <- "test2.Rmd"
+
+
+test %>% 
+  arrange(value) %>% 
+  select(value) %>%
+  rename(`# value` = value) %>%
+  pull() %>% 
+  paste(collapse = "\n\n\n") %>% 
+  paste("#test n stuff\n\n\n", .) %>% 
+  write_file(test_file)
+
+  
+
+
+
+
+```
+
+##Test stuff

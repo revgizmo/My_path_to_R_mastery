@@ -4,6 +4,46 @@
 
 ## R Links flagged on mobile that need to be integrated in blog
 
+
+
+**[Reproducible Development With Rmarkdown and Github](https://www.r-bloggers.com/reproducible-development-with-rmarkdown-and-github/)**
+
+
+**[Interactive Plots in Shiny](https://www.r-bloggers.com/interactive-plots-in-shiny/)**
+
+
+[The Art of R Programming](https://archive.org/details/Norman_Matloff___The_Art_of_R_Programming)
+
+* [pdf in my dropbox](https://www.dropbox.com/s/wos9b8jvqur1rca/NSPpart.pdf?dl=0)
+
+
+[A First Course in Statistical Programming with R](http://einspem.upm.edu.my/wopr2017/2016.pdf)
+
+* [pdf in my dropbox](https://www.dropbox.com/s/s95k9sk9d6b6l7y/2016.pdf?dl=0)
+
+
+[R in Action, Second Edition](https://www.manning.com/books/r-in-action-second-edition?a_bid=5c2b1e1d&a_aid=RiA2ed)
+
+* [GitHub - R in Action, Second Edition](https://github.com/kabacoff/RiA2)
+
+
+[Use Domain Knowledge to Review Prior Distributions](https://magesblog.com/post/2018-08-02-use-domain-knowledge-to-review-prior-predictive-distributions/)
+
+* interesting thinking about Bayesian priors and how to set them
+
+
+__[Structuring R Projects: a Pragmatic Perspective](https://www.reddit.com/r/rstats/comments/96ktpw/structuring_r_projects_a_pragmatic_perspective/?st=JKQ6MBUU&sh=99f2cb0b)__
+
+
+__[[SixSigma] Does Anyone Know of a Decent Package or Code Template for Six Sigma in R Visualisation via Ggplot2?](https://www.reddit.com/r/rstats/comments/99a3qz/sixsigma_does_anyone_know_of_a_decent_package_or/?st=JL4NORCE&sh=fe6ee7a2)__
+
+
+
+**[Beyond Basic R – Introduction and Best Practices](https://www.r-bloggers.com/beyond-basic-r-introduction-and-best-practices/)**
+
+--
+
+
 [in Honor of a Two Week Break, I Have Graphed the Dice Rolls From the Start of Season 2](https://reddit.app.link/ih4oa0pTCO)
 
 
@@ -127,17 +167,6 @@
 [Resources Learning Shiny in R?](https://www.reddit.com/r/datascience/comments/937ef0/resources_learning_shiny_in_r/?st=JK8TKF83&sh=9d04135f)
 
 
-[The Art of R Programming](https://archive.org/details/Norman_Matloff___The_Art_of_R_Programming)
-* [pdf in my dropbox](https://www.dropbox.com/s/wos9b8jvqur1rca/NSPpart.pdf?dl=0)
-
-[A First Course in Statistical Programming with R](http://einspem.upm.edu.my/wopr2017/2016.pdf)
-* [pdf in my dropbox](https://www.dropbox.com/s/s95k9sk9d6b6l7y/2016.pdf?dl=0)
-
-[R in Action, Second Edition](https://www.manning.com/books/r-in-action-second-edition?a_bid=5c2b1e1d&a_aid=RiA2ed)
-
-* [GitHub - R in Action, Second Edition](https://github.com/kabacoff/RiA2)
-
-
 [Efficient R Programming](https://csgillespie.github.io/efficientR/)
 
 
@@ -147,6 +176,8 @@
 [Efficient R Programming](https://csgillespie.github.io/efficientR/)
 
 [Frank Harrell from Vanderbilt has an excellent primer for biostatistics that incorporates R. Very practical and free, and he has great thoughts on clinical trial analysis. ](http://www.fharrell.com/doc/bbr.pdf)
+
+
 [Learning Python for Data Science](https://www.reddit.com/r/datascience/comments/93a4yl/learning_python_for_data_science/?st=JK91S0V9&sh=f774c3c7)
 
 
@@ -154,9 +185,6 @@
 
 
 [New R Package Debugr – Use Automatic Debug Messages to Improve Your Code](https://www.r-bloggers.com/new-r-package-debugr-use-automatic-debug-messages-to-improve-your-code/amp/)
-
-
-**[Beyond Basic R – Introduction and Best Practices](https://www.r-bloggers.com/beyond-basic-r-introduction-and-best-practices/)**
 
 
 [A Certification for R Package Quality](https://www.r-bloggers.com/a-certification-for-r-package-quality/amp/)
@@ -457,7 +485,7 @@
 ["R" for Six Sigma](https://www.linkedin.com/pulse/r-six-sigma-kaushlesh-kumar)
 
 
-[](https://cran.r-project.org/web/packages/qcc/vignettes/qcc_a_quick_tour.html)
+[qcc_a_quick_tour](https://cran.r-project.org/web/packages/qcc/vignettes/qcc_a_quick_tour.html)
 
 
 [Community Examples](https://www.rdocumentation.org/packages/qcc/versions/2.6/topics/qcc)
@@ -505,7 +533,7 @@
 ["R" for Six Sigma](https://www.linkedin.com/pulse/r-six-sigma-kaushlesh-kumar)
 
 
-[](https://cran.r-project.org/web/packages/qcc/vignettes/qcc_a_quick_tour.html)
+[qcc_a_quick_tour](https://cran.r-project.org/web/packages/qcc/vignettes/qcc_a_quick_tour.html)
 
 
 [Community Examples](https://www.rdocumentation.org/packages/qcc/versions/2.6/topics/qcc)
@@ -534,7 +562,7 @@
 [“Triple Your PowerPoint PRODUCTIVITY & Chart Creation With 3 Features You Never Knew Existed” It's Happening Right Now!](https://leapica.leadpages.co/nuts-bolts-12-5-webinar-lp/)
 
 
-[](http://idev.nutsandboltsspeedtraining.com/idevaffiliate.php?id=103_19)
+[nutsandboltsspeedtraining](http://idev.nutsandboltsspeedtraining.com/idevaffiliate.php?id=103_19)
 
 
 [6 Ways to Quit Bullet Points With Style](https://www.slideshare.net/PodiumWisdom/6-ways-to-quit-bullet-points-with-style-54732137?from_m_app=ios)
@@ -702,9 +730,6 @@
 [Beyond Basic R – Data Munging](https://www.r-bloggers.com/beyond-basic-r-data-munging/)
 
 
-[Use Domain Knowledge to Review Prior Distributions](https://magesblog.com/post/2018-08-02-use-domain-knowledge-to-review-prior-predictive-distributions/)
-
-* interesting thinking about Bayesian priors and how to set them
 [Stats Note: Making Sense of Open-Ended Responses With Text Analysis](https://www.r-bloggers.com/stats-note-making-sense-of-open-ended-responses-with-text-analysis/)
 
 
@@ -821,6 +846,8 @@
 [The Democratization of Data Science](https://hbr.org/2018/07/the-democratization-of-data-science)
 
 [Six Sigma for Weight Loss](https://m.qualitydigest.com/?url=http%3A%2F%2Fwww.qualitydigest.com%2Finside%2Fsix-sigma-column%2Fsix-sigma-weight-loss&width=412)
+
+
 [Non-Parametric or Parametric Tests When It Comes to Likert Scale Data?](https://www.reddit.com/r/statistics/comments/968n4b/nonparametric_or_parametric_tests_when_it_comes/?st=JKOD32D4&sh=6d8ff690)
 
 
@@ -858,9 +885,6 @@
 
 
 [5E Monster Manual on a Business Card](https://www.reddit.com/r/dndnext/comments/96itds/5e_monster_manual_on_a_business_card/?st=JKPX5XCI&sh=f497c093)
-
-
-__[Structuring R Projects: a Pragmatic Perspective](https://www.reddit.com/r/rstats/comments/96ktpw/structuring_r_projects_a_pragmatic_perspective/?st=JKQ6MBUU&sh=99f2cb0b)__
 
 
 [Data Scientist Starter Kit](http://www.saravera.us/)
@@ -1053,9 +1077,6 @@ __[Structuring R Projects: a Pragmatic Perspective](https://www.reddit.com/r/rst
 
 
 [How to Self-Publish a Book](https://www.r-bloggers.com/how-to-self-publish-a-book/)
-
-
-__[[SixSigma] Does Anyone Know of a Decent Package or Code Template for Six Sigma in R Visualisation via Ggplot2?](https://www.reddit.com/r/rstats/comments/99a3qz/sixsigma_does_anyone_know_of_a_decent_package_or/?st=JL4NORCE&sh=fe6ee7a2)__
 
 
 [Six Sigma DMAIC Series in R – Part 2](https://datascienceplus.com/six-sigma-dmaic-series-in-r-part-2/)
@@ -1292,12 +1313,6 @@ __[[SixSigma] Does Anyone Know of a Decent Package or Code Template for Six Sigm
 [Case Study: How to Build a High Performance Data Science Team](https://www.r-bloggers.com/case-study-how-to-build-a-high-performance-data-science-team/)
 
 
-**[Reproducible Development With Rmarkdown and Github](https://www.r-bloggers.com/reproducible-development-with-rmarkdown-and-github/)**
-
-
-**[Interactive Plots in Shiny](https://www.r-bloggers.com/interactive-plots-in-shiny/)**
-
-
 [RStudio Connect 1.6.8 – Emails, APIs, and Titles](https://www.r-bloggers.com/rstudio-connect-1-6-8-emails-apis-and-titles/)
 
 
@@ -1431,4 +1446,211 @@ __[[SixSigma] Does Anyone Know of a Decent Package or Code Template for Six Sigm
 
 
 [Comparing Dataframes in R Using Comparedf](https://www.r-bloggers.com/comparing-dataframes-in-r-using-comparedf/)
+
+[How to Learn Data Science if You’re Broke](https://medium.com/@harrisonjansma/how-to-learn-data-science-if-youre-broke-7ecc408b53c7?sk=4df4875d7a4b02be378af9d21503d5c2)
+
+
+[How to Avoid for Loop in R](https://www.r-bloggers.com/how-to-avoid-for-loop-in-r/)
+
+
+[How to Avoid for Loop in R](https://www.r-bloggers.com/how-to-avoid-for-loop-in-r/)
+
+
+[pasteLastVal](http://github.com/ksint/pasteLastVal)
+
+
+[Paste Last Value as Comment in RStudio, github.com/Ksint/pasteLastVal](https://www.reddit.com/r/rstats/comments/9go4ze/paste_last_value_as_comment_in_rstudio/?st=JM6UJ6K3&sh=307d839d)
+
+
+[pasteLastVal](http://github.com/ksint/pasteLastVal)
+
+
+[Paste Last Value as Comment in RStudio, github.com/Ksint/pasteLastVal](https://www.reddit.com/r/rstats/comments/9go4ze/paste_last_value_as_comment_in_rstudio/?st=JM6UJ6K3&sh=307d839d)
+
+
+[Downloading R](https://www.reddit.com/r/learnrstats/comments/98c2kc/lesson_0_downloading_r_rstudio_packages/?st=JM97XQ4F&sh=be24c837)
+
+
+[r/learnrstats](https://www.reddit.com/r/learnrstats/)
+
+
+[Lesson 12: R Shiny Part One](https://www.reddit.com/r/learnrstats/comments/9hbleb/lesson_12_r_shiny_part_one_a_first_look/?st=JMA1VJVS&sh=4fba89c8)
+
+
+[Case Study: How to Build a High Performance Data Science Team](https://www.r-bloggers.com/case-study-how-to-build-a-high-performance-data-science-team/)
+
+
+[RStudio Connect 1.6.8 – Emails, APIs, and Titles](https://www.r-bloggers.com/rstudio-connect-1-6-8-emails-apis-and-titles/)
+
+
+[LTV Prediction for a Recurring Subscription With R](https://www.r-bloggers.com/ltv-prediction-for-a-recurring-subscription-with-r/)
+
+
+[Snakes in a Package: Combining Python and R With Reticulate](https://www.r-bloggers.com/snakes-in-a-package-combining-python-and-r-with-reticulate/)
+
+
+[Building Reproducible Data Packages With DataPackageR](https://www.r-bloggers.com/building-reproducible-data-packages-with-datapackager/)
+
+
+[Becoming a Data Scientist (Transcript)](https://www.r-bloggers.com/becoming-a-data-scientist-transcript/)
+
+
+[Step Up Your Dashboard With Shinydashboard: Exercises (Part-2)](https://www.r-bloggers.com/step-up-your-dashboard-with-shinydashboard-exercises-part-2/)
+
+
+[Parameterizing With Bquote](https://www.r-bloggers.com/parameterizing-with-bquote/)
+
+
+[Data Visualization With Statistical Reasoning: Seeing Uncertainty With the Bootstrap](https://www.r-bloggers.com/data-visualization-with-statistical-reasoning-seeing-uncertainty-with-the-bootstrap/)
+
+
+[Why Vectorize?](https://www.r-bloggers.com/why-vectorize/)
+
+
+[How to Create a Sequential Model in Keras for R](https://www.r-bloggers.com/how-to-create-a-sequential-model-in-keras-for-r/)
+
+
+[Interpretation of the AUC](https://www.r-bloggers.com/interpretation-of-the-auc/)
+
+
+[Differences in Word Use Across Music Genres in Pitchfork Album Reviews](https://www.r-bloggers.com/differences-in-word-use-across-music-genres-in-pitchfork-album-reviews/)
+
+
+[Timing Column Indexing in R](https://www.r-bloggers.com/timing-column-indexing-in-r/)
+
+
+[Timing Column Indexing in R](https://www.r-bloggers.com/timing-column-indexing-in-r/)
+
+
+["Template" Like Scripts for R and Python?](https://www.reddit.com/r/datascience/comments/9i1we3/template_like_scripts_for_r_and_python/?st=JME0GPNR&sh=454005f9)
+
+
+[Where Am I?](https://www.r-bloggers.com/where-am-i/)
+
+
+[A Subtle Flaw in Some Popular R NSE Interfaces](https://www.r-bloggers.com/a-subtle-flaw-in-some-popular-r-nse-interfaces/)
+
+
+[Lonely Analyst Looking for Input on Workflow](https://www.reddit.com/r/rstats/comments/9igq2f/lonely_analyst_looking_for_input_on_workflow/?st=JMGRY5EV&sh=93d247b7)
+
+
+[Afex_Plot(): Publication-Ready Plots for Factorial Designs](https://www.r-bloggers.com/afex_plot-publication-ready-plots-for-factorial-designs/)
+
+
+[Building Online Interactive Simulators for Predictive Models in R](https://www.r-bloggers.com/building-online-interactive-simulators-for-predictive-models-in-r/)
+
+
+[Create Stylish Tables in R Using Formattable](https://www.r-bloggers.com/create-stylish-tables-in-r-using-formattable/)
+
+
+[Improving as a Data Scientist](https://www.reddit.com/r/datascience/comments/9itouq/improving_as_a_data_scientist/?st=JMIDPIOL&sh=504cb751)
+
+
+[Packt Free eBook 28Th September 2018: Modern R Programming Cookbook [PDF]](https://www.reddit.com/r/Packt/comments/9jl2be/packt_free_ebook_28th_september_2018_modern_r/?st=JMM1HB0Y&sh=ce08a7ab)
+
+
+[Visualize Your Portfolio’s Performance and Generate a Nice Report With R](https://www.reddit.com/r/rstats/comments/9jnc7f/visualize_your_portfolios_performance_and/?st=JMM7GSD6&sh=0d1aff72)
+
+
+[4 Ways to Be More Productive, Using RStudio’s Terminal](https://www.r-bloggers.com/4-ways-to-be-more-productive-using-rstudios-terminal/)
+
+
+[Visualize Your Portfolio’s Performance and Generate a Nice Report With R](https://www.r-bloggers.com/visualize-your-portfolios-performance-and-generate-a-nice-report-with-r/)
+
+
+[XKCD "Curve Fitting", in R](https://www.r-bloggers.com/xkcd-curve-fitting-in-r/)
+
+
+[Sexual Assault in the 80S and Christine Blasey Ford’s Testimony](https://www.r-bloggers.com/sexual-assault-in-the-80s-and-christine-blasey-fords-testimony/)
+
+
+[Wayfair Data Science Interview](https://www.reddit.com/r/datascience/comments/9k3wnw/wayfair_data_science_interview/?st=JMOU15SF&sh=37970fae)
+
+
+[Since Reading Triggers, This Is a Graph of the Last Three and a Half Months of My Average of Each Day's Eight Questions.](https://www.reddit.com/r/Cortex/comments/9k83ja/since_reading_triggers_this_is_a_graph_of_the/?st=JMPCJ2JW&sh=a147a682)
+
+
+[Data Science With R Course Series – Week 3](https://www.r-bloggers.com/data-science-with-r-course-series-week-3/)
+
+
+[Pull the Right Strings With Stringr: Exercises](https://www.r-bloggers.com/pull-the-right-strings-with-stringr-exercises/)
+
+
+[Tinkr: Editing Markdown Documents Using XML Tools](https://www.r-bloggers.com/tinkr-editing-markdown-documents-using-xml-tools/)
+
+
+[Pull the Right Strings With Stringr: Exercises](https://www.r-bloggers.com/pull-the-right-strings-with-stringr-exercises/)
+
+
+[Outcomerate: Transparent Communication of Quality in Social Surveys](https://www.r-bloggers.com/outcomerate-transparent-communication-of-quality-in-social-surveys/)
+
+
+[How to Build a Logistic Regression Model From Scratch in R (Without for Loops)](https://www.reddit.com/r/rstats/comments/9kpx2n/how_to_build_a_logistic_regression_model_from/?st=JMRX1LI2&sh=5b22fa71)
+
+
+[Reproducibility in R (Installing Certain Package Versions)](https://www.reddit.com/r/Rlanguage/comments/9kvzjn/reproducibility_in_r_installing_certain_package/?st=JMSIOP50&sh=7526cdd9)
+
+
+[4D6 Drop Lowest](https://anydice.com/articles/4d6-drop-lowest/)
+
+
+[Is There a Listing of R Conferences That Are Live Streamed or Archived for Viewing?](https://www.reddit.com/r/rstats/comments/9lpn87/is_there_a_listing_of_r_conferences_that_are_live/?st=JMWRHYOY&sh=d466b1b3)
+
+
+[Introducing Package `Cutr` Expanding Functionalities From `Base::Cut`, `Hmisc::Cut2` or `Ggplot::Cut_*` Functions (+ Other Neat Things)](https://www.reddit.com/r/rstats/comments/9lv41o/introducing_package_cutr_expanding/?st=JMXEEHLH&sh=00d2abac)
+
+
+[The Av Package: Production Quality Video in R](https://www.r-bloggers.com/the-av-package-production-quality-video-in-r/)
+
+
+[Commercial Data Analytics: an Economic View on the Data Science Methods](https://www.r-bloggers.com/commercial-data-analytics-an-economic-view-on-the-data-science-methods/)
+
+
+[Exporting Editable Plots From R to Excel: Making Ggplot2 Purrr With Officer](https://www.r-bloggers.com/exporting-editable-plots-from-r-to-excel-making-ggplot2-purrr-with-officer/)
+
+
+[Comparing Dataframes in R Using Comparedf](https://www.r-bloggers.com/comparing-dataframes-in-r-using-comparedf/)
+
+
+[Best Practices for Python Development](https://www.reddit.com/r/Python/comments/9lwraj/best_practices_for_python_development/?st=JMXWZ39R&sh=985abf03)
+
+
+[Quick Significance Calculations for a/B Tests in R](https://www.r-bloggers.com/quick-significance-calculations-for-a-b-tests-in-r/)
+
+
+__[The “Gold Standard” of Data Science Project Management](https://www.r-bloggers.com/the-gold-standard-of-data-science-project-management/)__
+
+
+[R and Python: How to Integrate the Best of Both Into Your Data Science Workflow](https://www.r-bloggers.com/r-and-python-how-to-integrate-the-best-of-both-into-your-data-science-workflow/)
+
+
+[R and Python: How to Integrate the Best of Both Into Your Data Science Workflow](https://www.r-bloggers.com/r-and-python-how-to-integrate-the-best-of-both-into-your-data-science-workflow/)
+
+
+[Mining Sent Email for Self-Knowledge](https://www.r-bloggers.com/mining-sent-email-for-self-knowledge/)
+
+
+["Data Visualization: a Practical Introduction" - Free Draft of a Forthcoming Textbook on the Subject of Data Viz by Kieran Healy. a Great Read Outlining Best Practices With Examples in R.](https://www.reddit.com/r/datascience/comments/9ml4cx/data_visualization_a_practical_introduction_free/?st=JN16SLDW&sh=24e88b63)
+
+
+[The Hacker's Guide to Uncertainty Estimates](https://erikbern.com/2018/10/08/the-hackers-guide-to-uncertainty-estimates.html)
+
+
+[Reading Strategy for the Following Books?](https://www.reddit.com/r/datascience/comments/9n3et9/reading_strategy_for_the_following_books/?st=JN40V77E&sh=2c98b095)
+
+
+[Peeling Back the Curtain. the Economist Is Publishing the Data Behind Their Reporting](https://www.reddit.com/r/datascience/comments/9ni996/peeling_back_the_curtain_the_economist_is/?st=JN5ZOJMT&sh=8ef93a4c)
+
+
+[Lessons Now Available on Github for Download and Organization](https://www.reddit.com/r/learnrstats/comments/9nvpo3/lessons_now_available_on_github_for_download_and/?st=JN80OP9Y&sh=fe2e8314)
+
+
+[Automating the Grading of R Scripts](https://www.reddit.com/r/rstats/comments/9o4k75/automating_the_grading_of_r_scripts/?st=JN986OF3&sh=e0b46c0b)
+
+
+[How to Import a Directory of Csvs at Once With Base R and data.table. Can You Guess Which Way Is the Fastest?](https://www.r-bloggers.com/how-to-import-a-directory-of-csvs-at-once-with-base-r-and-data-table-can-you-guess-which-way-is-the-fastest/)
+
+
+[How Do You Interpret Logistic Regression Results?](https://www.reddit.com/r/statistics/comments/9qf9c1/how_do_you_interpret_logistic_regression_results/?st=JNKPLI4Z&sh=aaee1520)
+
 

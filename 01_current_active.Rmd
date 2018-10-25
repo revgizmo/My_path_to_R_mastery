@@ -1,4 +1,4 @@
-#Current Active Bookmarks  {#active}
+#Current Active Bookmarks  {#index}
 
 
 ------
@@ -7,6 +7,7 @@
 
 * Build a Workflow to add these links to github
 * Build an r process to manage these links and the projects related to them
+    * see test.Rmd, test2.Rmd, and the remove_md() function in the Automating Git/Markdown workflow section of functions.R
 
 
 
