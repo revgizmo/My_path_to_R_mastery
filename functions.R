@@ -429,3 +429,25 @@ df_names_class[["class_updated"]] <- map(df, class)
 return(df)
 
 }
+
+
+
+
+# Automating Git/Markdown workflow ----------------------------------------------------------
+
+
+iphone_links <- "03_bookmarks_temp.Rmd"
+
+remove_md <- function(str) {
+  if (substr(str, 1, 1) == "[") {
+    str = substr(str, 2, nchar(str))
+  }
+
+  if (substr(str, nchar(str), nchar(str)) == ")") {
+    str = substr(str, 1, nchar(str) - 1)
+  }
+
+  return(str)
+}
+
+
