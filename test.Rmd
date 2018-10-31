@@ -17,32 +17,34 @@ remove_md <- function(str) {
   return(str)
 }
 
-test <- read_lines(iphone_links, skip = 43, , n_max = 1000) %>%
-  as_tibble() %>%
-  filter(value != "") %>%
-  mutate(test1 = remove_md(value)) %>%
-  separate(test1, into = c("label", "url"), sep = "\\]\\(") %>%
-  distinct()
-
-
-
-test %>%
-  distinct(url)
-
+test <- read_lines(iphone_links, skip = 10, n_max = 1000)
 test_file <- "test2.Rmd"
+
+if(length(test) > 0) {
+  test <- test %>%
+    as_tibble() %>%
+    filter(value != "") %>%
+    mutate(test1 = remove_md(value)) %>%
+    separate(test1, into = c("label", "url"), sep = "\\]\\(") %>%
+    distinct() %>% 
+    arrange(value) %>% 
+    select(value) %>%
+    rename(`# value` = value) %>%
+    pull()
+} 
+
+
+# 
+# test %>%
+#   distinct(url)
+
+
 
 
 test %>% 
-  arrange(value) %>% 
-  select(value) %>%
-  rename(`# value` = value) %>%
-  pull() %>% 
   paste(collapse = "\n\n\n") %>% 
   paste("#test n stuff\n\n\n", .) %>% 
   write_file(test_file)
-
-  
-
 
 
 

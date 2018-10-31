@@ -2,174 +2,72 @@
 
 ## Python
 
-[Best Practices for Python Development](https://www.reddit.com/r/Python/comments/9lwraj/best_practices_for_python_development/?st=JMXWZ39R&sh=985abf03)
+### Python & Other Stuff - Annotated
 
-[My Interview With Tim Harford on Misleading Statistics, Naive Predictions and Sticky Research](https://www.reddit.com/r/statistics/comments/9gtj7h/my_interview_with_tim_harford_on_misleading/?st=JM7M2779&sh=72e3a209)
-
-
-[My Interview With Tim Harford on Misleading Statistics, Naive Predictions and Sticky Research](https://www.reddit.com/r/statistics/comments/9gtj7h/my_interview_with_tim_harford_on_misleading/?st=JM7M2779&sh=72e3a209)
+__[The Open-Source Data Science Masters](https://github.com/datasciencemasters/go/blob/master/README.md)__
 
 
-[Super Potato Bruh - a Game Written Entirely in Python/Pygame.](https://www.reddit.com/r/Python/comments/9h76as/super_potato_bruh_a_game_written_entirely_in/?st=JM9FTYCK&sh=e6a391f9)
+__[Need Some Beginner Friendly Projects on Github.](https://www.reddit.com/r/learnprogramming/comments/9qypf6/need_some_beginner_friendly_projects_on_github/?st=JNNKDCQU&sh=877601c8)__
 
 
-[Learn to Loop the Python Way: Iterators and Generators Explained](https://www.reddit.com/r/Python/comments/9h5nyn/learn_to_loop_the_python_way_iterators_and/?st=JM9FYQE6&sh=a6de62a8)
+__[Celebrating Five Years](https://hacktoberfest.digitalocean.com/)__
 
 
-[A Good Guide for Creating Surveys and Questionnaires](https://www.reddit.com/r/psychology/comments/9hpy0i/a_good_guide_for_creating_surveys_and/?st=JMCFKLOU&sh=3ebce138)
+__[Best Python/Jupyter/PyCharm Experience + Report Generation With Pandoc Filters](https://www.reddit.com/r/IPython/comments/9pic5h/best_pythonjupyterpycharm_experience_report/?st=JNGDU1RC&sh=73717df9)__
 
 
-[I Made a Cheatsheet for a Co-Worker Thought It Could Be of Use Here.](https://www.reddit.com/r/learnpython/comments/9hv1ra/i_made_a_cheatsheet_for_a_coworker_thought_it/?st=JMCQHEM8&sh=f16b2433)
+__[Python for Data Science for Dummies](https://www.dummies.com/store/product/Python-for-Data-Science-For-Dummies.productCd-1118844181,navId-322449.html)__:
+
+ * [PYTHON FOR DATA SCIENCE FOR DUMMIES CHEAT SHEET](https://www.dummies.com/programming/python/python-for-data-science-for-dummies-cheat-sheet/)
+ * [Source Files](https://www.dummies.com/store/product/Python-for-Data-Science-For-Dummies.productCd-1118844181,navId-322449,descCd-DOWNLOAD.html)
 
 
-[I Just Finished Creating a Few Programs That Edit Images](https://www.reddit.com/r/learnpython/comments/9i8bjs/i_just_finished_creating_a_few_programs_that_edit/?st=JMEXZ2XN&sh=59dfb12d)
 
-
-[IWantToLearn](https://www.reddit.com/r/IWantToLearn/comments/9i6ugo/i_just_published_5_reasons_why_i_learned_python/?st=JMF2RG3Q&sh=ecf29d3d)
-
-
-[Openly Licensed Extensive Introduction to Supervised Learning With TensorFlow by Lukas Schmelzeisen (2018) Including Many Code Examples!](https://www.reddit.com/r/datascience/comments/9iqpgq/openly_licensed_extensive_introduction_to/?st=JMHOI8RI&sh=bd8a30e8)
-
-
-[How We (Dropbox) Rolled Out One of the Largest Python 3 Migrations Ever](https://www.reddit.com/r/Python/comments/9iuzrm/how_we_dropbox_rolled_out_one_of_the_largest/?st=JMI9118K&sh=40bca44b)
-
-
-[[USEFUL] Collection of Good Cheatsheets](https://www.reddit.com/r/datascience/comments/9jztst/useful_collection_of_good_cheatsheets/?st=JMO8Q4P5&sh=fbe5bd98)
-
-
-[Siri Shortcuts Resources](https://www.reddit.com/r/shortcuts/comments/9k0sup/siri_shortcuts_resources/?st=JMO8SU78&sh=e7c30654)
-
+### Python & Other Stuff - to read without annotation
 
 [[GITHUB] Amazing Web Scraper for Shutterstock and GettyImages](https://www.reddit.com/r/learnpython/comments/9k9rsh/github_amazing_web_scraper_for_shutterstock_and/?st=JMPCWDJM&sh=58d14cd2)
-
-
-[Chromebook Data Science - a Free Online Data Science Program for Anyone With a Web Browser. · Simply Statistics](https://www.reddit.com/r/datascience/comments/9kivvx/chromebook_data_science_a_free_online_data/?st=JMQSZ1IA&sh=2e4971b4)
-
-
-[Full Stack Data Science (Transcript)](https://www.r-bloggers.com/full-stack-data-science-transcript/)
-
-
-[I Analyzed More Than 40,000 YouTube Trending Videos With Python. Here Are the Results With the Code](https://www.reddit.com/r/datascience/comments/9kpmcn/i_analyzed_more_than_40000_youtube_trending/?st=JMRTS300&sh=53a435b3)
-
-
-[Comparison of the Most Useful Text Processing APIs](https://www.reddit.com/r/datascience/comments/9kq9bp/comparison_of_the_most_useful_text_processing_apis/?st=JMRYX3RR&sh=0e590f7f)
-
-
-[Hitchhiker's Guide to Exploratory Data Analysis](https://www.reddit.com/r/datascience/comments/9ktgf1/hitchhikers_guide_to_exploratory_data_analysis/?st=JMS40F0Z&sh=4b639b04)
-
-
-[How to Create Nice Scientific Plots Using Matplotlib](https://www.reddit.com/r/learnpython/comments/9kvs9x/how_to_create_nice_scientific_plots_using/?st=JMSI824U&sh=731db010)
-
-
-[Linux4Noobs](https://www.reddit.com/r/linux4noobs/comments/9l2oml/a_beginners_guide_to_vim/?st=JMTS9EDS&sh=295a5c8f)
-
-
-[Lessons Learnt by Facebook Data Scientist Brandon Rohrer](https://www.reddit.com/r/datascience/comments/9l5fpk/lessons_learnt_by_facebook_data_scientist_brandon/?st=JMTTROCE&sh=1379aa44)
-
-
-[I Built a Simple App That Allows You to Turn Your Trained Model Into a REST Endpoint for Everyone to Use.](https://www.reddit.com/r/datascience/comments/9lg0vm/i_built_a_simple_app_that_allows_you_to_turn_your/?st=JMVFCJMD&sh=01347be2)
-
-
-[Awesome Python Newsletter - Issue 124](https://www.reddit.com/r/Python/comments/9lictk/awesome_python_newsletter_issue_124/?st=JMVFEEB0&sh=039ad2b3)
-
-
-[Ultimate List of Youtube Channels for Deep Learning and Computer Vision](https://www.reddit.com/r/MachinesLearn/comments/9lujsc/ultimate_list_of_youtube_channels_for_deep/?st=JMXF22KO&sh=fd2b9aa4)
-
-
-[My Interview With Tim Harford on Misleading Statistics, Naive Predictions and Sticky Research](https://www.reddit.com/r/statistics/comments/9gtj7h/my_interview_with_tim_harford_on_misleading/?st=JM7M2779&sh=72e3a209)
-
-
-[My Interview With Tim Harford on Misleading Statistics, Naive Predictions and Sticky Research](https://www.reddit.com/r/statistics/comments/9gtj7h/my_interview_with_tim_harford_on_misleading/?st=JM7M2779&sh=72e3a209)
-
-
-[Super Potato Bruh - a Game Written Entirely in Python/Pygame.](https://www.reddit.com/r/Python/comments/9h76as/super_potato_bruh_a_game_written_entirely_in/?st=JM9FTYCK&sh=e6a391f9)
-
-
-[Learn to Loop the Python Way: Iterators and Generators Explained](https://www.reddit.com/r/Python/comments/9h5nyn/learn_to_loop_the_python_way_iterators_and/?st=JM9FYQE6&sh=a6de62a8)
-
-
-[A Good Guide for Creating Surveys and Questionnaires](https://www.reddit.com/r/psychology/comments/9hpy0i/a_good_guide_for_creating_surveys_and/?st=JMCFKLOU&sh=3ebce138)
-
-
-[I Made a Cheatsheet for a Co-Worker Thought It Could Be of Use Here.](https://www.reddit.com/r/learnpython/comments/9hv1ra/i_made_a_cheatsheet_for_a_coworker_thought_it/?st=JMCQHEM8&sh=f16b2433)
-
-
-[I Just Finished Creating a Few Programs That Edit Images](https://www.reddit.com/r/learnpython/comments/9i8bjs/i_just_finished_creating_a_few_programs_that_edit/?st=JMEXZ2XN&sh=59dfb12d)
-
-
-[IWantToLearn](https://www.reddit.com/r/IWantToLearn/comments/9i6ugo/i_just_published_5_reasons_why_i_learned_python/?st=JMF2RG3Q&sh=ecf29d3d)
-
-
-[Openly Licensed Extensive Introduction to Supervised Learning With TensorFlow by Lukas Schmelzeisen (2018) Including Many Code Examples!](https://www.reddit.com/r/datascience/comments/9iqpgq/openly_licensed_extensive_introduction_to/?st=JMHOI8RI&sh=bd8a30e8)
-
-
-[How We (Dropbox) Rolled Out One of the Largest Python 3 Migrations Ever](https://www.reddit.com/r/Python/comments/9iuzrm/how_we_dropbox_rolled_out_one_of_the_largest/?st=JMI9118K&sh=40bca44b)
-
-
-[[USEFUL] Collection of Good Cheatsheets](https://www.reddit.com/r/datascience/comments/9jztst/useful_collection_of_good_cheatsheets/?st=JMO8Q4P5&sh=fbe5bd98)
-
-
-[Siri Shortcuts Resources](https://www.reddit.com/r/shortcuts/comments/9k0sup/siri_shortcuts_resources/?st=JMO8SU78&sh=e7c30654)
-
-
-[[GITHUB] Amazing Web Scraper for Shutterstock and GettyImages](https://www.reddit.com/r/learnpython/comments/9k9rsh/github_amazing_web_scraper_for_shutterstock_and/?st=JMPCWDJM&sh=58d14cd2)
-
-
-[Chromebook Data Science - a Free Online Data Science Program for Anyone With a Web Browser. · Simply Statistics](https://www.reddit.com/r/datascience/comments/9kivvx/chromebook_data_science_a_free_online_data/?st=JMQSZ1IA&sh=2e4971b4)
-
-
-[Full Stack Data Science (Transcript)](https://www.r-bloggers.com/full-stack-data-science-transcript/)
-
-
-[I Analyzed More Than 40,000 YouTube Trending Videos With Python. Here Are the Results With the Code](https://www.reddit.com/r/datascience/comments/9kpmcn/i_analyzed_more_than_40000_youtube_trending/?st=JMRTS300&sh=53a435b3)
-
-
-[Comparison of the Most Useful Text Processing APIs](https://www.reddit.com/r/datascience/comments/9kq9bp/comparison_of_the_most_useful_text_processing_apis/?st=JMRYX3RR&sh=0e590f7f)
-
-
-[Hitchhiker's Guide to Exploratory Data Analysis](https://www.reddit.com/r/datascience/comments/9ktgf1/hitchhikers_guide_to_exploratory_data_analysis/?st=JMS40F0Z&sh=4b639b04)
-
-
-[How to Create Nice Scientific Plots Using Matplotlib](https://www.reddit.com/r/learnpython/comments/9kvs9x/how_to_create_nice_scientific_plots_using/?st=JMSI824U&sh=731db010)
-
-
-[Linux4Noobs](https://www.reddit.com/r/linux4noobs/comments/9l2oml/a_beginners_guide_to_vim/?st=JMTS9EDS&sh=295a5c8f)
-
-
-[Lessons Learnt by Facebook Data Scientist Brandon Rohrer](https://www.reddit.com/r/datascience/comments/9l5fpk/lessons_learnt_by_facebook_data_scientist_brandon/?st=JMTTROCE&sh=1379aa44)
-
-
-[I Built a Simple App That Allows You to Turn Your Trained Model Into a REST Endpoint for Everyone to Use.](https://www.reddit.com/r/datascience/comments/9lg0vm/i_built_a_simple_app_that_allows_you_to_turn_your/?st=JMVFCJMD&sh=01347be2)
-
-
-[Awesome Python Newsletter - Issue 124](https://www.reddit.com/r/Python/comments/9lictk/awesome_python_newsletter_issue_124/?st=JMVFEEB0&sh=039ad2b3)
-
-
-[Ultimate List of Youtube Channels for Deep Learning and Computer Vision](https://www.reddit.com/r/MachinesLearn/comments/9lujsc/ultimate_list_of_youtube_channels_for_deep/?st=JMXF22KO&sh=fd2b9aa4)
 
 
 [[P] "Mathematics for Machine Learning": Drafts for All Chapters Now Available](https://www.reddit.com/r/MachineLearning/comments/9lzabc/p_mathematics_for_machine_learning_drafts_for_all/?st=JMY6JQOR&sh=07acc4ca)
 
 
-[MachinesLearn](https://www.reddit.com/r/MachinesLearn/comments/9nh3kv/top_10_ai_podcasts/?st=JN5I3U0F&sh=76522f89)
+[[USEFUL] Collection of Good Cheatsheets](https://www.reddit.com/r/datascience/comments/9jztst/useful_collection_of_good_cheatsheets/?st=JMO8Q4P5&sh=fbe5bd98)
 
 
-[Mvillaloboz/Open-Source-Cs-Degree](https://github.com/mvillaloboz/open-source-cs-degree)
+[20 AI and Machine Learning Blogs](https://www.reddit.com/r/MachinesLearn/comments/9qlke6/20_ai_and_machine_learning_blogs/?st=JNLSE9K7&sh=525907c9)
 
 
-__[The Open-Source Data Science Masters](https://github.com/datasciencemasters/go/blob/master/README.md)__
+[A Good Guide for Creating Surveys and Questionnaires](https://www.reddit.com/r/psychology/comments/9hpy0i/a_good_guide_for_creating_surveys_and/?st=JMCFKLOU&sh=3ebce138)
 
 
-[Learn Git Branching](https://learngitbranching.js.org/)
+[Awesome Python Newsletter - Issue 124](https://www.reddit.com/r/Python/comments/9lictk/awesome_python_newsletter_issue_124/?st=JMVFEEB0&sh=039ad2b3)
 
 
-[Python for Data Science](https://www.edx.org/course/python-for-data-science-0)
+[Best Practices for Python Development](https://www.reddit.com/r/Python/comments/9lwraj/best_practices_for_python_development/?st=JMXWZ39R&sh=985abf03)
 
 
-[I Made a Free Course for New Programmers With Strategies to Code Projects More Effectively](https://www.reddit.com/r/learnprogramming/comments/9o5nb2/i_made_a_free_course_for_new_programmers_with/?st=JN9JW9SB&sh=60e2af75)
+[Chromebook Data Science - a Free Online Data Science Program for Anyone With a Web Browser. · Simply Statistics](https://www.reddit.com/r/datascience/comments/9kivvx/chromebook_data_science_a_free_online_data/?st=JMQSZ1IA&sh=2e4971b4)
 
 
-[Vim-Galore: Everything You Need to Know About Vim](https://www.reddit.com/r/coolgithubprojects/comments/9okp1a/vimgalore_everything_you_need_to_know_about_vim/?st=JNBUHIR9&sh=470147dc)
+[Clear All Your Doubts About Process Sigma Calculation for Both Continuous and Discrete Data Types - Most of the Trainers and Blogs Talk About DPMO Only](https://www.reddit.com/r/leansixsigma/comments/9pm8wc/clear_all_your_doubts_about_process_sigma/?st=JNGDSRVE&sh=0571414b)
+
+
+[Comparison of the Most Useful Text Processing APIs](https://www.reddit.com/r/datascience/comments/9kq9bp/comparison_of_the_most_useful_text_processing_apis/?st=JMRYX3RR&sh=0e590f7f)
+
+
+[Full Stack Data Science (Transcript)](https://www.r-bloggers.com/full-stack-data-science-transcript/)
+
+
+[Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+
+
+[GitHub - OmkarPathak/Django-Bookworm: a Fun Project to Store My Learning From Each Book That I Read.](https://www.reddit.com/r/coolgithubprojects/comments/9q2v2c/github_omkarpathakdjangobookworm_a_fun_project_to/?st=JNIXXLX6&sh=7f35255f)
+
+
+[Handy Statistics Guidebook Recommendations?](https://www.reddit.com/r/statistics/comments/9qcpzr/handy_statistics_guidebook_recommendations/?st=JNKBCKD9&sh=277f000b)
+
+
+[Hitchhiker's Guide to Exploratory Data Analysis](https://www.reddit.com/r/datascience/comments/9ktgf1/hitchhikers_guide_to_exploratory_data_analysis/?st=JMS40F0Z&sh=4b639b04)
 
 
 [How Can Self-Learners Learn Programming in the Most Efficient Way? a Pragmatic Approach](https://www.reddit.com/r/learnprogramming/comments/9onnrd/how_can_selflearners_learn_programming_in_the/?st=JNBXER6C&sh=73d3d4e3)
@@ -178,51 +76,85 @@ __[The Open-Source Data Science Masters](https://github.com/datasciencemasters/g
 [How Do You Organize Your Python API Project? I Mean Folder Structure and Modules.](https://www.reddit.com/r/learnpython/comments/9ot7eb/how_do_you_organize_your_python_api_project_i/?st=JNCJ8BHW&sh=fe1327e4)
 
 
-[Upcase Is Now Free! - Loads of High Quality Tutorials on Ruby, JS, TDD, Git, Vim Etc.](https://www.reddit.com/r/learnprogramming/comments/9p72tl/upcase_is_now_free_loads_of_high_quality/?st=JNEMJ06Z&sh=8e2bf335)
+[How to Create Nice Scientific Plots Using Matplotlib](https://www.reddit.com/r/learnpython/comments/9kvs9x/how_to_create_nice_scientific_plots_using/?st=JMSI824U&sh=731db010)
 
 
-[We're Launching a 'Reddit' for Jupyter Notebooks](https://www.reddit.com/r/datascience/comments/9plu6q/were_launching_a_reddit_for_jupyter_notebooks/?st=JNGC99WG&sh=e438102c)
+[How We (Dropbox) Rolled Out One of the Largest Python 3 Migrations Ever](https://www.reddit.com/r/Python/comments/9iuzrm/how_we_dropbox_rolled_out_one_of_the_largest/?st=JMI9118K&sh=40bca44b)
 
 
-[Clear All Your Doubts About Process Sigma Calculation for Both Continuous and Discrete Data Types - Most of the Trainers and Blogs Talk About DPMO Only](https://www.reddit.com/r/leansixsigma/comments/9pm8wc/clear_all_your_doubts_about_process_sigma/?st=JNGDSRVE&sh=0571414b)
+[I Analyzed More Than 40,000 YouTube Trending Videos With Python. Here Are the Results With the Code](https://www.reddit.com/r/datascience/comments/9kpmcn/i_analyzed_more_than_40000_youtube_trending/?st=JMRTS300&sh=53a435b3)
 
 
-__[Best Python/Jupyter/PyCharm Experience + Report Generation With Pandoc Filters](https://www.reddit.com/r/IPython/comments/9pic5h/best_pythonjupyterpycharm_experience_report/?st=JNGDU1RC&sh=73717df9)__
+[I Built a Simple App That Allows You to Turn Your Trained Model Into a REST Endpoint for Everyone to Use.](https://www.reddit.com/r/datascience/comments/9lg0vm/i_built_a_simple_app_that_allows_you_to_turn_your/?st=JMVFCJMD&sh=01347be2)
 
 
-[GitHub - OmkarPathak/Django-Bookworm: a Fun Project to Store My Learning From Each Book That I Read.](https://www.reddit.com/r/coolgithubprojects/comments/9q2v2c/github_omkarpathakdjangobookworm_a_fun_project_to/?st=JNIXXLX6&sh=7f35255f)
+[I Just Finished Creating a Few Programs That Edit Images](https://www.reddit.com/r/learnpython/comments/9i8bjs/i_just_finished_creating_a_few_programs_that_edit/?st=JMEXZ2XN&sh=59dfb12d)
 
 
-[What Would You Have Told Yourself...](https://www.reddit.com/r/Python/comments/9q3aw7/what_would_you_have_told_yourself/?st=JNIYEALE&sh=64a0d59d)
-
-__[Python for Data Science for Dummies](https://www.dummies.com/store/product/Python-for-Data-Science-For-Dummies.productCd-1118844181,navId-322449.html)__:
-
- * [PYTHON FOR DATA SCIENCE FOR DUMMIES CHEAT SHEET](https://www.dummies.com/programming/python/python-for-data-science-for-dummies-cheat-sheet/)
- * [Source Files](https://www.dummies.com/store/product/Python-for-Data-Science-For-Dummies.productCd-1118844181,navId-322449,descCd-DOWNLOAD.html)
+[I Made a Cheatsheet for a Co-Worker Thought It Could Be of Use Here.](https://www.reddit.com/r/learnpython/comments/9hv1ra/i_made_a_cheatsheet_for_a_coworker_thought_it/?st=JMCQHEM8&sh=f16b2433)
 
 
-[What Is the Complete Work Flow of Any Data Science Project?](https://www.reddit.com/r/datascience/comments/9q9bmv/what_is_the_complete_work_flow_of_any_data/?st=JNJSJ5OD&sh=056ba32f)
+[I Made a Free Course for New Programmers With Strategies to Code Projects More Effectively](https://www.reddit.com/r/learnprogramming/comments/9o5nb2/i_made_a_free_course_for_new_programmers_with/?st=JN9JW9SB&sh=60e2af75)
 
 
-[Handy Statistics Guidebook Recommendations?](https://www.reddit.com/r/statistics/comments/9qcpzr/handy_statistics_guidebook_recommendations/?st=JNKBCKD9&sh=277f000b)
+[IWantToLearn](https://www.reddit.com/r/IWantToLearn/comments/9i6ugo/i_just_published_5_reasons_why_i_learned_python/?st=JMF2RG3Q&sh=ecf29d3d)
 
 
-[20 AI and Machine Learning Blogs](https://www.reddit.com/r/MachinesLearn/comments/9qlke6/20_ai_and_machine_learning_blogs/?st=JNLSE9K7&sh=525907c9)
+[Learn Git Branching](https://learngitbranching.js.org/)
 
 
-[Tips and Tricks for Keeping a Healthy Git Repository](https://www.reddit.com/r/programming/comments/9qxtp9/tips_and_tricks_for_keeping_a_healthy_git/?st=JNNITS9W&sh=9b10b9e2)
+[Learn to Loop the Python Way: Iterators and Generators Explained](https://www.reddit.com/r/Python/comments/9h5nyn/learn_to_loop_the_python_way_iterators_and/?st=JM9FYQE6&sh=a6de62a8)
 
 
-[Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+[Lessons Learnt by Facebook Data Scientist Brandon Rohrer](https://www.reddit.com/r/datascience/comments/9l5fpk/lessons_learnt_by_facebook_data_scientist_brandon/?st=JMTTROCE&sh=1379aa44)
+
+
+[Linux4Noobs](https://www.reddit.com/r/linux4noobs/comments/9l2oml/a_beginners_guide_to_vim/?st=JMTS9EDS&sh=295a5c8f)
+
+
+[MachinesLearn](https://www.reddit.com/r/MachinesLearn/comments/9nh3kv/top_10_ai_podcasts/?st=JN5I3U0F&sh=76522f89)
+
+
+[Mvillaloboz/Open-Source-Cs-Degree](https://github.com/mvillaloboz/open-source-cs-degree)
+
+
+[My Interview With Tim Harford on Misleading Statistics, Naive Predictions and Sticky Research](https://www.reddit.com/r/statistics/comments/9gtj7h/my_interview_with_tim_harford_on_misleading/?st=JM7M2779&sh=72e3a209)
 
 
 [OneFlow - a Git Branching Model and Workflow](https://www.endoflineblog.com/oneflow-a-git-branching-model-and-workflow)
 
 
-__[Need Some Beginner Friendly Projects on Github.](https://www.reddit.com/r/learnprogramming/comments/9qypf6/need_some_beginner_friendly_projects_on_github/?st=JNNKDCQU&sh=877601c8)__
+[Openly Licensed Extensive Introduction to Supervised Learning With TensorFlow by Lukas Schmelzeisen (2018) Including Many Code Examples!](https://www.reddit.com/r/datascience/comments/9iqpgq/openly_licensed_extensive_introduction_to/?st=JMHOI8RI&sh=bd8a30e8)
 
 
-__[Celebrating Five Years](https://hacktoberfest.digitalocean.com/)__
+[Python for Data Science](https://www.edx.org/course/python-for-data-science-0)
+
+
+[Siri Shortcuts Resources](https://www.reddit.com/r/shortcuts/comments/9k0sup/siri_shortcuts_resources/?st=JMO8SU78&sh=e7c30654)
+
+
+[Super Potato Bruh - a Game Written Entirely in Python/Pygame.](https://www.reddit.com/r/Python/comments/9h76as/super_potato_bruh_a_game_written_entirely_in/?st=JM9FTYCK&sh=e6a391f9)
+
+
+[Tips and Tricks for Keeping a Healthy Git Repository](https://www.reddit.com/r/programming/comments/9qxtp9/tips_and_tricks_for_keeping_a_healthy_git/?st=JNNITS9W&sh=9b10b9e2)
+
+
+[Ultimate List of Youtube Channels for Deep Learning and Computer Vision](https://www.reddit.com/r/MachinesLearn/comments/9lujsc/ultimate_list_of_youtube_channels_for_deep/?st=JMXF22KO&sh=fd2b9aa4)
+
+
+[Upcase Is Now Free! - Loads of High Quality Tutorials on Ruby, JS, TDD, Git, Vim Etc.](https://www.reddit.com/r/learnprogramming/comments/9p72tl/upcase_is_now_free_loads_of_high_quality/?st=JNEMJ06Z&sh=8e2bf335)
+
+
+[Vim-Galore: Everything You Need to Know About Vim](https://www.reddit.com/r/coolgithubprojects/comments/9okp1a/vimgalore_everything_you_need_to_know_about_vim/?st=JNBUHIR9&sh=470147dc)
+
+
+[We're Launching a 'Reddit' for Jupyter Notebooks](https://www.reddit.com/r/datascience/comments/9plu6q/were_launching_a_reddit_for_jupyter_notebooks/?st=JNGC99WG&sh=e438102c)
+
+
+[What Is the Complete Work Flow of Any Data Science Project?](https://www.reddit.com/r/datascience/comments/9q9bmv/what_is_the_complete_work_flow_of_any_data/?st=JNJSJ5OD&sh=056ba32f)
+
+
+[What Would You Have Told Yourself...](https://www.reddit.com/r/Python/comments/9q3aw7/what_would_you_have_told_yourself/?st=JNIYEALE&sh=64a0d59d)
 
 
 

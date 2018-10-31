@@ -1,4 +1,4 @@
-# Bookmarks
+# Bookmarks with Thought
 
 
 
@@ -213,6 +213,42 @@ Data Analytics Classroom
 
 
 
+**[Reproducible Development With Rmarkdown and Github](https://www.r-bloggers.com/reproducible-development-with-rmarkdown-and-github/)**
+
+
+**[Interactive Plots in Shiny](https://www.r-bloggers.com/interactive-plots-in-shiny/)**
+
+
+[The Art of R Programming](https://archive.org/details/Norman_Matloff___The_Art_of_R_Programming)
+
+* [pdf in my dropbox](https://www.dropbox.com/s/wos9b8jvqur1rca/NSPpart.pdf?dl=0)
+
+
+[A First Course in Statistical Programming with R](http://einspem.upm.edu.my/wopr2017/2016.pdf)
+
+* [pdf in my dropbox](https://www.dropbox.com/s/s95k9sk9d6b6l7y/2016.pdf?dl=0)
+
+
+[R in Action, Second Edition](https://www.manning.com/books/r-in-action-second-edition?a_bid=5c2b1e1d&a_aid=RiA2ed)
+
+* [GitHub - R in Action, Second Edition](https://github.com/kabacoff/RiA2)
+
+
+[Use Domain Knowledge to Review Prior Distributions](https://magesblog.com/post/2018-08-02-use-domain-knowledge-to-review-prior-predictive-distributions/)
+
+* interesting thinking about Bayesian priors and how to set them
+
+
+**[Structuring R Projects: a Pragmatic Perspective](https://www.reddit.com/r/rstats/comments/96ktpw/structuring_r_projects_a_pragmatic_perspective/?st=JKQ6MBUU&sh=99f2cb0b)**
+
+
+**[[SixSigma] Does Anyone Know of a Decent Package or Code Template for Six Sigma in R Visualisation via Ggplot2?](https://www.reddit.com/r/rstats/comments/99a3qz/sixsigma_does_anyone_know_of_a_decent_package_or/?st=JL4NORCE&sh=fe6ee7a2)**
+
+
+
+**[Beyond Basic R – Introduction and Best Practices](https://www.r-bloggers.com/beyond-basic-r-introduction-and-best-practices/)**
+
+
 
 ## R links/blog posts to read without annotation
 
@@ -230,6 +266,9 @@ Data Analytics Classroom
 
 
 [20 Free Online Courses to Learn Data Science](https://www.reddit.com/r/datascience/comments/8zbd1t/20_free_online_courses_to_learn_data_science/?st=JJOH13CS&sh=6dd306bb)
+
+
+[91 Best Photoshop Tutorials (From Basic to Advanced)](https://www.reddit.com/r/howto/comments/91i1x5/91_best_photoshop_tutorials_from_basic_to_advanced/?st=JJZYKKH0&sh=aa42c844)
 
 
 [A Comparative Review of the Deducer GUI for R](https://www.r-bloggers.com/a-comparative-review-of-the-deducer-gui-for-r/)
@@ -257,6 +296,9 @@ Data Analytics Classroom
 
 
 [A Recipe for Recipes](https://www.r-bloggers.com/a-recipe-for-recipes/)
+
+
+[A very basic tutorial for performing linear mixed effects analyses (Tutorial 2)](http://www.bodowinter.com/tutorial/bw_LME_tutorial2.pdf)
 
 
 [Advice to Aspiring Data Scientists: Start a Blog](http://varianceexplained.org/r/start-blog/)
@@ -301,6 +343,9 @@ Data Analytics Classroom
 [Anomaly Detection for Business Metrics with R](https://www.r-bloggers.com/anomaly-detection-for-business-metrics-with-r/)
 
 
+[Antipredator Behavior With R (or Why Wildebeest Should Stay Together)](https://www.r-bloggers.com/antipredator-behavior-with-r-or-why-wildebeest-should-stay-together/)
+
+
 [Any Ideas for Some Projects I Can Do to Show Off My Knowledge of R?](https://www.reddit.com/r/Rlanguage/comments/8i35fl/any_ideas_for_some_projects_i_can_do_to_show_off/?st=JGYLSTF9&sh=212e6066)
 
 
@@ -328,10 +373,13 @@ Data Analytics Classroom
 [Awesome Twitter Word Clouds in R](https://www.r-bloggers.com/awesome-twitter-word-clouds-in-r/)
 
 
-[Beautiful and Powerful Correlation Tables in R](https://www.r-bloggers.com/beautiful-and-powerful-correlation-tables-in-r/amp/)
+[Basics of EDA Using Iris Dataset](https://www.reddit.com/r/datascience/comments/8zypdy/basics_of_eda_using_iris_dataset/?st=JJRKVCFE&sh=9a0de43c)
 
 
 [Beautiful and Powerful Correlation Tables in R](https://www.r-bloggers.com/beautiful-and-powerful-correlation-tables-in-r-2/)
+
+
+[Beautiful and Powerful Correlation Tables in R](https://www.r-bloggers.com/beautiful-and-powerful-correlation-tables-in-r/amp/)
 
 
 [Beautiful Visualizations in R](https://www.r-bloggers.com/beautiful-visualizations-in-r/)
@@ -356,6 +404,9 @@ Data Analytics Classroom
 
 
 [Book suggestions for a student pursuing a degree in statistics?](https://www.reddit.com/r/statistics/comments/8qaik1/book_suggestions_for_a_student_pursuing_a_degree/?st=JIALAOPO&sh=820546be)
+
+
+[Breaking Into Data Science in Seattle](https://www.reddit.com/r/datascience/comments/91j500/breaking_into_data_science_in_seattle/?st=JK02PD0P&sh=13fdf95e)
 
 
 [Broom: Let's Tidy Up a Bit](https://github.com/tidyverse/broom/blob/master/README.md)
@@ -416,6 +467,9 @@ Data Analytics Classroom
 
 
 [Data + Art STEAM Project: Initial Results](https://www.r-bloggers.com/data-art-steam-project-initial-results/)
+
+
+[Data Analyst to Data Scientist](https://www.reddit.com/r/datascience/comments/90w2zi/data_analyst_to_data_scientist/?st=JJX2G94K&sh=941ed7ff)
 
 
 [Data fallacies to avoid](https://www.geckoboard.com/assets/data-fallacies-to-avoid.pdf)
@@ -499,6 +553,9 @@ Data Analytics Classroom
 [Extract FRED Data for OLS Regression Analysis: a Complete R Tutorial](https://www.reddit.com/r/rstats/comments/8udyhj/extract_fred_data_for_ols_regression_analysis_a/?st=JIXRG4R1&sh=be56fdd8)
 
 
+[Extracting Tables From PDFs in R Using the Tabulizer Package](https://www.reddit.com/r/rstats/comments/90kjeo/extracting_tables_from_pdfs_in_r_using_the/?st=JJUMLNYP&sh=16893fb5)
+
+
 [Extreme Makeover: R Graphics Edition](https://www.stat.auckland.ac.nz/%7Epaul/Reports/deviceloc/deviceloc.html)
 
 
@@ -541,6 +598,9 @@ Data Analytics Classroom
 [Ggplotgui](https://github.com/gertstulp/ggplotgui/blob/master/README.md)
 
 
+[Git-Novice](https://github.com/swcarpentry/git-novice)
+
+
 [Git and GitHub](http://r-pkgs.had.co.nz/git.html)
 
 
@@ -563,9 +623,6 @@ Data Analytics Classroom
 
 
 [github.com/topepo/recipes](https://github.com/topepo/recipes)
-
-
-[Git-Novice](https://github.com/swcarpentry/git-novice)
 
 
 [Global Migration, Animated With R](http://blog.revolutionanalytics.com/2018/06/global-migration-animated-with-r.html)
@@ -610,6 +667,9 @@ Data Analytics Classroom
 [How to Plot With Dygraphs: Exercises](https://www.r-bloggers.com/how-to-plot-with-dygraphs-exercises/amp/)
 
 
+[How to Quickly Make Reusable World Maps Based on Excel Worksheet Data Using Ggplot and RStudio!](https://www.reddit.com/r/RStudio/comments/9119mg/how_to_quickly_make_reusable_world_maps_based_on/?st=JJXI3UJ2&sh=4e7d6656)
+
+
 [How to setup RStudio Server Open Source Edition like the Pro version](https://www.reddit.com/r/rstats/comments/8sofmb/how_to_setup_rstudio_server_open_source_edition/?st=JIO1INHO&sh=0f9ab105)
 
 
@@ -622,7 +682,13 @@ Data Analytics Classroom
 [Icon: Web Icons for Rmarkdown](https://www.r-bloggers.com/icon-web-icons-for-rmarkdown/)
 
 
+[Importance of Conveying Facts Through Storytelling in Data Science - for Data Scientists](https://www.reddit.com/r/datascience/comments/90g0t6/importance_of_conveying_facts_through/?st=JJU2RCWX&sh=3e138ce1)
+
+
 [In Case You Missed It: June 2018 Roundup](https://www.r-bloggers.com/in-case-you-missed-it-june-2018-roundup/)
+
+
+[in Honor of a Two Week Break, I Have Graphed the Dice Rolls From the Start of Season 2](https://reddit.app.link/ih4oa0pTCO)
 
 
 [In RStudio, How Do You Decide Which Code Goes in Your RMarkdown Document and Which Code Goes in Your RScript?](https://www.reddit.com/r/rstats/comments/5t8s2h/in_rstudio_how_do_you_decide_which_code_goes_in/)
@@ -670,6 +736,9 @@ Data Analytics Classroom
 [Leaderboard](https://www.rdocumentation.org/trends?page1=3&sort1=direct&page2=1&sort2=total&page3=1&page4=1)
 
 
+[Learn About Pi-Hole Ad Blocking for Your Home Network](https://www.reddit.com/r/raspberry_pi/comments/91r20f/learn_about_pihole_ad_blocking_for_your_home/?st=JK17SAQ6&sh=25c572c1)
+
+
 [Learn the Tidyverse](https://www.tidyverse.org/learn/)
 
 
@@ -706,6 +775,9 @@ Data Analytics Classroom
 [Machine learning may be most useful in tiny, embedded, offline processors / Boing Boing](https://boingboing.net/2018/06/11/smart-dust.html)
 
 
+[Machine Learning Results in R: One Plot to Rule Them All! (Part 2 – Regression Models)](https://www.reddit.com/r/rstats/comments/91gt8t/machine_learning_results_in_r_one_plot_to_rule/?st=JJZQL5P4&sh=ac5509ca)
+
+
 [Markov Chain Delinquency Problem in R](https://www.reddit.com/r/statistics/comments/8q3kyt/markov_chain_delinquency_problem_in_r/?st=JI9BLVWO&sh=93f88cee)
 
 
@@ -733,7 +805,13 @@ Data Analytics Classroom
 [Monte Carlo Part Two](https://www.r-bloggers.com/monte-carlo-part-two/)
 
 
+[Monte Carlo Simulation of E [OC]](https://www.reddit.com/r/dataisbeautiful/comments/91rgzy/monte_carlo_simulation_of_e_oc/?st=JK17Q7AM&sh=ab26ac2f)
+
+
 [More Tidy Evaluation With Ggplot2](https://www.r-bloggers.com/more-tidy-evaluation-with-ggplot2/)
+
+
+[Multiple Linear Regression R Code With Optimal Adjusted R^2](https://www.reddit.com/r/Rlanguage/comments/90ikh5/multiple_linear_regression_r_code_with_optimal/?st=JJUFATCT&sh=92593b48)
 
 
 [My "Frite" Package Was Just Published by Cran. It Provides Basic Tools for Code Generation and Diagnostic Functions That Are Useful in Everyday Scenarios.](https://www.reddit.com/r/rstats/comments/8vjusr/my_frite_package_was_just_published_by_cran_it/?st=JJ4T9PJJ&sh=b413f0cb)
@@ -829,6 +907,9 @@ Data Analytics Classroom
 [Questions About Questions](https://challenge.threesixtygiving.org/faq)
 
 
+[r-podcast](https://github.com/rbind/r-podcast)
+
+
 [R and Version Control for the Solo Data Analyst](https://stackoverflow.com/questions/2712421/r-and-version-control-for-the-solo-data-analyst)
 
 
@@ -841,6 +922,9 @@ Data Analytics Classroom
 [R Functions for Bayesian Model Statistics and Summaries #Rstats #Stan #Brms](https://www.r-bloggers.com/r-functions-for-bayesian-model-statistics-and-summaries-rstats-stan-brms/)
 
 
+[R Markdown: How to Format Tables and Figures in .Docx Files](https://www.reddit.com/r/rstats/comments/90lsht/r_markdown_how_to_format_tables_and_figures_in/?st=JJUUCZTK&sh=95b2242c)
+
+
 [R Markdown: the Definitive Guide](https://reddit.app.link/fKnq23M1xO)
 
 
@@ -851,6 +935,9 @@ Data Analytics Classroom
 
 
 [R Resources (Free Courses, Books, Tutorials, & Cheat Sheets)](https://paulvanderlaken.com/2017/08/10/r-resources-cheatsheets-tutorials-books/)
+
+
+[R Studio](http://studywalk.com/index.php?route=product/category&path=109_149)
 
 
 [R Tip: Use Qc() for Fast Legible Quoting](http://www.win-vector.com/blog/2018/02/r-tip-use-qc-for-fast-legible-quoting/)
@@ -869,6 +956,9 @@ Data Analytics Classroom
 
 
 [Reading financial statements (PDF) for data analysis](https://reddit.app.link/KfMOsV5ytN)
+
+
+[Recommend the Book to Learn R in 14 Days for Medical Research to a Person That Already Knows Programming and Basic Statistics.](https://www.reddit.com/r/Rlanguage/comments/91v33z/recommend_the_book_to_learn_r_in_14_days_for/?st=JK1QOJU0&sh=fbc7a5fd)
 
 
 [Recommended Courses](https://www.datacamp.com/courses)
@@ -895,6 +985,9 @@ Data Analytics Classroom
 [Resources for Data Imputation?](https://www.reddit.com/r/rstats/comments/8iokrl/resources_for_data_imputation/?st=JH28FVR8&sh=af8f2f02)
 
 
+[REST APIs and Plumber](https://www.reddit.com/r/rstats/comments/918a5h/rest_apis_and_plumber/?st=JJYH1VJM&sh=0cb18a04)
+
+
 [Ricochet Id: Ricochet:2Bax37Pseb6Mewj4](https://rud.is/)
 
 
@@ -902,9 +995,6 @@ Data Analytics Classroom
 
 
 [RpadTpDataScientist1](http://nirvacana.com/thoughts/wp-content/uploads/2018/01/RoadToDataScientist1.png)
-
-
-[r-podcast](https://github.com/rbind/r-podcast)
 
 
 [Rstudio::Conf 2018 Summary](https://paulvanderlaken.com/2018/02/08/rstudioconf-2018-summary/)
@@ -920,6 +1010,9 @@ Data Analytics Classroom
 
 
 [Seanchrismurphy/a-Psychologists-Guide-to-R](https://github.com/seanchrismurphy/A-Psychologists-Guide-to-R)
+
+
+[Sentiment Analysis of Slack Reviews Using R](https://www.reddit.com/r/Rlanguage/comments/91kkff/sentiment_analysis_of_slack_reviews_using_r/?st=JK05B7SY&sh=3e70ff36)
 
 
 [Sentiment Use Across the Course of Pitchfork Music Reviews: a Tidy Text Analysis With R](https://www.r-bloggers.com/sentiment-use-across-the-course-of-pitchfork-music-reviews-a-tidy-text-analysis-with-r/)
@@ -940,6 +1033,9 @@ Data Analytics Classroom
 [Should You Learn R or Python for Data Science?](http://blog.revolutionanalytics.com/2018/06/python-or-r.html)
 
 
+[Simple Guide to Learn How to Analyse Multilevel (Diary) Data?](https://www.reddit.com/r/rstats/comments/919ql6/simple_guide_to_learn_how_to_analyse_multilevel/?st=JJYROMWJ&sh=0739cc1f)
+
+
 [Skip to Content](https://github.com/contact)
 
 
@@ -950,6 +1046,9 @@ Data Analytics Classroom
 
 
 [Soliciting Reactions to My Portfolio Project](https://www.reddit.com/r/rstats/comments/8jw5lz/soliciting_reactions_to_my_portfolio_project/?st=JH9PQ3GI&sh=ab711c9b)
+
+
+[Some Exercises Related to Logistic Regression, Principal Component Analysis, Linear Discriminant Analysis, Support Vector Machines, the Kernel Trick, Word Embedding and Constrained Optimization. Feedback and Stars Appreciated :P](https://www.reddit.com/r/datascience/comments/91au8m/some_exercises_related_to_logistic_regression/?st=JJYVX9MA&sh=01e1fcb3)
 
 
 [Sometimes You Just Need a Little Help.](https://help.github.com/)
@@ -1081,6 +1180,9 @@ Data Analytics Classroom
 [Welcome to DataCamp](https://www.datacamp.com/onboarding)
 
 
+[What's New in Azure for Machine Learning and AI](http://blog.revolutionanalytics.com/2018/06/whats-new-in-azure-for-machine-learning-and-ai.html)
+
+
 [What Is the R Assignment Operator := For?](https://stackoverflow.com/questions/32817780/what-is-the-r-assignment-operator-for)
 
 
@@ -1088,9 +1190,6 @@ Data Analytics Classroom
 
 
 [What You Can Expect From R](https://mran.microsoft.com/documents/what-is-r/)
-
-
-[What's New in Azure for Machine Learning and AI](http://blog.revolutionanalytics.com/2018/06/whats-new-in-azure-for-machine-learning-and-ai.html)
 
 
 [Why I Rarely Use Apply](https://www.r-bloggers.com/why-i-rarely-use-apply/)
@@ -1111,9 +1210,6 @@ Data Analytics Classroom
 [Write Your Own R Package](http://stat545.com/packages06_foofactors-package.html)
 
 
-[Writing better R functions part four – April 17, 2018 R-bloggers](https://www.r-bloggers.com/writing-better-r-functions-part-four-april-17-2018/)
-
-
 [Writing Better R Functions Part Four – April 17, 2018](https://www.r-bloggers.com/writing-better-r-functions-part-four-april-17-2018/)
 
 
@@ -1127,5 +1223,3 @@ Data Analytics Classroom
 
 
 [Z Is for Z-Scores and Standardizing](https://www.r-bloggers.com/z-is-for-z-scores-and-standardizing/amp/)
-
-
