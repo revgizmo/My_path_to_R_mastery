@@ -8,7 +8,20 @@
 * Build a Workflow to add these links to github
 * Build an r process to manage these links and the projects related to them
     * see test.Rmd, test2.Rmd, and the remove_md() function in the Automating Git/Markdown workflow section of functions.R
+* keep Blog Active
+    * **[Advice to Aspiring Data Scientists: Start a Blog](http://varianceexplained.org/r/start-blog/)**
 
+
+------
+
+## Linear Algebra
+
+[Khan Academy Linear algebra](https://www.khanacademy.org/math/linear-algebra)
+
+[Because I've had to reference my linear algebra recommendations post several times now, here are my updated recommendations.](https://www.reddit.com/r/statistics/comments/8s9ql7/because_ive_had_to_reference_my_linear_algebra/?st=JIM9LI6I&sh=1e12e0d1)
+
+
+[Best Resources to Self-Study Graduate Statistics?](https://www.reddit.com/r/statistics/comments/8jqv3l/best_resources_to_selfstudy_graduate_statistics/?st=JH8K1JLI&sh=e39322d7)
 
 
 ------
@@ -165,6 +178,12 @@ https://www.webpagefx.com/blog/web-design/git-tutorials-beginners/
 [VERSION CONTROL WITH RSTUDIO AND GITHUB(https://aberdeenstudygroup.github.io/studyGroup/lessons/SG-T1-GitHubVersionControl/VersionControl/)
 
 * 2018-06-16: very high level overview of git with RStudio.  Jenny Bryan's happygitwithr is far superior.
+
+
+[Git-Novice](https://github.com/swcarpentry/git-novice)
+
+
+[Git and GitHub](http://r-pkgs.had.co.nz/git.html)
 
 
 

@@ -32,8 +32,8 @@
   <meta name="apple-mobile-web-app-status-bar-style" content="black">
   
   
-<link rel="prev" href="other-stuff.html">
-<link rel="next" href="test.html">
+<link rel="prev" href="learning-resources.html">
+<link rel="next" href="meetup-east-bay-r-language-beginners-group.html">
 <script src="libs/jquery-2.2.3/jquery.min.js"></script>
 <link href="libs/gitbook-2.6.7/css/style.css" rel="stylesheet" />
 <link href="libs/gitbook-2.6.7/css/plugin-bookdown.css" rel="stylesheet" />
@@ -218,63 +218,62 @@ code > span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Inf
           <div class="page-inner">
 
             <section class="normal" id="section-">
-<div id="playground" class="section level1">
-<h1><span class="header-section-number">9</span> Playground</h1>
-<div id="building-a-hacker-news-scraper-with-8-lines-of-r-code-using-rvest-library" class="section level2">
-<h2><span class="header-section-number">9.1</span> <a href="https://datascienceplus.com/building-a-hacker-news-scraper-with-8-lines-of-r-code-using-rvest-library/">Building a Hacker News scraper with 8 lines of R code using rvest library</a></h2>
+<div id="uc-berkeley-mids-program" class="section level1">
+<h1><span class="header-section-number">3</span> UC Berkeley MIDS program</h1>
+<div id="useful-links" class="section level2">
+<h2><span class="header-section-number">3.1</span> Useful Links</h2>
+<p><a href="https://www.ischool.berkeley.edu/home">I School Website</a></p>
 <ul>
-<li>Cool, simple idea for web scraping in R, but the character strings created by this method didn’t line up (there were links with no link_domain or score)</li>
+<li><a href="https://www.ischool.berkeley.edu/courses/datasci/2019/spring">Schedule of classes</a> for the Spring 2019 term</li>
 </ul>
-<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="co">#install.packages(&#39;rvest&#39;)</span>
-<span class="kw">library</span>(rvest)</code></pre></div>
-<pre><code>## Loading required package: xml2</code></pre>
-<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r">url &lt;-<span class="st"> &#39;https://news.ycombinator.com/&#39;</span>
-
-<span class="co">#further pages </span>
-<span class="co">#url2 &lt;- &#39;https://news.ycombinator.com/news?p=2&#39;</span>
-
-content &lt;-<span class="st"> </span><span class="kw">read_html</span>(url)
-
-<span class="co">#News Title</span>
-
-title &lt;-<span class="st"> </span>content <span class="op">%&gt;%</span><span class="st"> </span><span class="kw">html_nodes</span>(<span class="st">&#39;a.storylink&#39;</span>) <span class="op">%&gt;%</span><span class="st"> </span><span class="kw">html_text</span>()
-
-<span class="co">#News Link Domain</span>
-
-link_domain &lt;-<span class="st"> </span>content <span class="op">%&gt;%</span><span class="st"> </span><span class="kw">html_nodes</span>(<span class="st">&#39;span.sitestr&#39;</span>) <span class="op">%&gt;%</span><span class="st"> </span><span class="kw">html_text</span>()
-
-<span class="co">#Link Score / Upvote</span>
-
-score &lt;-<span class="st"> </span>content <span class="op">%&gt;%</span><span class="st"> </span><span class="kw">html_nodes</span>(<span class="st">&#39;span.score&#39;</span>) <span class="op">%&gt;%</span><span class="st"> </span><span class="kw">html_text</span>()
-
-<span class="co">#Link Age (submission time)</span>
-
-age &lt;-<span class="st"> </span>content <span class="op">%&gt;%</span><span class="st"> </span><span class="kw">html_nodes</span>(<span class="st">&#39;span.age&#39;</span>) <span class="op">%&gt;%</span><span class="st"> </span><span class="kw">html_text</span>()
-
-<span class="co">#Final Dataframe</span>
-
-<span class="co">#df &lt;- data.frame(title = title, link_domain = link_domain, score = score, age = age)</span>
-<span class="co">#Naive way of extracting the entire page content with this table</span>
-<span class="co">#tb &lt;- content %&gt;% html_node(&#39;table.itemlist&#39;) %&gt;% html_text()</span></code></pre></div>
+<p><a href="learn.datascience.berkeley.edu">I School Virtual Campus</a></p>
+<p><a href="https://zoom.us/meeting">Zoom</a> - use google login with CalNet email</p>
+<p><a href="https://calcentral.berkeley.edu/">CalCentral</a></p>
+<p><a href="https://bconnected.berkeley.edu/">bConnected</a> - Berkeley’s G Suite for Education</p>
+<p><a href="https://ucbischool.slack.com/" class="uri">https://ucbischool.slack.com/</a></p>
+<p><a href="https://piazza.com/">Piazza</a></p>
+<p><a href="https://www.study.net/default.asp">study.net</a></p>
+<p><a href="https://auth.berkeley.edu/cas/login?service=https%3A%2F%2Fbcourses.berkeley.edu%2Flogin%2Fcas">bCourses</a> - Web-based tool providing a resource for instructors and students to enrich the teaching and learning experience.</p>
+<p><a href="http://www.everfi.com/login">EverFi</a> - sexual harassment training. login with ischool email</p>
+<p><a href="https://bconnected.berkeley.edu/collaboration-services/welcome-uc-berkeley">Welcome to UC Berkeley!</a> links</p>
+<p><a href="ischool.berkeley.edu/intranet/students/mids">Student Handbook</a></p>
+<p><a href="https://studentcentral.berkeley.edu/">Cal Student Central</a></p>
+<ul>
+<li><a href="https://studentcentral.berkeley.edu/glossary">Quick Links</a></li>
+</ul>
+<p><a href="http://www.lib.berkeley.edu/using-the-libraries/vpn">Library vpn</a></p>
 </div>
-<div id="r-markdown-1" class="section level2">
-<h2><span class="header-section-number">9.2</span> R Markdown</h2>
-<p>This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <a href="http://rmarkdown.rstudio.com" class="uri">http://rmarkdown.rstudio.com</a>.</p>
-<p>When you click the <strong>Knit</strong> button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:</p>
-<div class="sourceCode"><pre class="sourceCode r"><code class="sourceCode r"><span class="kw">summary</span>(cars)</code></pre></div>
-<pre><code>##      speed           dist       
-##  Min.   : 4.0   Min.   :  2.00  
-##  1st Qu.:12.0   1st Qu.: 26.00  
-##  Median :15.0   Median : 36.00  
-##  Mean   :15.4   Mean   : 42.98  
-##  3rd Qu.:19.0   3rd Qu.: 56.00  
-##  Max.   :25.0   Max.   :120.00</code></pre>
+<div id="calculus-materials" class="section level2">
+<h2><span class="header-section-number">3.2</span> Calculus materials:</h2>
+<p>Khan Academy:</p>
+<ul>
+<li><a href="https://www.khanacademy.org/math/integral-calculus">integral calculus</a></li>
+<li><a href="https://www.khanacademy.org/math/differential-calculus">differential calculus</a></li>
+</ul>
+<p>MIT: Units 1, 2, and 3 of the <a href="https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/syllabus/">Single Variable Calculus</a> course</p>
+<p>Be familiar with the following concepts: * How integration corresponds to areas under a curve * The fundamental theorem of calculus * A few basic derivation/integration rules: the power rule, the chain rule, * the derivatives of ln(x) and exp(x) * How to maximize functions using first-order conditions * Partial derivatives * Double integrals for functions in the x-y plane</p>
 </div>
-<div id="including-plots" class="section level2">
-<h2><span class="header-section-number">9.3</span> Including Plots</h2>
-<p>You can also embed plots, for example:</p>
-<p><img src="My_path_to_R_mastery_files/figure-html/pressure-1.png" width="672" /></p>
-<p>Note that the <code>echo = FALSE</code> parameter was added to the code chunk to prevent printing of the R code that generated the plot.</p>
+<div id="python" class="section level2">
+<h2><span class="header-section-number">3.3</span> Python:</h2>
+<p><a href="https://ischool.berkeley.edu/intranet/students/mids/new/learningpython">Learning Python</a></p>
+</div>
+<div id="linear-algebra-1" class="section level2">
+<h2><span class="header-section-number">3.4</span> Linear Algebra:</h2>
+<p><a href="https://www.khanacademy.org/math/linear-algebra">Khan Academy Linear Algebra</a></p>
+<p><a href="http://linear.axler.net/LADRvideos.html">Axler Linear Algebra</a></p>
+</div>
+<div id="other-statistics-resources" class="section level2">
+<h2><span class="header-section-number">3.5</span> Other Statistics resources:</h2>
+<p><a href="https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/">MIT Introduction to Statistics</a></p>
+<p>An Introduction to Mathematical Reasoning, Peter J. Eccles</p>
+<ul>
+<li><a href="http://www.maths.manchester.ac.uk/~nige/IMRpartI.pdf">Part I</a></li>
+<li><a href="http://www.maths.manchester.ac.uk/~nige/partII.pdf">Part II</a> and</li>
+<li><a href="http://www.maths.manchester.ac.uk/~nige/partIII.pdf">Part III</a></li>
+</ul>
+<p><a href="https://notendur.hi.is/vae11/%C3%9Eekking/principles_of_mathematical_analysis_walter_rudin.pdf">Principles of Mathematical Analysis</a>, Walter Rudin</p>
+<p><a href="https://www.youtube.com/playlist?list=PLaLOVNqqD-2GcoO8CLvCbprz2J0_1uaoZ">Math 53 Lectures with Professor Frenkel</a></p>
+
 </div>
 </div>
             </section>
@@ -282,8 +281,8 @@ age &lt;-<span class="st"> </span>content <span class="op">%&gt;%</span><span cl
           </div>
         </div>
       </div>
-<a href="other-stuff.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
-<a href="test.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
+<a href="learning-resources.html" class="navigation navigation-prev " aria-label="Previous page"><i class="fa fa-angle-left"></i></a>
+<a href="meetup-east-bay-r-language-beginners-group.html" class="navigation navigation-next " aria-label="Next page"><i class="fa fa-angle-right"></i></a>
     </div>
   </div>
 <script src="libs/gitbook-2.6.7/js/app.min.js"></script>
@@ -313,7 +312,7 @@ gitbook.start({
 "size": 2
 },
 "edit": {
-"link": "https://github.com/revgizmo/My_path_to_R_mastery/edit/master/05_playground.Rmd",
+"link": "https://github.com/revgizmo/My_path_to_R_mastery/edit/master/02a_uc_berkeley_mids.Rmd",
 "text": "Edit"
 },
 "download": null,

@@ -25,10 +25,14 @@ __[Python for Data Science for Dummies](https://www.dummies.com/store/product/Py
 
 ### Python & Other Stuff - to read without annotation
 
+
 [[GITHUB] Amazing Web Scraper for Shutterstock and GettyImages](https://www.reddit.com/r/learnpython/comments/9k9rsh/github_amazing_web_scraper_for_shutterstock_and/?st=JMPCWDJM&sh=58d14cd2)
 
 
 [[P] "Mathematics for Machine Learning": Drafts for All Chapters Now Available](https://www.reddit.com/r/MachineLearning/comments/9lzabc/p_mathematics_for_machine_learning_drafts_for_all/?st=JMY6JQOR&sh=07acc4ca)
+
+
+[[PySimpleGUI] Your First GUI in 5 Lines of Code](https://www.reddit.com/r/Python/comments/969rfc/pysimplegui_your_first_gui_in_5_lines_of_code/?st=JKOWVCE7&sh=3df711b9)
 
 
 [[USEFUL] Collection of Good Cheatsheets](https://www.reddit.com/r/datascience/comments/9jztst/useful_collection_of_good_cheatsheets/?st=JMO8Q4P5&sh=fbe5bd98)
@@ -37,13 +41,37 @@ __[Python for Data Science for Dummies](https://www.dummies.com/store/product/Py
 [20 AI and Machine Learning Blogs](https://www.reddit.com/r/MachinesLearn/comments/9qlke6/20_ai_and_machine_learning_blogs/?st=JNLSE9K7&sh=525907c9)
 
 
+[20 Minutes Tutorial for Matplotlib](https://www.reddit.com/r/Python/comments/9d4f3m/20_minutes_tutorial_for_matplotlib/?st=JLP6LESC&sh=3e3c9e02)
+
+
+[91 Best Photoshop Tutorials (From Basic to Advanced)](https://www.reddit.com/r/howto/comments/91i1x5/91_best_photoshop_tutorials_from_basic_to_advanced/?st=JJZYKKH0&sh=aa42c844)
+
+
+[A Complete Home Buying Calculator](https://www.reddit.com/r/visualization/comments/9f6b9u/a_complete_home_buying_calculator/?st=JLZ51NQV&sh=6672ddd4)
+
+
 [A Good Guide for Creating Surveys and Questionnaires](https://www.reddit.com/r/psychology/comments/9hpy0i/a_good_guide_for_creating_surveys_and/?st=JMCFKLOU&sh=3ebce138)
+
+
+[Adaptive Python](https://stepik.org/course/568/)
+
+
+[Agile "Crash-Course" for Business Users](https://www.reddit.com/r/agile/comments/99f228/agile_crashcourse_for_business_users/?st=JL5QOFH5&sh=7f735eb1)
+
+
+[Agile and Run-Run-Stop, or Test Environment Anti-Patterns](https://www.reddit.com/r/agile/comments/99vvha/agile_and_runrunstop_or_test_environment/?st=JL82AL9H&sh=2376b1f3)
+
+
+[An Intuitive Explanation of Convolutional Neural Networks With Code.](https://www.reddit.com/r/Python/comments/9clfh6/an_intuitive_explanation_of_convolutional_neural/?st=JLMLRX5F&sh=bd834654)
 
 
 [Awesome Python Newsletter - Issue 124](https://www.reddit.com/r/Python/comments/9lictk/awesome_python_newsletter_issue_124/?st=JMVFEEB0&sh=039ad2b3)
 
 
 [Best Practices for Python Development](https://www.reddit.com/r/Python/comments/9lwraj/best_practices_for_python_development/?st=JMXWZ39R&sh=985abf03)
+
+
+[Boxplots Using Python (Way Too Much About Boxplots)](https://www.reddit.com/r/pystats/comments/9f53zb/boxplots_using_python_way_too_much_about_boxplots/?st=JLZ5AF4N&sh=729edafe)
 
 
 [Chromebook Data Science - a Free Online Data Science Program for Anyone With a Web Browser. · Simply Statistics](https://www.reddit.com/r/datascience/comments/9kivvx/chromebook_data_science_a_free_online_data/?st=JMQSZ1IA&sh=2e4971b4)
@@ -55,13 +83,40 @@ __[Python for Data Science for Dummies](https://www.dummies.com/store/product/Py
 [Comparison of the Most Useful Text Processing APIs](https://www.reddit.com/r/datascience/comments/9kq9bp/comparison_of_the_most_useful_text_processing_apis/?st=JMRYX3RR&sh=0e590f7f)
 
 
+[Data Science](https://www.galvanize.com/thank-you-ds)
+
+
+[Easier Than Ever to Contribute to Pygame — 15 Aug, 2018](https://www.pygame.org/news/2018/8/easier-than-ever-to-contribute-to-pygame)
+
+
+[excellent_data_science_summary_for_starters](https://www.reddit.com/r/datascience/comments/9f9zsx/excellent_data_science_summary_for_starters/?st=JLZR7UA1&sh=c813f186)
+
+
+[Executing Commands on Python With Google Sheets](https://www.reddit.com/r/Python/comments/9afdkm/executing_commands_on_python_with_google_sheets/?st=JLB5NRT7&sh=2f8fff64)
+
+
 [Full Stack Data Science (Transcript)](https://www.r-bloggers.com/full-stack-data-science-transcript/)
+
+
+[Game Written in Python](https://www.reddit.com/r/Python/comments/960ay1/game_written_in_python/?st=JKNC9ZFR&sh=ae2ea362)
+
+
+[Get Agile](https://www.reddit.com/r/agile/comments/9ck6tt/get_agile/?st=JLMRUXMF&sh=01560567)
 
 
 [Gitflow Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 
 
 [GitHub - OmkarPathak/Django-Bookworm: a Fun Project to Store My Learning From Each Book That I Read.](https://www.reddit.com/r/coolgithubprojects/comments/9q2v2c/github_omkarpathakdjangobookworm_a_fun_project_to/?st=JNIXXLX6&sh=7f35255f)
+
+
+[Good Resources for Text Analysis and NLP?](https://www.reddit.com/r/datascience/comments/96ji20/good_resources_for_text_analysis_and_nlp/?st=JKPX7ARA&sh=9c74bb8a)
+
+
+[Good Resources for Text Analysis and NLP?](https://www.reddit.com/r/learnmachinelearning/comments/96hz6e/good_resources_for_text_analysis_and_nlp/?st=JKPX6RX1&sh=130584ba)
+
+
+[GROK COMPETITION BEGINNER WEEK 5 PART 2](https://www.reddit.com/r/learnpython/comments/9ca47n/grok_competition_beginner_week_5_part_2/?st=JLL5XRVM&sh=6a32f13e)
 
 
 [Handy Statistics Guidebook Recommendations?](https://www.reddit.com/r/statistics/comments/9qcpzr/handy_statistics_guidebook_recommendations/?st=JNKBCKD9&sh=277f000b)
@@ -77,6 +132,9 @@ __[Python for Data Science for Dummies](https://www.dummies.com/store/product/Py
 
 
 [How to Create Nice Scientific Plots Using Matplotlib](https://www.reddit.com/r/learnpython/comments/9kvs9x/how_to_create_nice_scientific_plots_using/?st=JMSI824U&sh=731db010)
+
+
+[How to Make Your First Serious Python Project](https://www.reddit.com/r/Python/comments/9795xf/how_to_make_your_first_serious_python_project/?st=JKTXJQCA&sh=6be2c24f)
 
 
 [How We (Dropbox) Rolled Out One of the Largest Python 3 Migrations Ever](https://www.reddit.com/r/Python/comments/9iuzrm/how_we_dropbox_rolled_out_one_of_the_largest/?st=JMI9118K&sh=40bca44b)
@@ -97,6 +155,12 @@ __[Python for Data Science for Dummies](https://www.dummies.com/store/product/Py
 [I Made a Free Course for New Programmers With Strategies to Code Projects More Effectively](https://www.reddit.com/r/learnprogramming/comments/9o5nb2/i_made_a_free_course_for_new_programmers_with/?st=JN9JW9SB&sh=60e2af75)
 
 
+[Introduction to Storing Data With Python](https://www.reddit.com/r/Python/comments/966pyr/introduction_to_storing_data_with_python/?st=JKOX9H0Z&sh=caf1dd75)
+
+
+[Is There a Compilation of Projects to Practice Python?](https://www.reddit.com/r/learnpython/comments/9b34rz/is_there_a_compilation_of_projects_to_practice/?st=JLEGUTWV&sh=d39f8010)
+
+
 [IWantToLearn](https://www.reddit.com/r/IWantToLearn/comments/9i6ugo/i_just_published_5_reasons_why_i_learned_python/?st=JMF2RG3Q&sh=ecf29d3d)
 
 
@@ -109,10 +173,16 @@ __[Python for Data Science for Dummies](https://www.dummies.com/store/product/Py
 [Lessons Learnt by Facebook Data Scientist Brandon Rohrer](https://www.reddit.com/r/datascience/comments/9l5fpk/lessons_learnt_by_facebook_data_scientist_brandon/?st=JMTTROCE&sh=1379aa44)
 
 
+[Let's Learn More About Lambdas and Functional Programming in Python](https://www.reddit.com/r/datascience/comments/99d16a/lets_learn_more_about_lambdas_and_functional/?st=JL57H4XA&sh=f227534b)
+
+
 [Linux4Noobs](https://www.reddit.com/r/linux4noobs/comments/9l2oml/a_beginners_guide_to_vim/?st=JMTS9EDS&sh=295a5c8f)
 
 
 [MachinesLearn](https://www.reddit.com/r/MachinesLearn/comments/9nh3kv/top_10_ai_podcasts/?st=JN5I3U0F&sh=76522f89)
+
+
+[Multi-Person Pose Estimation (Python / C++)](https://www.reddit.com/r/MachinesLearn/comments/9f4rzs/multiperson_pose_estimation_python_c/?st=JLZ5BJI6&sh=ecdc18ef)
 
 
 [Mvillaloboz/Open-Source-Cs-Degree](https://github.com/mvillaloboz/open-source-cs-degree)
@@ -127,16 +197,61 @@ __[Python for Data Science for Dummies](https://www.dummies.com/store/product/Py
 [Openly Licensed Extensive Introduction to Supervised Learning With TensorFlow by Lukas Schmelzeisen (2018) Including Many Code Examples!](https://www.reddit.com/r/datascience/comments/9iqpgq/openly_licensed_extensive_introduction_to/?st=JMHOI8RI&sh=bd8a30e8)
 
 
+[Playing and Understanding Hashable Objects](https://www.reddit.com/r/Python/comments/9aw4vb/playing_and_understanding_hashable_objects/?st=JLDIZ8GQ&sh=ad8b2446)
+
+
+[Press J to Jump to the Feed. Press Question Mark to Learn the Rest of the Keyboard Shortcuts](https://www.reddit.com/r/Python/comments/3i814b/im_writing_a_software_in_python_to_play_dungeons/?utm_source=amp&utm_medium=comment_list)
+
+
+[Press J to Jump to the Feed. Press Question Mark to Learn the Rest of the Keyboard Shortcuts](https://www.reddit.com/r/Python/comments/9915qw/adding_a_pipe_operator_to_python/?st=JL3PEFEZ&sh=d4d91349)
+
+
+[Python & PyCharm Setup : Getting Started](https://www.reddit.com/r/Python/comments/9ff2ny/python_pycharm_setup_getting_started/?st=JM03I7U0&sh=68c5cc88)
+
+
 [Python for Data Science](https://www.edx.org/course/python-for-data-science-0)
+
+
+[Python Script to Generate ASCII Art From an Image!](https://www.reddit.com/r/Python/comments/99c949/python_script_to_generate_ascii_art_from_an_image/?st=JL57JCPD&sh=c257233c)
+
+
+[Python Top 10 Articles for the Past Month (v.Aug 2018)](https://www.reddit.com/r/Python/comments/96x0yu/python_top_10_articles_for_the_past_month_vaug/?st=JKS9URGF&sh=bb791565)
+
+
+[Python Top 10 Articles for the Past Month (v.Sep 2018)](https://www.reddit.com/r/Python/comments/9emwil/python_top_10_articles_for_the_past_month_vsep/?st=JLWCAX5R&sh=78fbb68c)
+
+
+[Ron Jeffries: Developers Should Abandon Agile](https://www.reddit.com/r/agile/comments/9f4be3/ron_jeffries_developers_should_abandon_agile/?st=JLZ54L4K&sh=09ef0ccc)
+
+
+[Setting Expectations for Open Source Participation](https://snarky.ca/setting-expectations-for-open-source-participation/)
 
 
 [Siri Shortcuts Resources](https://www.reddit.com/r/shortcuts/comments/9k0sup/siri_shortcuts_resources/?st=JMO8SU78&sh=e7c30654)
 
 
+[Six Data Science Projects to Top-Up Your Skills and Knowledge](https://www.reddit.com/r/Python/comments/97gvgi/six_data_science_projects_to_topup_your_skills/?st=JKV9VCT9&sh=a8703f5e)
+
+
+[Summarize Multiple Documents in Python](https://www.reddit.com/r/Python/comments/95y076/summarize_multiple_documents_in_python/?st=JKN5877H&sh=08f345f1)
+
+
+[Super Helpful Cheat Sheets for Keras, Numpy, Pandas, Scipy, Matplotlib, Scikit-Learn, Neural Networks Zoo, Ggplot2, PySpark, Dplyr and Tidyr, Jupyter Notebook](https://www.reddit.com/r/datascience/comments/9duq0l/super_helpful_cheat_sheets_for_keras_numpy_pandas/?st=JLSDSRU6&sh=4509274f)
+
+
 [Super Potato Bruh - a Game Written Entirely in Python/Pygame.](https://www.reddit.com/r/Python/comments/9h76as/super_potato_bruh_a_game_written_entirely_in/?st=JM9FTYCK&sh=e6a391f9)
 
 
+[TaskHero](https://www.taskheroics.com/signup/3PgojJ7wCDAQbMd86?utm_source=reddit&utm_campaign=r-productivity)
+
+
+[Ten Things Python Programmers Should Know](https://www.reddit.com/r/Python/comments/9bkdbo/ten_things_python_programmers_should_know/?st=JLGSG8R0&sh=8e273604)
+
+
 [Tips and Tricks for Keeping a Healthy Git Repository](https://www.reddit.com/r/programming/comments/9qxtp9/tips_and_tricks_for_keeping_a_healthy_git/?st=JNNITS9W&sh=9b10b9e2)
+
+
+[UC Berkeley Open-Sources 100K Driving Video Database](https://www.reddit.com/r/MachinesLearn/comments/9fcihu/uc_berkeley_opensources_100k_driving_video/?st=JLZR5WSO&sh=44043819)
 
 
 [Ultimate List of Youtube Channels for Deep Learning and Computer Vision](https://www.reddit.com/r/MachinesLearn/comments/9lujsc/ultimate_list_of_youtube_channels_for_deep/?st=JMXF22KO&sh=fd2b9aa4)
@@ -149,6 +264,15 @@ __[Python for Data Science for Dummies](https://www.dummies.com/store/product/Py
 
 
 [We're Launching a 'Reddit' for Jupyter Notebooks](https://www.reddit.com/r/datascience/comments/9plu6q/were_launching_a_reddit_for_jupyter_notebooks/?st=JNGC99WG&sh=e438102c)
+
+
+[Webscraping Using Python and BeautifulSoup!](https://www.reddit.com/r/Python/comments/95syr4/webscraping_using_python_and_beautifulsoup/?st=JKMPIR0I&sh=8498e432)
+
+
+[Welcome to Python 101!](http://python101.pythonlibrary.org/)
+
+
+[What Data Science Courses/S You Found Best for You?](https://www.reddit.com/r/datascience/comments/9d722a/what_data_science_coursess_you_found_best_for_you/?st=JLPBBC6G&sh=44d732a5)
 
 
 [What Is the Complete Work Flow of Any Data Science Project?](https://www.reddit.com/r/datascience/comments/9q9bmv/what_is_the_complete_work_flow_of_any_data/?st=JNJSJ5OD&sh=056ba32f)
@@ -206,7 +330,9 @@ __[Python for Data Science for Dummies](https://www.dummies.com/store/product/Py
 
 [How To Lose Weight Using Lean Six Sigma - GoLeanSixSigma.com](https://goleansixsigma.com/how-to-lose-weight-using-lean-six-sigma/)
 
+**[Six Sigma DMAIC Series in R – Part 3](https://www.r-bloggers.com/six-sigma-dmaic-series-in-r-part-3/)**
 
+**[[SixSigma] Does Anyone Know of a Decent Package or Code Template for Six Sigma in R Visualisation via Ggplot2?](https://www.reddit.com/r/rstats/comments/99a3qz/sixsigma_does_anyone_know_of_a_decent_package_or/?st=JL4NORCE&sh=fe6ee7a2)**
 
 ------
 

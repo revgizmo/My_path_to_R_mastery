@@ -92,6 +92,42 @@
 
 [R packages by Hadley Wickham](http://r-pkgs.had.co.nz/)
 
+[The R class R programming for biologists](https://r-bio.github.io/01-intro-R/)
+
+* Looks like a good introduction/tutorial to R, RStudio, etc.
+
+[Using R and psych for personality and psychological research](https://personality-project.org/r/psych/)    
+
+* Psych package
+
+Data Analytics Classroom 
+
+*	[Lesson 36 – Counts: the Language of Poisson Distribution](http://www.dataanalysisclassroom.com/lesson36/)
+
+*	[Lesson 61 – Resto](http://www.dataanalysisclassroom.com/lesson61/)
+
+[The Art of R Programming](https://archive.org/details/Norman_Matloff___The_Art_of_R_Programming)
+
+* [pdf in my dropbox](https://www.dropbox.com/s/wos9b8jvqur1rca/NSPpart.pdf?dl=0)
+
+
+
+[A First Course in Statistical Programming with R](http://einspem.upm.edu.my/wopr2017/2016.pdf)
+
+* [pdf in my dropbox](https://www.dropbox.com/s/s95k9sk9d6b6l7y/2016.pdf?dl=0)
+
+
+
+[R in Action, Second Edition](https://www.manning.com/books/r-in-action-second-edition?a_bid=5c2b1e1d&a_aid=RiA2ed)
+
+* [GitHub - R in Action, Second Edition](https://github.com/kabacoff/RiA2)
+
+
+[Learn the Tidyverse](https://www.tidyverse.org/learn/)
+
+
+[Learning Statistics with R](http://compcogscisydney.org/learning-statistics-with-r/)
+
 
 
 ------

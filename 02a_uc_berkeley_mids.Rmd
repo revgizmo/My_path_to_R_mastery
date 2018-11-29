@@ -1,0 +1,86 @@
+# UC Berkeley MIDS program
+## Useful Links
+
+[I School Website](https://www.ischool.berkeley.edu/home)
+
+* [Schedule of classes](https://www.ischool.berkeley.edu/courses/datasci/2019/spring) for the Spring 2019 term
+
+[I School Virtual Campus](learn.datascience.berkeley.edu)
+
+[Zoom](https://zoom.us/meeting) - use google login with CalNet email
+
+[CalCentral](https://calcentral.berkeley.edu/)
+
+[bConnected](https://bconnected.berkeley.edu/) - Berkeley’s G Suite for Education
+
+https://ucbischool.slack.com/
+
+
+[Piazza](https://piazza.com/)
+
+[study.net](https://www.study.net/default.asp)
+
+[bCourses](https://auth.berkeley.edu/cas/login?service=https%3A%2F%2Fbcourses.berkeley.edu%2Flogin%2Fcas) - Web-based tool providing a resource for instructors and students to
+enrich the teaching and learning experience.
+
+[EverFi](http://www.everfi.com/login) - sexual harassment training. login with ischool email
+
+
+[Welcome to UC Berkeley!](https://bconnected.berkeley.edu/collaboration-services/welcome-uc-berkeley) links
+
+[Student Handbook](ischool.berkeley.edu/intranet/students/mids)
+
+[Cal Student Central](https://studentcentral.berkeley.edu/)
+
+* [Quick Links](https://studentcentral.berkeley.edu/glossary)
+
+[Library vpn](http://www.lib.berkeley.edu/using-the-libraries/vpn)
+
+
+
+## Calculus materials: 
+
+Khan Academy: 
+
+* [integral calculus](https://www.khanacademy.org/math/integral-calculus) 
+* [differential calculus](https://www.khanacademy.org/math/differential-calculus)
+
+MIT: Units 1, 2, and 3 of the [Single Variable Calculus](https://ocw.mit.edu/courses/mathematics/18-01sc-single-variable-calculus-fall-2010/syllabus/) course 
+
+
+Be familiar with the following concepts:
+* How integration corresponds to areas under a curve
+* The fundamental theorem of calculus
+* A few basic derivation/integration rules: the power rule, the chain rule, * the derivatives of ln(x) and exp(x)
+* How to maximize functions using first-order conditions
+* Partial derivatives
+* Double integrals for functions in the x-y plane
+
+
+## Python:
+
+[Learning Python](https://ischool.berkeley.edu/intranet/students/mids/new/learningpython)
+
+
+## Linear Algebra:
+
+[Khan Academy Linear Algebra](https://www.khanacademy.org/math/linear-algebra) 
+
+[Axler Linear Algebra](http://linear.axler.net/LADRvideos.html)
+
+
+
+## Other Statistics resources:
+
+[MIT Introduction to Statistics](https://ocw.mit.edu/courses/mathematics/18-05-introduction-to-probability-and-statistics-spring-2014/)
+
+
+An Introduction to Mathematical Reasoning, Peter J. Eccles 
+
+* [Part I](http://www.maths.manchester.ac.uk/~nige/IMRpartI.pdf) 
+* [Part II](http://www.maths.manchester.ac.uk/~nige/partII.pdf) and 
+* [Part III](http://www.maths.manchester.ac.uk/~nige/partIII.pdf) 
+
+[Principles of Mathematical Analysis](https://notendur.hi.is/vae11/%C3%9Eekking/principles_of_mathematical_analysis_walter_rudin.pdf), Walter Rudin
+
+[Math 53 Lectures with Professor Frenkel](https://www.youtube.com/playlist?list=PLaLOVNqqD-2GcoO8CLvCbprz2J0_1uaoZ)
