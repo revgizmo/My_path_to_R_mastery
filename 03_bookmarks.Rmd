@@ -370,6 +370,9 @@ Check out show notes from not so standard deviations episode 23 Walt Hickey
 [Automated Feature Selection Using bounceR](https://www.r-bloggers.com/automated-feature-selection-using-bouncer/amp/)
 
 
+[Avoid these 4 common data science pitfalls](https://www.reforge.com/brief/avoid-these-4-common-data-science-pitfalls#Jrt3oYtvUPqu0fwoyyj71A)
+
+
 [Awesome R](https://github.com/qinwf/awesome-R)
 
 

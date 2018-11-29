@@ -1,9 +1,13 @@
 # UC Berkeley MIDS program
+
 ## Useful Links
 
 [I School Website](https://www.ischool.berkeley.edu/home)
 
 * [Schedule of classes](https://www.ischool.berkeley.edu/courses/datasci/2019/spring) for the Spring 2019 term
+* [Student Handbook](ischool.berkeley.edu/intranet/students/mids)
+* [ischool Intranet](https://www.ischool.berkeley.edu/intranet)
+* [For New MIDS Students](https://www.ischool.berkeley.edu/intranet/students/mids/new)
 
 [I School Virtual Campus](learn.datascience.berkeley.edu)
 
@@ -28,7 +32,7 @@ enrich the teaching and learning experience.
 
 [Welcome to UC Berkeley!](https://bconnected.berkeley.edu/collaboration-services/welcome-uc-berkeley) links
 
-[Student Handbook](ischool.berkeley.edu/intranet/students/mids)
+
 
 [Cal Student Central](https://studentcentral.berkeley.edu/)
 
@@ -36,6 +40,9 @@ enrich the teaching and learning experience.
 
 [Library vpn](http://www.lib.berkeley.edu/using-the-libraries/vpn)
 
+[Resources & Services for Graduate Students](https://grad.berkeley.edu/students/)
+
+[Third Party Classes](https://datascience.berkeley.edu/third-party-classes/)
 
 
 ## Calculus materials: 
@@ -67,6 +74,8 @@ Be familiar with the following concepts:
 [Khan Academy Linear Algebra](https://www.khanacademy.org/math/linear-algebra) 
 
 [Axler Linear Algebra](http://linear.axler.net/LADRvideos.html)
+
+[linear algebra recommendations from reddit](https://www.reddit.com/r/statistics/comments/8s9ql7/because_ive_had_to_reference_my_linear_algebra/?st=JIM9LI6I&sh=1e12e0d1)
 
 
 
