@@ -313,7 +313,16 @@ Check out show notes from not so standard deviations episode 23 Walt Hickey
 ["Errors in Statistics for Medical Research". Any Suggestions?](https://www.reddit.com/r/statistics/comments/8cw4i4/errors_in_statistics_for_medical_research_any/?st=JG3RS3HY&sh=e100e2b8)
 
 
+[[Instructional] How to Make Awesome Sankey Diagrams in RStudio in Minutes!](https://www.reddit.com/r/RStudio/comments/9ujrxk/instructional_how_to_make_awesome_sankey_diagrams/?st=JO6C8ZYU&sh=7f543947)
+
+
+[[OC] US Population Projections by Age Through 2060](https://www.reddit.com/r/dataisbeautiful/comments/9ui848/oc_us_population_projections_by_age_through_2060/?st=JO56PMU9&sh=78dd057a)
+
+
 [“Are My Scores Good?” Well, Compared to What?](http://customerthink.com/are-my-scores-good-well-compared-to-what/)
+
+
+[“Demystifying Data Science” Remote Notes](https://www.r-bloggers.com/demystifying-data-science-remote-notes/)
 
 
 [2.5 Other Considerations](http://www.feat.engineering/stroke-tour.html#stroke-exploration)
@@ -322,10 +331,19 @@ Check out show notes from not so standard deviations episode 23 Walt Hickey
 [20 Free Online Courses to Learn Data Science](https://www.reddit.com/r/datascience/comments/8zbd1t/20_free_online_courses_to_learn_data_science/?st=JJOH13CS&sh=6dd306bb)
 
 
+[4 Ways to Be More Efficient Using RStudio’s Code Snippets, With 11 Ready to Use Examples](https://www.r-bloggers.com/4-ways-to-be-more-efficient-using-rstudios-code-snippets-with-11-ready-to-use-examples/)
+
+
+[5 Alternatives to the Default R Outputs for GLMs and Linear Models](https://www.r-bloggers.com/5-alternatives-to-the-default-r-outputs-for-glms-and-linear-models/)
+
+
 [A Comparative Review of the Deducer GUI for R](https://www.r-bloggers.com/a-comparative-review-of-the-deducer-gui-for-r/)
 
 
 [A Completely Subjective Ranking of Data Science Podcasts](https://tonyelhabr.rbind.io/posts/data-science-podcasts/)
+
+
+[A Lazy Function](https://www.r-bloggers.com/a-lazy-function/)
 
 
 [A List of Over 1,000 Datasets Available in R Packages](https://www.reddit.com/r/rstats/comments/8tyezj/a_list_of_over_1000_datasets_available_in_r/?st=JIWEBAEI&sh=ca19998d)
@@ -337,7 +355,13 @@ Check out show notes from not so standard deviations episode 23 Walt Hickey
 [A Primer on Web Scraping in R](https://www.kdnuggets.com/2018/01/primer-web-scraping-r.html/2)
 
 
+[A Question and an Answer About Recoding Several Factors Simultaneously in R](https://www.r-bloggers.com/a-question-and-an-answer-about-recoding-several-factors-simultaneously-in-r/)
+
+
 [A Recipe for Recipes](https://www.r-bloggers.com/a-recipe-for-recipes/)
+
+
+[A Small Logical Change With Big Impact](https://www.r-bloggers.com/a-small-logical-change-with-big-impact/)
 
 
 [A very basic tutorial for performing linear mixed effects analyses (Tutorial 2)](http://www.bodowinter.com/tutorial/bw_LME_tutorial2.pdf)
@@ -355,6 +379,9 @@ Check out show notes from not so standard deviations episode 23 Walt Hickey
 [An R Tutorial: Visual Representation of Complex Multivariate Relationships Using the R Qgraph Package, Part Two Repost](https://www.r-bloggers.com/an-r-tutorial-visual-representation-of-complex-multivariate-relationships-using-the-r-qgraph-package-part-two-repost/)
 
 
+[Analyzing NetHack Data, Part 1: What Kills the Players](https://www.r-bloggers.com/analyzing-nethack-data-part-1-what-kills-the-players/)
+
+
 [Announcing CGPfunctions 0.3 – April 20, 2018 R-bloggers](https://www.r-bloggers.com/announcing-cgpfunctions-0-3-april-20-2018/)
 
 
@@ -367,7 +394,13 @@ Check out show notes from not so standard deviations episode 23 Walt Hickey
 [As machine learning evolves, we need to update the definition of 'data scientist' | VentureBeat](https://venturebeat.com/2018/05/20/as-machine-learning-evolves-we-need-to-update-the-definition-of-data-scientist/)
 
 
+[Automated Email Reports With R](https://www.r-bloggers.com/automated-email-reports-with-r/)
+
+
 [Automated Feature Selection Using bounceR](https://www.r-bloggers.com/automated-feature-selection-using-bouncer/amp/)
+
+
+[Automl Package: Part 2/2 First Steps How To](https://www.r-bloggers.com/automl-package-part-2-2-first-steps-how-to/)
 
 
 [Avoid these 4 common data science pitfalls](https://www.reforge.com/brief/avoid-these-4-common-data-science-pitfalls#Jrt3oYtvUPqu0fwoyyj71A)
@@ -397,6 +430,9 @@ Check out show notes from not so standard deviations episode 23 Walt Hickey
 [Bias in Pre-Post Designs – an Example From the Turnbaugh Et Al (2006) Mouse Fecal Transplant Study](https://www.middleprofessor.com/files/quasipubs/change_scores.html)
 
 
+[Big Data-2: Move Into the Big League:Graduate From R to SparkR](https://www.r-bloggers.com/big-data-2-move-into-the-big-leaguegraduate-from-r-to-sparkr/)
+
+
 [Big News: Vtreat 1.2.0 Is Available on CRAN, and It Is Now Big Data Capable](https://www.r-bloggers.com/big-news-vtreat-1-2-0-is-available-on-cran-and-it-is-now-big-data-capable/)
 
 
@@ -418,6 +454,12 @@ Check out show notes from not so standard deviations episode 23 Walt Hickey
 [CausalImpact](https://github.com/google/CausalImpact)
 
 
+[Celebrate Halloween With Creepy Computer Games in R](https://www.r-bloggers.com/celebrate-halloween-with-creepy-computer-games-in-r/)
+
+
+[Celebrate Halloween With the R Language - Translation of a 1982 Game From the Book Creepy Computer Games](https://www.reddit.com/r/rstats/comments/9svguj/celebrate_halloween_with_the_r_language/?st=JNX778O0&sh=20d9940e)
+
+
 [CHAID and Caret – a Good Combo – June 6, 2018](https://www.r-bloggers.com/chaid-and-caret-a-good-combo-june-6-2018/)
 
 
@@ -430,6 +472,12 @@ Check out show notes from not so standard deviations episode 23 Walt Hickey
 [cocor comparing correlations](http://comparingcorrelations.org/)
 
 
+[Collateral](https://www.r-bloggers.com/collateral/)
+
+
+[Communicating Results With R Markdown](https://www.r-bloggers.com/communicating-results-with-r-markdown/)
+
+
 [Computer Science and Programming](https://fivebooks.com/best-books/programming-computer-science-ana-bell/)
 
 
@@ -440,6 +488,15 @@ Check out show notes from not so standard deviations episode 23 Walt Hickey
 
 
 [Continuous Deployment of Package Documentation With Pkgdown and Travis CI](https://www.r-bloggers.com/continuous-deployment-of-package-documentation-with-pkgdown-and-travis-ci/)
+
+
+[Converting a R Matrix to LaTeX](https://www.reddit.com/r/Rlanguage/comments/9sgb6l/converting_a_r_matrix_to_latex/?st=JNVIGDW6&sh=a96901d5)
+
+
+[Conway’s Game of Life in R: or on the Importance of Vectorizing Your R Code](https://www.r-bloggers.com/conways-game-of-life-in-r-or-on-the-importance-of-vectorizing-your-r-code/)
+
+
+[Create a Glossary in R Markdown](https://www.r-bloggers.com/create-a-glossary-in-r-markdown/)
 
 
 [Create Outstanding Dashboards With the New semantic.dashboard Package](https://www.r-bloggers.com/create-outstanding-dashboards-with-the-new-semantic-dashboard-package/)
@@ -458,6 +515,9 @@ Check out show notes from not so standard deviations episode 23 Walt Hickey
 
 
 [Customizing Styler – the Quick Way](https://www.r-bloggers.com/customizing-styler-the-quick-way/)
+
+
+[Data + Art STEAM Project: Final Results](https://www.r-bloggers.com/data-art-steam-project-final-results/)
 
 
 [Data + Art STEAM Project: Initial Results](https://www.r-bloggers.com/data-art-steam-project-initial-results/)
@@ -488,6 +548,9 @@ Check out show notes from not so standard deviations episode 23 Walt Hickey
 
 
 [Data Science for Startups: Business Intelligence](https://towardsdatascience.com/data-science-for-startups-business-intelligence-f4a2ba728e75)
+
+
+[Data Science With R Course Series – Week 6](https://www.r-bloggers.com/data-science-with-r-course-series-week-6/)
 
 
 [Data Scientist Resume Projects](https://statsbot.co/blog/data-scientist-resume-projects/)
@@ -526,6 +589,9 @@ Check out show notes from not so standard deviations episode 23 Walt Hickey
 [Draw nicer Classification and Regression Trees with the rpart.plot package](http://blog.revolutionanalytics.com/2013/06/plotting-classification-and-regression-trees-with-plotrpart.html)
 
 
+[Drawing Beautiful Maps Programmatically With R, Sf and Ggplot2 — Part 1: Basics](https://www.r-bloggers.com/drawing-beautiful-maps-programmatically-with-r-sf-and-ggplot2-part-1-basics/)
+
+
 [Easy APA Formatted Bayesian Correlation](https://www.r-bloggers.com/easy-apa-formatted-bayesian-correlation/)
 
 
@@ -538,10 +604,19 @@ Check out show notes from not so standard deviations episode 23 Walt Hickey
 [eRum 2018 - May 15 - Edwin Thoen - YouTube](https://t.co/LwbRMyYVS8?amp=1)
 
 
+[Estimating Control Chart Constants With R](https://www.r-bloggers.com/estimating-control-chart-constants-with-r/)
+
+
+[Estimating Pi](https://www.r-bloggers.com/estimating-pi-2/)
+
+
 [Every. Damn. Time.](https://www.reddit.com/r/rstats/comments/8gj0ry/every_damn_time/?st=JGPLKG6C&sh=ff75d805)
 
 
 [Exploratory Factor Analysis in R](https://www.r-bloggers.com/exploratory-factor-analysis-in-r/)
+
+
+[Exploring College Major and Income: a Live Data Analysis in R](https://www.r-bloggers.com/exploring-college-major-and-income-a-live-data-analysis-in-r/)
 
 
 [Extract FRED Data for OLS Regression Analysis: a Complete R Tutorial](https://www.reddit.com/r/rstats/comments/8udyhj/extract_fred_data_for_ols_regression_analysis_a/?st=JIXRG4R1&sh=be56fdd8)
@@ -575,6 +650,9 @@ Check out show notes from not so standard deviations episode 23 Walt Hickey
 
 
 [From Data to Viz | Find the Graphic You Need](https://www.r-bloggers.com/from-data-to-viz-find-the-graphic-you-need/)
+
+
+[From Webscraping Data to Releasing It as an R Package to Share With the World: a Full Tutorial With Data From NetHack](https://www.r-bloggers.com/from-webscraping-data-to-releasing-it-as-an-r-package-to-share-with-the-world-a-full-tutorial-with-data-from-nethack/)
 
 
 [Fun with lists (in R) • Apoorv Anand](http://behindbars.netlify.com/post/fun-with-lists/)
@@ -625,7 +703,13 @@ Check out show notes from not so standard deviations episode 23 Walt Hickey
 [How the Odds Ratio Confounds: a Brief Study in a Few Colorful Figures](https://www.r-bloggers.com/how-the-odds-ratio-confounds-a-brief-study-in-a-few-colorful-figures/)
 
 
+[How to Access Data From Twitter API Using R and Python (Let Me Know What You Think)](https://www.reddit.com/r/datascience/comments/9sgvnm/how_to_access_data_from_twitter_api_using_r_and/?st=JNUT7W7C&sh=2eabe391)
+
+
 [How to Build a Data Science Portfolio](https://www.reddit.com/r/datascience/comments/8x4x1x/how_to_build_a_data_science_portfolio/?st=JJDMLHGB&sh=5af99ec1)
+
+
+[How to Build Your Own Neural Network From Scratch in R](https://www.r-bloggers.com/how-to-build-your-own-neural-network-from-scratch-in-r/)
 
 
 [How to Create a Flexdashboard: Exercises](https://www.r-bloggers.com/how-to-create-a-flexdashboard-exercises/)
@@ -640,6 +724,9 @@ Check out show notes from not so standard deviations episode 23 Walt Hickey
 [How to Quickly Make Reusable World Maps Based on Excel Worksheet Data Using Ggplot and RStudio!](https://www.reddit.com/r/RStudio/comments/9119mg/how_to_quickly_make_reusable_world_maps_based_on/?st=JJXI3UJ2&sh=4e7d6656)
 
 
+[How to Run R From the Task Scheduler](https://www.r-bloggers.com/how-to-run-r-from-the-task-scheduler/)
+
+
 [How to setup RStudio Server Open Source Edition like the Pro version](https://www.reddit.com/r/rstats/comments/8sofmb/how_to_setup_rstudio_server_open_source_edition/?st=JIO1INHO&sh=0f9ab105)
 
 
@@ -650,6 +737,9 @@ Check out show notes from not so standard deviations episode 23 Walt Hickey
 
 
 [I created a tool to automatically extract the most important sentences from an article of text; it also has a physics-based network visualization of the underlying algorithm [OC]](https://www.reddit.com/r/dataisbeautiful/comments/8m9ha6/i_created_a_tool_to_automatically_extract_the/?st=JHNE6JUD&sh=18f33fdf)
+
+
+[I Fell Out With Tapply and in Love With Dplyr](https://www.r-bloggers.com/i-fell-out-with-tapply-and-in-love-with-dplyr/)
 
 
 [Icon: Web Icons for Rmarkdown](https://www.r-bloggers.com/icon-web-icons-for-rmarkdown/)
@@ -724,7 +814,13 @@ Check out show notes from not so standard deviations episode 23 Walt Hickey
 [Machine Learning and Its Applications](https://www.reddit.com/r/rstats/comments/8jui4j/machine_learning_and_its_applications/?st=JH95P6J0&sh=92ae98bd)
 
 
+[Machine Learning Basics – Random Forest](https://www.r-bloggers.com/machine-learning-basics-random-forest/)
+
+
 [Machine Learning in R With H2O and LIME: a Free Workshop!](https://www.r-bloggers.com/machine-learning-in-r-with-h2o-and-lime-a-free-workshop/)
+
+
+[Machine Learning Logistic Regression for Credit Modelling in R](https://www.r-bloggers.com/machine-learning-logistic-regression-for-credit-modelling-in-r/)
 
 
 [Machine learning may be most useful in tiny, embedded, offline processors / Boing Boing](https://boingboing.net/2018/06/11/smart-dust.html)
@@ -733,7 +829,16 @@ Check out show notes from not so standard deviations episode 23 Walt Hickey
 [Machine Learning Results in R: One Plot to Rule Them All! (Part 2 – Regression Models)](https://www.reddit.com/r/rstats/comments/91gt8t/machine_learning_results_in_r_one_plot_to_rule/?st=JJZQL5P4&sh=ac5509ca)
 
 
+[Making Art in R](https://www.r-bloggers.com/making-art-in-r/)
+
+
+[Marketing Analytics and Data Science](https://www.r-bloggers.com/marketing-analytics-and-data-science/)
+
+
 [Markov Chain Delinquency Problem in R](https://www.reddit.com/r/statistics/comments/8q3kyt/markov_chain_delinquency_problem_in_r/?st=JI9BLVWO&sh=93f88cee)
+
+
+[Master R Shiny: One Trick to Build Maintainable and Scalable Event Chains](https://www.r-bloggers.com/master-r-shiny-one-trick-to-build-maintainable-and-scalable-event-chains/)
 
 
 [May 2018: “Top 40” New Packages](https://www.r-bloggers.com/may-2018-top-40-new-packages/)
@@ -757,13 +862,28 @@ Check out show notes from not so standard deviations episode 23 Walt Hickey
 [Models Are About What Changes, and What Doesn’t](https://www.r-bloggers.com/models-are-about-what-changes-and-what-doesnt/)
 
 
+[Modularize Your Shiny Apps: Exercises](https://www.r-bloggers.com/modularize-your-shiny-apps-exercises/)
+
+
+[Monotonic Binning With Equal-Sized Bads for Scorecard Development](https://www.r-bloggers.com/monotonic-binning-with-equal-sized-bads-for-scorecard-development/)
+
+
 [Monte Carlo Part Two](https://www.r-bloggers.com/monte-carlo-part-two/)
 
 
 [Monte Carlo Simulation of E [OC]](https://www.reddit.com/r/dataisbeautiful/comments/91rgzy/monte_carlo_simulation_of_e_oc/?st=JK17Q7AM&sh=ab26ac2f)
 
 
+[Monte Carlo Techniques to Create Counterfactuals](https://www.r-bloggers.com/monte-carlo-techniques-to-create-counterfactuals/)
+
+
 [More Tidy Evaluation With Ggplot2](https://www.r-bloggers.com/more-tidy-evaluation-with-ggplot2/)
+
+
+[Most Liked R-Bloggers’ Posts From Last Week (2018-10-07 Till 2018-10-13 – Based on Twitter)](https://www.r-bloggers.com/most-liked-r-bloggers-posts-from-last-week-2018-10-07-till-2018-10-13-based-on-twitter/)
+
+
+[Multilevel Modeling Solves the Multiple Comparison Problem: an Example With R](https://www.r-bloggers.com/multilevel-modeling-solves-the-multiple-comparison-problem-an-example-with-r/)
 
 
 [Multiple Linear Regression R Code With Optimal Adjusted R^2](https://www.reddit.com/r/Rlanguage/comments/90ikh5/multiple_linear_regression_r_code_with_optimal/?st=JJUFATCT&sh=92593b48)
@@ -790,6 +910,9 @@ Check out show notes from not so standard deviations episode 23 Walt Hickey
 [New Course: Python for R Users](https://www.r-bloggers.com/new-course-python-for-r-users/)
 
 
+[New R Cheatsheet: Data Science Workflow With R](https://www.r-bloggers.com/new-r-cheatsheet-data-science-workflow-with-r/)
+
+
 [New R Package Xplain: Providing Interactive Interpretations and Explanations of Statistical Results](https://www.r-bloggers.com/new-r-package-xplain-providing-interactive-interpretations-and-explanations-of-statistical-results/)
 
 
@@ -799,10 +922,19 @@ Check out show notes from not so standard deviations episode 23 Walt Hickey
 [Non-Standard Evaluations Example](https://www.reddit.com/r/Rlanguage/comments/8gaw6t/nonstandard_evaluations_example/?st=JGOMGPPX&sh=2955447f)
 
 
+[Now "Fread" From data.table Can Read "Gz" and "Bz2" Files Directly](https://www.r-bloggers.com/now-fread-from-data-table-can-read-gz-and-bz2-files-directly/)
+
+
 [nps_tests.R](https://github.com/brendan-r/NPS/blob/master/R/nps_tests.R)
 
 
 [Odds Ratio and Its Relevance in Case Control / Cohort Studies](https://www.reddit.com/r/statistics/comments/8f8mtm/odds_ratio_and_its_relevance_in_case_control/?st=JGHFVV1B&sh=aab16f60)
+
+
+[One-arm Bayesian Adaptive Trial Simulation Code](https://www.r-bloggers.com/one-arm-bayesian-adaptive-trial-simulation-code/)
+
+
+[Optimize Your R Code Using Memoization](https://www.r-bloggers.com/optimize-your-r-code-using-memoization/)
 
 
 [Ordinal Data](https://www.r-bloggers.com/ordinal-data/)
@@ -817,6 +949,9 @@ Check out show notes from not so standard deviations episode 23 Walt Hickey
 [Package Â€˜Fuzzyjoinâ€™ March 2, 2018](https://cran.r-project.org/web/packages/fuzzyjoin/fuzzyjoin.pdf)
 
 
+[Parsing Metadata With R – a Package Story](https://www.r-bloggers.com/parsing-metadata-with-r-a-package-story/)
+
+
 [PH525x series - Biomedical Data Science](http://genomicsclass.github.io/book/)
 
 
@@ -824,6 +959,9 @@ Check out show notes from not so standard deviations episode 23 Walt Hickey
 
 
 [Prediction Interval, the wider sister of Confidence Interval](https://www.r-bloggers.com/prediction-interval-the-wider-sister-of-confidence-interval/)
+
+
+[Prettify Your Shiny Tables With DT: Exercises](https://www.r-bloggers.com/prettify-your-shiny-tables-with-dt-exercises/)
 
 
 [Pro Git book, written by Scott Chacon and Ben Straub -Fast-Version-Control](https://git-scm.com/book/en/v2)
@@ -848,6 +986,9 @@ Check out show notes from not so standard deviations episode 23 Walt Hickey
 
 
 [Questions About Questions](https://challenge.threesixtygiving.org/faq)
+
+
+[R-Bloggers Weekly – Most Loved R Posts From Last Week (2018-10-21 Till 2018-10-27)](https://www.r-bloggers.com/r-bloggers-weekly-most-loved-r-posts-from-last-week-2018-10-21-till-2018-10-27/)
 
 
 [r-podcast](https://github.com/rbind/r-podcast)
@@ -886,7 +1027,13 @@ Check out show notes from not so standard deviations episode 23 Walt Hickey
 [Ranking the Most Influential Computer Security Papers Ever Published](https://boingboing.net/2018/06/13/backrub.html/amp)
 
 
+[Rapply, Vapply, and Eapply](https://www.reddit.com/r/rstats/comments/9woq30/rapply_vapply_and_eapply/?st=JOFR7NE7&sh=37cb6102)
+
+
 [Rcommander](http://www.rcommander.com/)
+
+
+[RConsortium — Building an R Certification](https://www.r-bloggers.com/rconsortium-building-an-r-certification/)
 
 
 [Reading financial statements (PDF) for data analysis](https://reddit.app.link/KfMOsV5ytN)
@@ -913,7 +1060,13 @@ Check out show notes from not so standard deviations episode 23 Walt Hickey
 [Replace data frame names in formula en masse](https://www.reddit.com/r/rstats/comments/8gr9yt/replace_data_frame_names_in_formula_en_masse/?st=JGQZVPE7&sh=d107f53c)
 
 
+[Reproducible Finance, the Book! and a Discount for Our Readers](https://www.r-bloggers.com/reproducible-finance-the-book-and-a-discount-for-our-readers/)
+
+
 [ReproducibleResearch](https://www.rdocumentation.org/taskviews#ReproducibleResearch)
+
+
+[Residential Property Investment Visualization and Analysis Shiny App](https://www.r-bloggers.com/residential-property-investment-visualization-and-analysis-shiny-app/)
 
 
 [Resources for Data Imputation?](https://www.reddit.com/r/rstats/comments/8iokrl/resources_for_data_imputation/?st=JH28FVR8&sh=af8f2f02)
@@ -925,10 +1078,16 @@ Check out show notes from not so standard deviations episode 23 Walt Hickey
 [Ricochet Id: Ricochet:2Bax37Pseb6Mewj4](https://rud.is/)
 
 
+[Rmd Files Will No Longer Be Rendered as Markdown on Github - Yihui Xie | 谢益辉](https://www.reddit.com/r/rstats/comments/9si1ut/rmd_files_will_no_longer_be_rendered_as_markdown/?st=JNVHTO4Z&sh=8a8dae94)
+
+
 [roxygen](https://github.com/klutometis/roxygen)
 
 
 [RpadTpDataScientist1](http://nirvacana.com/thoughts/wp-content/uploads/2018/01/RoadToDataScientist1.png)
+
+
+[RStudio 1.2 Preview: Plumber Integration](https://www.r-bloggers.com/rstudio-1-2-preview-plumber-integration/)
 
 
 [Rstudio::Conf 2018 Summary](https://paulvanderlaken.com/2018/02/08/rstudioconf-2018-summary/)
@@ -941,6 +1100,12 @@ Check out show notes from not so standard deviations episode 23 Walt Hickey
 
 
 [RStudio:Addins Part 3 – View Objects, Files, Functions and More With 1 Keypress](https://www.r-bloggers.com/rstudioaddins-part-3-view-objects-files-functions-and-more-with-1-keypress/)
+
+
+[Running the Same Task in Python and R](https://www.r-bloggers.com/running-the-same-task-in-python-and-r/)
+
+
+[SatRday Talks Recordings](https://www.r-bloggers.com/satrday-talks-recordings/)
 
 
 [Seanchrismurphy/a-Psychologists-Guide-to-R](https://github.com/seanchrismurphy/A-Psychologists-Guide-to-R)
@@ -956,6 +1121,9 @@ Check out show notes from not so standard deviations episode 23 Walt Hickey
 
 
 [Share Your Method of Analysis Without Sharing Your Data - Quantified Self](http://quantifiedself.com/2018/05/open-humans-personal-data-notebooks/)
+
+
+[Shinytest – Automated Testing for Shiny Apps](https://www.r-bloggers.com/shinytest-automated-testing-for-shiny-apps/)
 
 
 [Should I use an ordered multinomial logit model or just use ANOVA?](https://www.reddit.com/r/statistics/comments/8lq86q/should_i_use_an_ordered_multinomial_logit_model/?st=JHKK5I1O&sh=df64fff9)

@@ -9,7 +9,7 @@
 * [ischool Intranet](https://www.ischool.berkeley.edu/intranet)
 * [For New MIDS Students](https://www.ischool.berkeley.edu/intranet/students/mids/new)
 
-[I School Virtual Campus](learn.datascience.berkeley.edu)
+[I School Virtual Campus](https://learn.datascience.berkeley.edu)
 
 [Zoom](https://zoom.us/meeting) - use google login with CalNet email
 
