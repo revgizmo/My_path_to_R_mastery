@@ -5,7 +5,7 @@
 [I School Website](https://www.ischool.berkeley.edu/home)
 
 * [Schedule of classes](https://www.ischool.berkeley.edu/courses/datasci/2019/spring) for the Spring 2019 term
-* [Student Handbook](ischool.berkeley.edu/intranet/students/mids)
+* [Student Handbook](https://ischool.berkeley.edu/intranet/students/mids)
 * [ischool Intranet](https://www.ischool.berkeley.edu/intranet)
 * [For New MIDS Students](https://www.ischool.berkeley.edu/intranet/students/mids/new)
 
