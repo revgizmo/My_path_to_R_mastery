@@ -1,2 +1,121 @@
-## R links iPhone that need to be integrated in blog
+## R links iPhone that need to be integrated in ## R links iPhone that need to be integrated in blog
+
+
+[Day 01 – Little Helper Checkdir](https://www.r-bloggers.com/day-01-little-helper-checkdir/)
+[R Completion for Neovim and Vim 8 Users](https://www.reddit.com/r/rstats/comments/a2cfxq/r_completion_for_neovim_and_vim_8_users/?st=JP6ZJ14C&sh=07c38a70)
+
+
+[One Recipe Step to Rule Them All](https://www.r-bloggers.com/one-recipe-step-to-rule-them-all/)
+
+
+[Day 04 – Little Helper Evenstrings](https://www.r-bloggers.com/day-04-little-helper-evenstrings/)
+
+
+[ggQC | Ggplot Quality Control Charts – New Release](https://www.r-bloggers.com/ggqc-ggplot-quality-control-charts-new-release/)
+
+
+[Web API's - How to Select Variables of Interest in Httr::Get() Request in R](https://www.reddit.com/r/rprogramming/comments/a476k9/web_apis_how_to_select_variables_of_interest_in/?st=JPEXCBV0&sh=aa43d7b4)
+
+
+[Interesting Packages Taken From R/Pharma](https://www.r-bloggers.com/interesting-packages-taken-from-r-pharma/)
+
+
+[Interactive Panel EDA With 3 Lines of Code](https://www.r-bloggers.com/interactive-panel-eda-with-3-lines-of-code/)
+
+
+[Automated Dashboard Visualizations With Distribution in R](https://www.r-bloggers.com/automated-dashboard-visualizations-with-distribution-in-r/)
+
+
+[The ‘Knight on an Infinite Chessboard’ Puzzle: Efficient Simulation in R](https://www.r-bloggers.com/the-knight-on-an-infinite-chessboard-puzzle-efficient-simulation-in-r/)
+
+
+[DataScienceJobs](https://www.reddit.com/r/DataScienceJobs/comments/a555pd/how_to_become_a_data_scientist/?st=JPJXTG53&sh=ce0593b3)
+
+
+[Great Post Yash!](https://www.r-bloggers.com/great-post-yash/)
+
+
+[Dive – the Debugging Function You Deserve](https://www.statworx.com/blog/dive-the-debugging-function-you-deserve/)
+
+
+[Sharing Modeling Pipelines in R](https://www.r-bloggers.com/sharing-modeling-pipelines-in-r/)
+
+
+[Code for Case Study – Customer Churn With Keras/TensorFlow and H2O](https://www.r-bloggers.com/code-for-case-study-customer-churn-with-keras-tensorflow-and-h2o/)
+
+
+[How to Deploy a Predictive Service to Kubernetes With R and the AzureContainers Package](https://www.r-bloggers.com/how-to-deploy-a-predictive-service-to-kubernetes-with-r-and-the-azurecontainers-package/)
+
+
+[[OC] My Mood Over the Year 2018 as Measured by the Beck Depression Inventory](https://www.reddit.com/r/dataisbeautiful/comments/a5yuq0/oc_my_mood_over_the_year_2018_as_measured_by_the/?st=JPNLYZ8V&sh=85e0e40f)
+
+
+[Q: Getting RMarkdown in-Text Citation Right.](https://www.reddit.com/r/RStudio/comments/a6ij8e/q_getting_rmarkdown_intext_citation_right/?st=JPQ4NTT9&sh=5291ac7d)
+
+
+[Minimum CRPS vs. Maximum Likelihood](https://www.r-bloggers.com/minimum-crps-vs-maximum-likelihood/)
+
+
+[Six Sigma DMAIC Series in R – Part4](https://www.r-bloggers.com/six-sigma-dmaic-series-in-r-part4/)
+
+
+[I Wrote a Brief Guide on How to Become a Data Scientist Based on My Own Experience Including Learning R, SQL, Stats, Crafting a Resume, and Preparing for Interviews.](https://www.reddit.com/r/datascience/comments/a6raiw/i_wrote_a_brief_guide_on_how_to_become_a_data/?st=JPRXMBNK&sh=0c6c1233)
+
+
+[An R Shiny App to Recognize Flower Species](https://www.reddit.com/r/rstats/comments/a6zzgj/an_r_shiny_app_to_recognize_flower_species/?st=JPSLZHCE&sh=b6c673f8)
+
+
+[An R Shiny App to Recognize Flower Species](https://www.r-bloggers.com/an-r-shiny-app-to-recognize-flower-species/)
+
+
+[My R Take on Advent of Code – Day 1](https://www.r-bloggers.com/my-r-take-on-advent-of-code-day-1/)
+
+
+[♫ Let R Snow, Let R Snow, Let R Snow... ♪♫ 2.0](https://www.reddit.com/r/rstats/comments/a7m29t/let_r_snow_let_r_snow_let_r_snow_20/?st=JPVCUXV7&sh=c079d719)
+
+
+[My R Take on Advent of Code – Day 2](https://www.r-bloggers.com/my-r-take-on-advent-of-code-day-2/)
+
+
+[Spelling 2.0: Improved Markdown and RStudio Support](https://www.r-bloggers.com/spelling-2-0-improved-markdown-and-rstudio-support/)
+
+
+[Data Science Cheatsheets](https://www.reddit.com/r/datascience/comments/a8p7tg/data_science_cheatsheets/?st=JQ0BAULU&sh=74ce6b5d)
+
+
+[Statistical Assessments of AUC](https://www.r-bloggers.com/statistical-assessments-of-auc/)
+
+
+[Text Classification With Tidy Data Principles](https://www.r-bloggers.com/text-classification-with-tidy-data-principles/)
+
+
+[The Need for Speed Part 2: C++ vs. Fortran vs. C](https://www.r-bloggers.com/the-need-for-speed-part-2-c-vs-fortran-vs-c/)
+
+
+[5 Amazing Free Tools That Can Help With Publishing R Results and Blogging](https://www.r-bloggers.com/5-amazing-free-tools-that-can-help-with-publishing-r-results-and-blogging/)
+
+
+[Using the Tidyverse for More Than Data Manipulation: Estimating Pi With Monte Carlo Methods](https://www.r-bloggers.com/using-the-tidyverse-for-more-than-data-manipulation-estimating-pi-with-monte-carlo-methods/)
+
+
+[Using the Tidyverse for More Than Data Manipulation: Estimating Pi With Monte Carlo Methods](https://www.r-bloggers.com/using-the-tidyverse-for-more-than-data-manipulation-estimating-pi-with-monte-carlo-methods/)
+
+
+[How to Scrape Data From a JavaScript Website With R](https://www.r-bloggers.com/how-to-scrape-data-from-a-javascript-website-with-r/)
+
+
+[Day 20 – Little Helper Char_Replace](https://www.r-bloggers.com/day-20-little-helper-char_replace/)
+
+
+[Econometrics and Free Software](https://www.brodrigues.co/blog/2018-12-30-reticulate/)
+
+
+[Paws, an AWS SDK for R](https://www.reddit.com/r/Rlanguage/comments/aent0p/paws_an_aws_sdk_for_r/?st=JQRHPE8H&sh=3cca9973)
+
+
+[DataScience Digest - Issue #16](https://www.reddit.com/r/Rlanguage/comments/agyhzp/datascience_digest_issue_16/?st=JR10BWT0&sh=8368470a)
+
+
+[The Tidyverse Style Guide](https://style.tidyverse.org/)
+
 
