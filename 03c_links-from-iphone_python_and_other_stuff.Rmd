@@ -1,6 +1,160 @@
 ## Python & Other links iPhone that need to be integrated in blog
 
 
+[Effective Presentations Techniques for Scientific and Technical Content](https://www.reddit.com/r/datascience/comments/a2b4hf/effective_presentations_techniques_for_scientific/?st=JP6KRGQN&sh=d6959ec0)
+
+
+[[New Resource] Top 50 Matplotlib Visualizations for Data Analysis - the Master Plots (W/ Full Python Code)](https://www.reddit.com/r/Python/comments/a2l5pw/new_resource_top_50_matplotlib_visualizations_for/?st=JP8LJLV7&sh=ff5e5e60)
+
+
+[20 YouTube Channels for AI & Data Science](https://www.reddit.com/r/datascience/comments/a2z6vz/20_youtube_channels_for_ai_data_science/?st=JPA1HT9O&sh=c4bd7021)
+
+
+[My First Arduino Project: Voice Controlled Organizer Using EasyVR 3.0 and Some WS2811S.](https://www.reddit.com/r/arduino/comments/a2yrsa/my_first_arduino_project_voice_controlled/?st=JPAC3QHV&sh=ae4ff2be)
+
+
+[The Data Science Workflow](https://www.reddit.com/r/datascience/comments/a31a35/the_data_science_workflow/?st=JPAGDM4J&sh=0bff3d93)
+
+
+[Data Science Workflow Tools](https://docs.google.com/spreadsheets/d/1ZHLzlMdBEHDorCUEeeiSx3WAgfLGw34pC08C9T0IMkE/edit)
+
+
+[The Data Science Workflow](https://www.reddit.com/r/datascience/comments/a31a35/comment/eb35ev9?st=JPAGEVN0&sh=fea9b9dd)
+
+
+[Dfply - the Dplyr of Python](https://www.reddit.com/r/datascience/comments/a3d6o3/dfply_the_dplyr_of_python/?st=JPBQLGGL&sh=55410387)
+
+
+[I Made List of Resources for R/learnProgramming](https://www.reddit.com/r/learnprogramming/comments/a3z4b5/i_made_list_of_resources_for_rlearnprogramming/?st=JPEQOAJC&sh=4b2523ca)
+
+
+[Using Survival Analysis to Predict Customer Churn](https://www.reddit.com/r/statistics/comments/a424vw/using_survival_analysis_to_predict_customer_churn/?st=JPEQPF1O&sh=9ce490fb)
+
+
+[Creating a Simple App From Start the Finish](https://www.reddit.com/r/learnprogramming/comments/a466s3/creating_a_simple_app_from_start_the_finish/?st=JPEX7POV&sh=105392ba)
+
+
+[Share Code From Any Device](https://trinket.io/)
+
+
+[The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
+
+
+[I Want to Watch a Programmers Workflow From the Start of a Project to the End. Does This Exist?](https://www.reddit.com/r/learnprogramming/comments/a4prkc/i_want_to_watch_a_programmers_workflow_from_the/?st=JPHLJBX2&sh=0e023317)
+
+
+[Learn Python the Fun Way](http://learnival.com/)
+
+
+[Advice/ Links/ Tips to Learning Python for DS](https://www.reddit.com/r/datascience/comments/a5h9a0/advice_links_tips_to_learning_python_for_ds/?st=JPLB6M4S&sh=d0c3ff08)
+
+
+[Using Statistics to Estimate the True Scope of the Secret Killings at the End of the Sri Lankan Civil War](https://boingboing.net/2018/12/12/using-statistics-to-estimate-t.html)
+
+
+[A Beautiful Book About Numpy](https://www.reddit.com/r/datascience/comments/a6b96j/a_beautiful_book_about_numpy/?st=JPP5BSQF&sh=c9a60ca9)
+
+
+[Facebook Open Sources PyText NLP Framework](https://techcrunch.com/2018/12/14/facebook-open-sources-pytext-natural-language-processing-framework/)
+
+
+[Hey All. I'm a Data Scientist Who Gave Up Learning Many Times Because of the Overload of Materials and Lack of Structured Road Map. So I Wrote This Article to Help Those Who Want to Achieve Their Learning Goals Next Year With a Simple Timetable They Can Replicate Every Month. I Hope It Helps.](https://www.reddit.com/r/datascience/comments/a6lq4e/hey_all_im_a_data_scientist_who_gave_up_learning/?st=JPRC2D2B&sh=37693e3c)
+
+
+[The Hundred-Page Machine Learning Book Manuscript Is Complete](https://www.reddit.com/r/datascience/comments/a73afu/the_hundredpage_machine_learning_book_manuscript/?st=JPT75PD1&sh=3dd582f9)
+
+
+[DataScienceJobs](https://www.reddit.com/r/DataScienceJobs/comments/a84r1o/i_wrote_a_brief_guide_on_how_to_become_a_data/?st=JPXDGR5X&sh=bbc179d4)
+
+
+[Detect ANY Object With Raspberry Pi and TensorFlow](https://www.reddit.com/r/raspberry_pi/comments/a8a8aw/detect_any_object_with_raspberry_pi_and_tensorflow/?st=JPYYRSQS&sh=fba39410)
+
+
+[5 Papers and Articles About Project Management in Data Science](https://www.reddit.com/r/datascience/comments/a9611e/5_papers_and_articles_about_project_management_in/?st=JQ2R0B4Q&sh=3948fc1d)
+
+
+[Find Usernames Across Over 75 Social Networks. Very Useful for Reconnaissance](https://www.reddit.com/r/Python/comments/a9dtde/find_usernames_across_over_75_social_networks/?st=JQ3VSZ9W&sh=a6e89567)
+
+
+[🤖Python Examples of Popular Machine Learning Algorithms With Interactive Jupyter Demos and Math Being Explained](https://www.reddit.com/r/datascience/comments/a9nqoe/python_examples_of_popular_machine_learning/?st=JQ59I244&sh=0d8386ba)
+
+
+[Comprehensive Python Cheatsheet](https://www.reddit.com/r/Python/comments/a9o110/comprehensive_python_cheatsheet/?st=JQ5B8J75&sh=20dc53eb)
+
+
+[23 Awesome Programming Blogs to Follow In 2019](https://www.reddit.com/r/programming/comments/a9nki8/23_awesome_programming_blogs_to_follow_in_2019/?st=JQ5CLXAK&sh=e929e3fc)
+
+
+[Reminder for Students Here, You Can Get Github Student Developer Pack Which Includes a Lot of Useful Free Software](https://www.reddit.com/r/learnprogramming/comments/a9rgkd/reminder_for_students_here_you_can_get_github/?st=JQ60A26Q&sh=e8222c33)
+
+
+[Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/)
+
+
+[A Short Guide I Wrote on Learning iOS Development Using Swift - Do Check It Out if You Are Interested in the Field!](https://www.reddit.com/r/learnprogramming/comments/ac0su2/a_short_guide_i_wrote_on_learning_ios_development/?st=JQG5N3A3&sh=38c5806d)
+
+
+[Homm3 on Raspberry Pi 3 WITHOUT Exagear](https://www.reddit.com/r/raspberry_pi/comments/abvoop/homm3_on_raspberry_pi_3_without_exagear/?st=JQG7ADFO&sh=88fd028a)
+
+
+[Datascience](https://www.reddit.com/r/datascience/comments/aceczq/feeling_pretty_underqualified/?st=JQHPX7EY&sh=a3c70378)
+
+
+[Prof. Mike Gelbart's (UBC) DS Lectures Are on YouTube and They're Amazing](https://www.reddit.com/r/datascience/comments/acosg3/prof_mike_gelbarts_ubc_ds_lectures_are_on_youtube/?st=JQJ06Q1P&sh=af79f588)
+
+
+[Data Science for Blog Content](https://www.reddit.com/r/datascience/comments/adb4jw/data_science_for_blog_content/?st=JQLPUY51&sh=6c63f96a)
+
+
+[Looking for Advice on Resources to Learn Python...](https://www.reddit.com/r/learnpython/comments/adbe8g/looking_for_advice_on_resources_to_learn_python/?st=JQLQN392&sh=1d987a1e)
+
+
+[My Agile Workflow (Suggested by the Experts) (Episode 1)](https://www.reddit.com/r/agile/comments/ads6mn/my_agile_workflow_suggested_by_the_experts/?st=JQNV0ZSF&sh=2048fce0)
+
+
+[Git for Your Shortcuts — Make Readable, Versioned Shortcut Backups With Git (via Working Copy)](https://www.reddit.com/r/shortcuts/comments/adpz54/git_for_your_shortcuts_make_readable_versioned/?st=JQNV2ETY&sh=42ba423b)
+
+
+[Best Data Science Talk One Can Watch?](https://www.reddit.com/r/datascience/comments/ae4fc3/best_data_science_talk_one_can_watch/?st=JQP25HQ2&sh=bacc5ff3)
+
+
+[Over 500 Top PDFs Posted to Hacker News In 2018](https://www.reddit.com/r/programming/comments/ae81uo/over_500_top_pdfs_posted_to_hacker_news_in_2018/?st=JQQ7S6R3&sh=5a62fd00)
+
+
+[An Ethics Checklist for Data Scientists](http://deon.drivendata.org/)
+
+
+[Compiled Notes for People Who Are Learning Python.](https://www.reddit.com/r/learnpython/comments/af78a2/compiled_notes_for_people_who_are_learning_python/?st=JQU5HJLW&sh=908ab23e)
+
+
+[How Software, Data, and a Hell of a Lot of Work Helped Me Lose 110 Pounds in 25 Months](https://medium.com/the-mission/how-software-data-and-a-hell-of-a-lot-of-work-helped-me-lose-110-pounds-in-25-months-13b525f8f4c)
+
+
+[How Software, Data, and a Hell of a Lot of Work Helped Me Lose 110 Pounds in 25 Months](https://medium.com/the-mission/how-software-data-and-a-hell-of-a-lot-of-work-helped-me-lose-110-pounds-in-25-months-13b525f8f4c)
+
+
+[Yosemite Moonbow](https://www.yosemitemoonbow.com/)
+
+
+[I Never Took a Bayesian Class. What Book or Video Series Should I Watch to Get Up to Speed?](https://www.reddit.com/r/statistics/comments/ageblu/i_never_took_a_bayesian_class_what_book_or_video/?st=JQYLZUK5&sh=e50af706)
+
+
+[Python 3'S F-Strings: an Improved String Formatting Syntax (Guide)](https://realpython.com/python-f-strings/)
+
+
+[Phd_Resume_Cover_Letters](https://ocs.fas.harvard.edu/files/ocs/files/phd_resume_cover_letters.pdf)
+
+
+[Documenting Datasci Setup for Personal Computers](https://www.reddit.com/r/datascience/comments/aiqmiq/documenting_datasci_setup_for_personal_computers/?st=JR87GVI9&sh=64ae5970)
+
+
+[Former Google Engineer Breaks Down Interview Problems He Used to Use to Screen Candidates. Lots of Good Programming Tips and Advice.](https://www.reddit.com/r/programming/comments/aj19vp/former_google_engineer_breaks_down_interview/?st=JRA5UH9G&sh=4f2dac5b)
+
+
+[Cruces13/DND-Char-Gen](https://github.com/cruces13/DND-Char-Gen)
+
+
+
 
 
 
