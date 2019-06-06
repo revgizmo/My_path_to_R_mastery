@@ -170,12 +170,15 @@ https://guides.github.com/introduction/flow/?utm_source=onboarding-series&utm_me
 
 https://www.webpagefx.com/blog/web-design/git-tutorials-beginners/
 
+[Oh Shit, Git!](https://ohshitgit.com/)
+
+
 [An introduction to Git and how to use it with RStudio](https://r-bio.github.io/intro-git-rstudio/)
 
 * Part of [The R class R programming for biologists](https://r-bio.github.io/) (which looks like a good R tutorial overall)
 * 2018-06-16: high level overview of git, with some example code for what can/can't be done in RStudio
 
-[VERSION CONTROL WITH RSTUDIO AND GITHUB(https://aberdeenstudygroup.github.io/studyGroup/lessons/SG-T1-GitHubVersionControl/VersionControl/)
+[VERSION CONTROL WITH RSTUDIO AND GITHUB](https://aberdeenstudygroup.github.io/studyGroup/lessons/SG-T1-GitHubVersionControl/VersionControl/)
 
 * 2018-06-16: very high level overview of git with RStudio.  Jenny Bryan's happygitwithr is far superior.
 

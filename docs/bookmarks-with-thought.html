@@ -25,7 +25,7 @@
 <meta name="author" content="Conor Healy">
 
 
-<meta name="date" content="2019-03-07">
+<meta name="date" content="2019-06-05">
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="apple-mobile-web-app-capable" content="yes">
@@ -176,7 +176,7 @@ code > span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Inf
 <li class="chapter" data-level="7.9" data-path="bookmarks-with-thought.html"><a href="bookmarks-with-thought.html#r-blogs-and-general-reference"><i class="fa fa-check"></i><b>7.9</b> R Blogs and general reference</a></li>
 <li class="chapter" data-level="7.10" data-path="bookmarks-with-thought.html"><a href="bookmarks-with-thought.html#r-linksblog-posts-to-read"><i class="fa fa-check"></i><b>7.10</b> R links/blog posts to read</a></li>
 <li class="chapter" data-level="7.11" data-path="bookmarks-with-thought.html"><a href="bookmarks-with-thought.html#r-linksblog-posts-to-read-without-annotation"><i class="fa fa-check"></i><b>7.11</b> R links/blog posts to read without annotation</a></li>
-<li class="chapter" data-level="7.12" data-path="bookmarks-with-thought.html"><a href="bookmarks-with-thought.html#r-links-iphone-that-need-to-be-integrated-in-r-links-iphone-that-need-to-be-integrated-in-blog"><i class="fa fa-check"></i><b>7.12</b> R links iPhone that need to be integrated in ## R links iPhone that need to be integrated in blog</a></li>
+<li class="chapter" data-level="7.12" data-path="bookmarks-with-thought.html"><a href="bookmarks-with-thought.html#r-links-iphone-that-need-to-be-integrated-in-blog"><i class="fa fa-check"></i><b>7.12</b> R links iPhone that need to be integrated in blog</a></li>
 <li class="chapter" data-level="7.13" data-path="bookmarks-with-thought.html"><a href="bookmarks-with-thought.html#r-links-ipad-that-need-to-be-integrated-in-blog"><i class="fa fa-check"></i><b>7.13</b> R links ipad that need to be integrated in blog</a></li>
 <li class="chapter" data-level="7.14" data-path="bookmarks-with-thought.html"><a href="bookmarks-with-thought.html#python-other-links-iphone-that-need-to-be-integrated-in-blog"><i class="fa fa-check"></i><b>7.14</b> Python &amp; Other links iPhone that need to be integrated in blog</a></li>
 </ul></li>
@@ -184,6 +184,8 @@ code > span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Inf
 <li class="chapter" data-level="8.1" data-path="other-stuff.html"><a href="other-stuff.html#python-1"><i class="fa fa-check"></i><b>8.1</b> Python</a><ul>
 <li class="chapter" data-level="8.1.1" data-path="other-stuff.html"><a href="other-stuff.html#python-other-stuff---annotated"><i class="fa fa-check"></i><b>8.1.1</b> Python &amp; Other Stuff - Annotated</a></li>
 <li class="chapter" data-level="8.1.2" data-path="other-stuff.html"><a href="other-stuff.html#python-other-stuff---to-read-without-annotation"><i class="fa fa-check"></i><b>8.1.2</b> Python &amp; Other Stuff - to read without annotation</a></li>
+<li class="chapter" data-level="8.1.3" data-path="other-stuff.html"><a href="other-stuff.html#python---to-read-without-annotation"><i class="fa fa-check"></i><b>8.1.3</b> Python - to read without annotation</a></li>
+<li class="chapter" data-level="8.1.4" data-path="other-stuff.html"><a href="other-stuff.html#other-stuff---to-read-without-annotation"><i class="fa fa-check"></i><b>8.1.4</b> Other Stuff - to read without annotation</a></li>
 </ul></li>
 <li class="chapter" data-level="8.2" data-path="other-stuff.html"><a href="other-stuff.html#surveys"><i class="fa fa-check"></i><b>8.2</b> Surveys</a></li>
 <li class="chapter" data-level="8.3" data-path="other-stuff.html"><a href="other-stuff.html#fun"><i class="fa fa-check"></i><b>8.3</b> Fun</a></li>
@@ -317,13 +319,6 @@ code > span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Inf
 </div>
 <div id="r-workflow-version-control" class="section level2">
 <h2><span class="header-section-number">7.6</span> R Workflow / Version Control</h2>
-<p><a href="http://r-pkgs.had.co.nz/git.html">Git and GitHub · R packages</a></p>
-<p><a href="https://github.com/MaximeWack/tidyflow">GitHub - MaximeWack-tidyflow Tidyflow a workflow that fits the tidyverse</a></p>
-<ul>
-<li>This is the workflow process that seems to work best for me right now</li>
-</ul>
-<p><a href="http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510#sec009">Good enough practices in scientific computing</a></p>
-<p><a href="http://projecttemplate.net/getting_started.html">ProjectTemplate</a></p>
 <p><a href="https://www.r-bloggers.com/a-perfect-rstudio-layout/">A perfect RStudio layout (Ilya Kashnitsky, 2018)</a></p>
 <ul>
 <li>My current preferred layout</li>
@@ -335,6 +330,31 @@ code > span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Inf
 <li>Bottom Right: Everything else</li>
 </ul></li>
 </ul>
+<p><a href="https://www.tidyverse.org/articles/2017/12/workflow-vs-script/">Project-Oriented Workflow (Bryan 2017)</a></p>
+<ul>
+<li>Organize each logical project into a folder on your computer.
+<ul>
+<li>Make sure the top-level folder advertises itself as such (with a .here, .git, or .Rproj)</li>
+</ul></li>
+<li>Directories:
+<ul>
+<li>Create all paths relative to the top-level directory.</li>
+<li>Whenever you work on this project, launch the R process from the project’s top-level directory. If you launch R from the shell, cd to the correct folder first.</li>
+</ul></li>
+<li>Write every script assuming it will be run in a fresh R process:
+<ul>
+<li>User-level setup: Do not save .RData when you quit R and don’t load .RData when you fire up R.</li>
+<li>Don’t do things in your .Rprofile that affect how R code runs, such as loading a package like dplyr or ggplot or setting an option such as stringsAsFactors = FALSE.</li>
+<li>Daily work habit: Restart R very often and re-run your under-development script from the top.</li>
+</ul></li>
+</ul>
+<p><a href="http://r-pkgs.had.co.nz/git.html">Git and GitHub · R packages</a></p>
+<p><a href="https://github.com/MaximeWack/tidyflow">GitHub - MaximeWack-tidyflow Tidyflow a workflow that fits the tidyverse</a></p>
+<ul>
+<li>This is the workflow process that seems to work best for me right now</li>
+</ul>
+<p><a href="http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005510#sec009">Good enough practices in scientific computing</a></p>
+<p><a href="http://projecttemplate.net/getting_started.html">ProjectTemplate</a></p>
 <p><a href="http://projecttemplate.net/">ProjectTemplate</a> package</p>
 <ul>
 <li>Recommended by the Not so standard deviations podcast</li>
@@ -362,7 +382,6 @@ code > span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Inf
 <p><strong><a href="https://www.reddit.com/r/rstats/comments/96ktpw/structuring_r_projects_a_pragmatic_perspective/?st=JKQ6MBUU&amp;sh=99f2cb0b">Structuring R Projects: a Pragmatic Perspective</a></strong></p>
 <p><strong><a href="https://www.r-bloggers.com/beyond-basic-r-introduction-and-best-practices/">Beyond Basic R – Introduction and Best Practices</a></strong></p>
 <p><a href="https://jdblischak.github.io/workflowr/">A Framework for Reproducible and Collaborative Data Science • workflowr</a></p>
-<p><a href="https://www.tidyverse.org/articles/2017/12/workflow-vs-script/">Project-Oriented Workflow</a></p>
 </div>
 <div id="r-shiny" class="section level2">
 <h2><span class="header-section-number">7.7</span> R Shiny</h2>
@@ -744,47 +763,8 @@ code > span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Inf
 <p><a href="https://www.r-bloggers.com/z-is-for-z-scores-and-standardizing/amp/">Z Is for Z-Scores and Standardizing</a></p>
 
 </div>
-<div id="r-links-iphone-that-need-to-be-integrated-in-r-links-iphone-that-need-to-be-integrated-in-blog" class="section level2">
-<h2><span class="header-section-number">7.12</span> R links iPhone that need to be integrated in ## R links iPhone that need to be integrated in blog</h2>
-<p><a href="https://www.r-bloggers.com/day-01-little-helper-checkdir/">Day 01 – Little Helper Checkdir</a> <a href="https://www.reddit.com/r/rstats/comments/a2cfxq/r_completion_for_neovim_and_vim_8_users/?st=JP6ZJ14C&amp;sh=07c38a70">R Completion for Neovim and Vim 8 Users</a></p>
-<p><a href="https://www.r-bloggers.com/one-recipe-step-to-rule-them-all/">One Recipe Step to Rule Them All</a></p>
-<p><a href="https://www.r-bloggers.com/day-04-little-helper-evenstrings/">Day 04 – Little Helper Evenstrings</a></p>
-<p><a href="https://www.r-bloggers.com/ggqc-ggplot-quality-control-charts-new-release/">ggQC | Ggplot Quality Control Charts – New Release</a></p>
-<p><a href="https://www.reddit.com/r/rprogramming/comments/a476k9/web_apis_how_to_select_variables_of_interest_in/?st=JPEXCBV0&amp;sh=aa43d7b4">Web API’s - How to Select Variables of Interest in Httr::Get() Request in R</a></p>
-<p><a href="https://www.r-bloggers.com/interesting-packages-taken-from-r-pharma/">Interesting Packages Taken From R/Pharma</a></p>
-<p><a href="https://www.r-bloggers.com/interactive-panel-eda-with-3-lines-of-code/">Interactive Panel EDA With 3 Lines of Code</a></p>
-<p><a href="https://www.r-bloggers.com/automated-dashboard-visualizations-with-distribution-in-r/">Automated Dashboard Visualizations With Distribution in R</a></p>
-<p><a href="https://www.r-bloggers.com/the-knight-on-an-infinite-chessboard-puzzle-efficient-simulation-in-r/">The ‘Knight on an Infinite Chessboard’ Puzzle: Efficient Simulation in R</a></p>
-<p><a href="https://www.reddit.com/r/DataScienceJobs/comments/a555pd/how_to_become_a_data_scientist/?st=JPJXTG53&amp;sh=ce0593b3">DataScienceJobs</a></p>
-<p><a href="https://www.r-bloggers.com/great-post-yash/">Great Post Yash!</a></p>
-<p><a href="https://www.statworx.com/blog/dive-the-debugging-function-you-deserve/">Dive – the Debugging Function You Deserve</a></p>
-<p><a href="https://www.r-bloggers.com/sharing-modeling-pipelines-in-r/">Sharing Modeling Pipelines in R</a></p>
-<p><a href="https://www.r-bloggers.com/code-for-case-study-customer-churn-with-keras-tensorflow-and-h2o/">Code for Case Study – Customer Churn With Keras/TensorFlow and H2O</a></p>
-<p><a href="https://www.r-bloggers.com/how-to-deploy-a-predictive-service-to-kubernetes-with-r-and-the-azurecontainers-package/">How to Deploy a Predictive Service to Kubernetes With R and the AzureContainers Package</a></p>
-<p><a href="https://www.reddit.com/r/dataisbeautiful/comments/a5yuq0/oc_my_mood_over_the_year_2018_as_measured_by_the/?st=JPNLYZ8V&amp;sh=85e0e40f">[OC] My Mood Over the Year 2018 as Measured by the Beck Depression Inventory</a></p>
-<p><a href="https://www.reddit.com/r/RStudio/comments/a6ij8e/q_getting_rmarkdown_intext_citation_right/?st=JPQ4NTT9&amp;sh=5291ac7d">Q: Getting RMarkdown in-Text Citation Right.</a></p>
-<p><a href="https://www.r-bloggers.com/minimum-crps-vs-maximum-likelihood/">Minimum CRPS vs. Maximum Likelihood</a></p>
-<p><a href="https://www.r-bloggers.com/six-sigma-dmaic-series-in-r-part4/">Six Sigma DMAIC Series in R – Part4</a></p>
-<p><a href="https://www.reddit.com/r/datascience/comments/a6raiw/i_wrote_a_brief_guide_on_how_to_become_a_data/?st=JPRXMBNK&amp;sh=0c6c1233">I Wrote a Brief Guide on How to Become a Data Scientist Based on My Own Experience Including Learning R, SQL, Stats, Crafting a Resume, and Preparing for Interviews.</a></p>
-<p><a href="https://www.reddit.com/r/rstats/comments/a6zzgj/an_r_shiny_app_to_recognize_flower_species/?st=JPSLZHCE&amp;sh=b6c673f8">An R Shiny App to Recognize Flower Species</a></p>
-<p><a href="https://www.r-bloggers.com/an-r-shiny-app-to-recognize-flower-species/">An R Shiny App to Recognize Flower Species</a></p>
-<p><a href="https://www.r-bloggers.com/my-r-take-on-advent-of-code-day-1/">My R Take on Advent of Code – Day 1</a></p>
-<p><a href="https://www.reddit.com/r/rstats/comments/a7m29t/let_r_snow_let_r_snow_let_r_snow_20/?st=JPVCUXV7&amp;sh=c079d719">♫ Let R Snow, Let R Snow, Let R Snow… ♪♫ 2.0</a></p>
-<p><a href="https://www.r-bloggers.com/my-r-take-on-advent-of-code-day-2/">My R Take on Advent of Code – Day 2</a></p>
-<p><a href="https://www.r-bloggers.com/spelling-2-0-improved-markdown-and-rstudio-support/">Spelling 2.0: Improved Markdown and RStudio Support</a></p>
-<p><a href="https://www.reddit.com/r/datascience/comments/a8p7tg/data_science_cheatsheets/?st=JQ0BAULU&amp;sh=74ce6b5d">Data Science Cheatsheets</a></p>
-<p><a href="https://www.r-bloggers.com/statistical-assessments-of-auc/">Statistical Assessments of AUC</a></p>
-<p><a href="https://www.r-bloggers.com/text-classification-with-tidy-data-principles/">Text Classification With Tidy Data Principles</a></p>
-<p><a href="https://www.r-bloggers.com/the-need-for-speed-part-2-c-vs-fortran-vs-c/">The Need for Speed Part 2: C++ vs. Fortran vs. C</a></p>
-<p><a href="https://www.r-bloggers.com/5-amazing-free-tools-that-can-help-with-publishing-r-results-and-blogging/">5 Amazing Free Tools That Can Help With Publishing R Results and Blogging</a></p>
-<p><a href="https://www.r-bloggers.com/using-the-tidyverse-for-more-than-data-manipulation-estimating-pi-with-monte-carlo-methods/">Using the Tidyverse for More Than Data Manipulation: Estimating Pi With Monte Carlo Methods</a></p>
-<p><a href="https://www.r-bloggers.com/using-the-tidyverse-for-more-than-data-manipulation-estimating-pi-with-monte-carlo-methods/">Using the Tidyverse for More Than Data Manipulation: Estimating Pi With Monte Carlo Methods</a></p>
-<p><a href="https://www.r-bloggers.com/how-to-scrape-data-from-a-javascript-website-with-r/">How to Scrape Data From a JavaScript Website With R</a></p>
-<p><a href="https://www.r-bloggers.com/day-20-little-helper-char_replace/">Day 20 – Little Helper Char_Replace</a></p>
-<p><a href="https://www.brodrigues.co/blog/2018-12-30-reticulate/">Econometrics and Free Software</a></p>
-<p><a href="https://www.reddit.com/r/Rlanguage/comments/aent0p/paws_an_aws_sdk_for_r/?st=JQRHPE8H&amp;sh=3cca9973">Paws, an AWS SDK for R</a></p>
-<p><a href="https://www.reddit.com/r/Rlanguage/comments/agyhzp/datascience_digest_issue_16/?st=JR10BWT0&amp;sh=8368470a">DataScience Digest - Issue #16</a></p>
-<p><a href="https://style.tidyverse.org/">The Tidyverse Style Guide</a></p>
+<div id="r-links-iphone-that-need-to-be-integrated-in-blog" class="section level2">
+<h2><span class="header-section-number">7.12</span> R links iPhone that need to be integrated in blog</h2>
 
 </div>
 <div id="r-links-ipad-that-need-to-be-integrated-in-blog" class="section level2">
@@ -793,57 +773,6 @@ code > span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Inf
 </div>
 <div id="python-other-links-iphone-that-need-to-be-integrated-in-blog" class="section level2">
 <h2><span class="header-section-number">7.14</span> Python &amp; Other links iPhone that need to be integrated in blog</h2>
-<p><a href="https://www.reddit.com/r/datascience/comments/a2b4hf/effective_presentations_techniques_for_scientific/?st=JP6KRGQN&amp;sh=d6959ec0">Effective Presentations Techniques for Scientific and Technical Content</a></p>
-<p><a href="https://www.reddit.com/r/Python/comments/a2l5pw/new_resource_top_50_matplotlib_visualizations_for/?st=JP8LJLV7&amp;sh=ff5e5e60">[New Resource] Top 50 Matplotlib Visualizations for Data Analysis - the Master Plots (W/ Full Python Code)</a></p>
-<p><a href="https://www.reddit.com/r/datascience/comments/a2z6vz/20_youtube_channels_for_ai_data_science/?st=JPA1HT9O&amp;sh=c4bd7021">20 YouTube Channels for AI &amp; Data Science</a></p>
-<p><a href="https://www.reddit.com/r/arduino/comments/a2yrsa/my_first_arduino_project_voice_controlled/?st=JPAC3QHV&amp;sh=ae4ff2be">My First Arduino Project: Voice Controlled Organizer Using EasyVR 3.0 and Some WS2811S.</a></p>
-<p><a href="https://www.reddit.com/r/datascience/comments/a31a35/the_data_science_workflow/?st=JPAGDM4J&amp;sh=0bff3d93">The Data Science Workflow</a></p>
-<p><a href="https://docs.google.com/spreadsheets/d/1ZHLzlMdBEHDorCUEeeiSx3WAgfLGw34pC08C9T0IMkE/edit">Data Science Workflow Tools</a></p>
-<p><a href="https://www.reddit.com/r/datascience/comments/a31a35/comment/eb35ev9?st=JPAGEVN0&amp;sh=fea9b9dd">The Data Science Workflow</a></p>
-<p><a href="https://www.reddit.com/r/datascience/comments/a3d6o3/dfply_the_dplyr_of_python/?st=JPBQLGGL&amp;sh=55410387">Dfply - the Dplyr of Python</a></p>
-<p><a href="https://www.reddit.com/r/learnprogramming/comments/a3z4b5/i_made_list_of_resources_for_rlearnprogramming/?st=JPEQOAJC&amp;sh=4b2523ca">I Made List of Resources for R/learnProgramming</a></p>
-<p><a href="https://www.reddit.com/r/statistics/comments/a424vw/using_survival_analysis_to_predict_customer_churn/?st=JPEQPF1O&amp;sh=9ce490fb">Using Survival Analysis to Predict Customer Churn</a></p>
-<p><a href="https://www.reddit.com/r/learnprogramming/comments/a466s3/creating_a_simple_app_from_start_the_finish/?st=JPEX7POV&amp;sh=105392ba">Creating a Simple App From Start the Finish</a></p>
-<p><a href="https://trinket.io/">Share Code From Any Device</a></p>
-<p><a href="https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/">The Joel Test: 12 Steps to Better Code</a></p>
-<p><a href="https://www.reddit.com/r/learnprogramming/comments/a4prkc/i_want_to_watch_a_programmers_workflow_from_the/?st=JPHLJBX2&amp;sh=0e023317">I Want to Watch a Programmers Workflow From the Start of a Project to the End. Does This Exist?</a></p>
-<p><a href="http://learnival.com/">Learn Python the Fun Way</a></p>
-<p><a href="https://www.reddit.com/r/datascience/comments/a5h9a0/advice_links_tips_to_learning_python_for_ds/?st=JPLB6M4S&amp;sh=d0c3ff08">Advice/ Links/ Tips to Learning Python for DS</a></p>
-<p><a href="https://boingboing.net/2018/12/12/using-statistics-to-estimate-t.html">Using Statistics to Estimate the True Scope of the Secret Killings at the End of the Sri Lankan Civil War</a></p>
-<p><a href="https://www.reddit.com/r/datascience/comments/a6b96j/a_beautiful_book_about_numpy/?st=JPP5BSQF&amp;sh=c9a60ca9">A Beautiful Book About Numpy</a></p>
-<p><a href="https://techcrunch.com/2018/12/14/facebook-open-sources-pytext-natural-language-processing-framework/">Facebook Open Sources PyText NLP Framework</a></p>
-<p><a href="https://www.reddit.com/r/datascience/comments/a6lq4e/hey_all_im_a_data_scientist_who_gave_up_learning/?st=JPRC2D2B&amp;sh=37693e3c">Hey All. I’m a Data Scientist Who Gave Up Learning Many Times Because of the Overload of Materials and Lack of Structured Road Map. So I Wrote This Article to Help Those Who Want to Achieve Their Learning Goals Next Year With a Simple Timetable They Can Replicate Every Month. I Hope It Helps.</a></p>
-<p><a href="https://www.reddit.com/r/datascience/comments/a73afu/the_hundredpage_machine_learning_book_manuscript/?st=JPT75PD1&amp;sh=3dd582f9">The Hundred-Page Machine Learning Book Manuscript Is Complete</a></p>
-<p><a href="https://www.reddit.com/r/DataScienceJobs/comments/a84r1o/i_wrote_a_brief_guide_on_how_to_become_a_data/?st=JPXDGR5X&amp;sh=bbc179d4">DataScienceJobs</a></p>
-<p><a href="https://www.reddit.com/r/raspberry_pi/comments/a8a8aw/detect_any_object_with_raspberry_pi_and_tensorflow/?st=JPYYRSQS&amp;sh=fba39410">Detect ANY Object With Raspberry Pi and TensorFlow</a></p>
-<p><a href="https://www.reddit.com/r/datascience/comments/a9611e/5_papers_and_articles_about_project_management_in/?st=JQ2R0B4Q&amp;sh=3948fc1d">5 Papers and Articles About Project Management in Data Science</a></p>
-<p><a href="https://www.reddit.com/r/Python/comments/a9dtde/find_usernames_across_over_75_social_networks/?st=JQ3VSZ9W&amp;sh=a6e89567">Find Usernames Across Over 75 Social Networks. Very Useful for Reconnaissance</a></p>
-<p><a href="https://www.reddit.com/r/datascience/comments/a9nqoe/python_examples_of_popular_machine_learning/?st=JQ59I244&amp;sh=0d8386ba">🤖Python Examples of Popular Machine Learning Algorithms With Interactive Jupyter Demos and Math Being Explained</a></p>
-<p><a href="https://www.reddit.com/r/Python/comments/a9o110/comprehensive_python_cheatsheet/?st=JQ5B8J75&amp;sh=20dc53eb">Comprehensive Python Cheatsheet</a></p>
-<p><a href="https://www.reddit.com/r/programming/comments/a9nki8/23_awesome_programming_blogs_to_follow_in_2019/?st=JQ5CLXAK&amp;sh=e929e3fc">23 Awesome Programming Blogs to Follow In 2019</a></p>
-<p><a href="https://www.reddit.com/r/learnprogramming/comments/a9rgkd/reminder_for_students_here_you_can_get_github/?st=JQ60A26Q&amp;sh=e8222c33">Reminder for Students Here, You Can Get Github Student Developer Pack Which Includes a Lot of Useful Free Software</a></p>
-<p><a href="https://drivendata.github.io/cookiecutter-data-science/">Cookiecutter Data Science</a></p>
-<p><a href="https://www.reddit.com/r/learnprogramming/comments/ac0su2/a_short_guide_i_wrote_on_learning_ios_development/?st=JQG5N3A3&amp;sh=38c5806d">A Short Guide I Wrote on Learning iOS Development Using Swift - Do Check It Out if You Are Interested in the Field!</a></p>
-<p><a href="https://www.reddit.com/r/raspberry_pi/comments/abvoop/homm3_on_raspberry_pi_3_without_exagear/?st=JQG7ADFO&amp;sh=88fd028a">Homm3 on Raspberry Pi 3 WITHOUT Exagear</a></p>
-<p><a href="https://www.reddit.com/r/datascience/comments/aceczq/feeling_pretty_underqualified/?st=JQHPX7EY&amp;sh=a3c70378">Datascience</a></p>
-<p><a href="https://www.reddit.com/r/datascience/comments/acosg3/prof_mike_gelbarts_ubc_ds_lectures_are_on_youtube/?st=JQJ06Q1P&amp;sh=af79f588">Prof. Mike Gelbart’s (UBC) DS Lectures Are on YouTube and They’re Amazing</a></p>
-<p><a href="https://www.reddit.com/r/datascience/comments/adb4jw/data_science_for_blog_content/?st=JQLPUY51&amp;sh=6c63f96a">Data Science for Blog Content</a></p>
-<p><a href="https://www.reddit.com/r/learnpython/comments/adbe8g/looking_for_advice_on_resources_to_learn_python/?st=JQLQN392&amp;sh=1d987a1e">Looking for Advice on Resources to Learn Python…</a></p>
-<p><a href="https://www.reddit.com/r/agile/comments/ads6mn/my_agile_workflow_suggested_by_the_experts/?st=JQNV0ZSF&amp;sh=2048fce0">My Agile Workflow (Suggested by the Experts) (Episode 1)</a></p>
-<p><a href="https://www.reddit.com/r/shortcuts/comments/adpz54/git_for_your_shortcuts_make_readable_versioned/?st=JQNV2ETY&amp;sh=42ba423b">Git for Your Shortcuts — Make Readable, Versioned Shortcut Backups With Git (via Working Copy)</a></p>
-<p><a href="https://www.reddit.com/r/datascience/comments/ae4fc3/best_data_science_talk_one_can_watch/?st=JQP25HQ2&amp;sh=bacc5ff3">Best Data Science Talk One Can Watch?</a></p>
-<p><a href="https://www.reddit.com/r/programming/comments/ae81uo/over_500_top_pdfs_posted_to_hacker_news_in_2018/?st=JQQ7S6R3&amp;sh=5a62fd00">Over 500 Top PDFs Posted to Hacker News In 2018</a></p>
-<p><a href="http://deon.drivendata.org/">An Ethics Checklist for Data Scientists</a></p>
-<p><a href="https://www.reddit.com/r/learnpython/comments/af78a2/compiled_notes_for_people_who_are_learning_python/?st=JQU5HJLW&amp;sh=908ab23e">Compiled Notes for People Who Are Learning Python.</a></p>
-<p><a href="https://medium.com/the-mission/how-software-data-and-a-hell-of-a-lot-of-work-helped-me-lose-110-pounds-in-25-months-13b525f8f4c">How Software, Data, and a Hell of a Lot of Work Helped Me Lose 110 Pounds in 25 Months</a></p>
-<p><a href="https://medium.com/the-mission/how-software-data-and-a-hell-of-a-lot-of-work-helped-me-lose-110-pounds-in-25-months-13b525f8f4c">How Software, Data, and a Hell of a Lot of Work Helped Me Lose 110 Pounds in 25 Months</a></p>
-<p><a href="https://www.yosemitemoonbow.com/">Yosemite Moonbow</a></p>
-<p><a href="https://www.reddit.com/r/statistics/comments/ageblu/i_never_took_a_bayesian_class_what_book_or_video/?st=JQYLZUK5&amp;sh=e50af706">I Never Took a Bayesian Class. What Book or Video Series Should I Watch to Get Up to Speed?</a></p>
-<p><a href="https://realpython.com/python-f-strings/">Python 3’S F-Strings: an Improved String Formatting Syntax (Guide)</a></p>
-<p><a href="https://ocs.fas.harvard.edu/files/ocs/files/phd_resume_cover_letters.pdf">Phd_Resume_Cover_Letters</a></p>
-<p><a href="https://www.reddit.com/r/datascience/comments/aiqmiq/documenting_datasci_setup_for_personal_computers/?st=JR87GVI9&amp;sh=64ae5970">Documenting Datasci Setup for Personal Computers</a></p>
-<p><a href="https://www.reddit.com/r/programming/comments/aj19vp/former_google_engineer_breaks_down_interview/?st=JRA5UH9G&amp;sh=4f2dac5b">Former Google Engineer Breaks Down Interview Problems He Used to Use to Screen Candidates. Lots of Good Programming Tips and Advice.</a></p>
-<p><a href="https://github.com/cruces13/DND-Char-Gen">Cruces13/DND-Char-Gen</a></p>
 
 </div>
 </div>

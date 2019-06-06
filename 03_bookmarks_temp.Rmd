@@ -5,6 +5,206 @@
 ## R Links flagged on mobile that need to be integrated in blog
 
 
+[Day 01 – Little Helper Checkdir](https://www.r-bloggers.com/day-01-little-helper-checkdir/)
+
+
+[R Completion for Neovim and Vim 8 Users](https://www.reddit.com/r/rstats/comments/a2cfxq/r_completion_for_neovim_and_vim_8_users/?st=JP6ZJ14C&sh=07c38a70)
+
+
+[One Recipe Step to Rule Them All](https://www.r-bloggers.com/one-recipe-step-to-rule-them-all/)
+
+
+[Day 04 – Little Helper Evenstrings](https://www.r-bloggers.com/day-04-little-helper-evenstrings/)
+
+
+[ggQC | Ggplot Quality Control Charts – New Release](https://www.r-bloggers.com/ggqc-ggplot-quality-control-charts-new-release/)
+
+
+[Web API's - How to Select Variables of Interest in Httr::Get() Request in R](https://www.reddit.com/r/rprogramming/comments/a476k9/web_apis_how_to_select_variables_of_interest_in/?st=JPEXCBV0&sh=aa43d7b4)
+
+
+[Interesting Packages Taken From R/Pharma](https://www.r-bloggers.com/interesting-packages-taken-from-r-pharma/)
+
+
+[Interactive Panel EDA With 3 Lines of Code](https://www.r-bloggers.com/interactive-panel-eda-with-3-lines-of-code/)
+
+
+[Automated Dashboard Visualizations With Distribution in R](https://www.r-bloggers.com/automated-dashboard-visualizations-with-distribution-in-r/)
+
+
+[The ‘Knight on an Infinite Chessboard’ Puzzle: Efficient Simulation in R](https://www.r-bloggers.com/the-knight-on-an-infinite-chessboard-puzzle-efficient-simulation-in-r/)
+
+
+[DataScienceJobs](https://www.reddit.com/r/DataScienceJobs/comments/a555pd/how_to_become_a_data_scientist/?st=JPJXTG53&sh=ce0593b3)
+
+
+[Great Post Yash!](https://www.r-bloggers.com/great-post-yash/)
+
+
+[Dive – the Debugging Function You Deserve](https://www.statworx.com/blog/dive-the-debugging-function-you-deserve/)
+
+
+[Sharing Modeling Pipelines in R](https://www.r-bloggers.com/sharing-modeling-pipelines-in-r/)
+
+
+[Code for Case Study – Customer Churn With Keras/TensorFlow and H2O](https://www.r-bloggers.com/code-for-case-study-customer-churn-with-keras-tensorflow-and-h2o/)
+
+
+[How to Deploy a Predictive Service to Kubernetes With R and the AzureContainers Package](https://www.r-bloggers.com/how-to-deploy-a-predictive-service-to-kubernetes-with-r-and-the-azurecontainers-package/)
+
+
+[[OC] My Mood Over the Year 2018 as Measured by the Beck Depression Inventory](https://www.reddit.com/r/dataisbeautiful/comments/a5yuq0/oc_my_mood_over_the_year_2018_as_measured_by_the/?st=JPNLYZ8V&sh=85e0e40f)
+
+
+[Q: Getting RMarkdown in-Text Citation Right.](https://www.reddit.com/r/RStudio/comments/a6ij8e/q_getting_rmarkdown_intext_citation_right/?st=JPQ4NTT9&sh=5291ac7d)
+
+
+[Minimum CRPS vs. Maximum Likelihood](https://www.r-bloggers.com/minimum-crps-vs-maximum-likelihood/)
+
+
+[Six Sigma DMAIC Series in R – Part4](https://www.r-bloggers.com/six-sigma-dmaic-series-in-r-part4/)
+
+
+[I Wrote a Brief Guide on How to Become a Data Scientist Based on My Own Experience Including Learning R, SQL, Stats, Crafting a Resume, and Preparing for Interviews.](https://www.reddit.com/r/datascience/comments/a6raiw/i_wrote_a_brief_guide_on_how_to_become_a_data/?st=JPRXMBNK&sh=0c6c1233)
+
+
+[An R Shiny App to Recognize Flower Species](https://www.reddit.com/r/rstats/comments/a6zzgj/an_r_shiny_app_to_recognize_flower_species/?st=JPSLZHCE&sh=b6c673f8)
+
+
+[An R Shiny App to Recognize Flower Species](https://www.r-bloggers.com/an-r-shiny-app-to-recognize-flower-species/)
+
+
+[My R Take on Advent of Code – Day 1](https://www.r-bloggers.com/my-r-take-on-advent-of-code-day-1/)
+
+
+[♫ Let R Snow, Let R Snow, Let R Snow... ♪♫ 2.0](https://www.reddit.com/r/rstats/comments/a7m29t/let_r_snow_let_r_snow_let_r_snow_20/?st=JPVCUXV7&sh=c079d719)
+
+
+[My R Take on Advent of Code – Day 2](https://www.r-bloggers.com/my-r-take-on-advent-of-code-day-2/)
+
+
+[Spelling 2.0: Improved Markdown and RStudio Support](https://www.r-bloggers.com/spelling-2-0-improved-markdown-and-rstudio-support/)
+
+
+[Data Science Cheatsheets](https://www.reddit.com/r/datascience/comments/a8p7tg/data_science_cheatsheets/?st=JQ0BAULU&sh=74ce6b5d)
+
+
+[Statistical Assessments of AUC](https://www.r-bloggers.com/statistical-assessments-of-auc/)
+
+
+[Text Classification With Tidy Data Principles](https://www.r-bloggers.com/text-classification-with-tidy-data-principles/)
+
+
+[The Need for Speed Part 2: C++ vs. Fortran vs. C](https://www.r-bloggers.com/the-need-for-speed-part-2-c-vs-fortran-vs-c/)
+
+
+[5 Amazing Free Tools That Can Help With Publishing R Results and Blogging](https://www.r-bloggers.com/5-amazing-free-tools-that-can-help-with-publishing-r-results-and-blogging/)
+
+
+[Using the Tidyverse for More Than Data Manipulation: Estimating Pi With Monte Carlo Methods](https://www.r-bloggers.com/using-the-tidyverse-for-more-than-data-manipulation-estimating-pi-with-monte-carlo-methods/)
+
+
+[Using the Tidyverse for More Than Data Manipulation: Estimating Pi With Monte Carlo Methods](https://www.r-bloggers.com/using-the-tidyverse-for-more-than-data-manipulation-estimating-pi-with-monte-carlo-methods/)
+
+
+[How to Scrape Data From a JavaScript Website With R](https://www.r-bloggers.com/how-to-scrape-data-from-a-javascript-website-with-r/)
+
+
+[Day 20 – Little Helper Char_Replace](https://www.r-bloggers.com/day-20-little-helper-char_replace/)
+
+
+[Econometrics and Free Software](https://www.brodrigues.co/blog/2018-12-30-reticulate/)
+
+
+[Paws, an AWS SDK for R](https://www.reddit.com/r/Rlanguage/comments/aent0p/paws_an_aws_sdk_for_r/?st=JQRHPE8H&sh=3cca9973)
+
+
+[DataScience Digest - Issue #16](https://www.reddit.com/r/Rlanguage/comments/agyhzp/datascience_digest_issue_16/?st=JR10BWT0&sh=8368470a)
+
+
+[The Tidyverse Style Guide](https://style.tidyverse.org/)
+
+
+[Cookiecutter Data Science](https://drivendata.github.io/cookiecutter-data-science/)
+
+
+[How the BBC Visual and Data Journalism Team Works With Graphics in R](https://www.reddit.com/r/rstats/comments/am2pw9/how_the_bbc_visual_and_data_journalism_team_works/?st=JRMBUG9X&sh=f562d3eb)
+
+
+[Automated Machine Learning / Automl in R](https://www.reddit.com/r/rstats/comments/amnq1c/automated_machine_learning_automl_in_r/?st=JRP6LC36&sh=a741c971)
+
+
+[Some Important Data Science Tools That Aren’t Python, R, SQL or Math](https://www.reddit.com/r/datascience/comments/amsdk2/some_important_data_science_tools_that_arent/?st=JRPD99RC&sh=31fd414b)
+
+
+[Organizing R Research Projects: CPAT, a Case Study](https://www.reddit.com/r/rstats/comments/an3384/organizing_r_research_projects_cpat_a_case_study/?st=JRQOCTYY&sh=2cca093e)
+
+
+[Show Rstats: List of R Developers and Advocates on Github](https://www.reddit.com/r/rstats/comments/ane61k/show_rstats_list_of_r_developers_and_advocates_on/?st=JRRUU0MO&sh=413dd8fc)
+
+
+[What They Forgot to Teach You About R](https://whattheyforgot.org/)
+
+
+[Analyzing Suppressed Data: a Case Study Using R and Stan](https://www.reddit.com/r/statistics/comments/aoauet/analyzing_suppressed_data_a_case_study_using_r/?st=JRVGO8WP&sh=67138e50)
+
+
+[Deploying a Blogdown Website With GitLab Pages](https://www.reddit.com/r/rstats/comments/aoqx09/deploying_a_blogdown_website_with_gitlab_pages/?st=JRXCOCKV&sh=e7ec5409)
+
+
+[Desiderata](https://github.com/DesiQuintans/desiderata/blob/master/README.md)
+
+
+[The R Functions I've Used Most Often in the Last Year](https://www.reddit.com/r/rstats/comments/ar3yqh/the_r_functions_ive_used_most_often_in_the_last/?st=JS6YML1V&sh=09425da2)
+
+[Data Science Is Different Now](https://veekaybee.github.io/2019/02/13/data-science-is-different/?from=singlemessage&isappinstalled=0)
+
+[Learning Confidence Intervals Using R: Part II](https://www.reddit.com/r/rstats/comments/arr7dc/learning_confidence_intervals_using_r_part_ii/?st=JS9NCSQB&sh=d88ad069)
+
+
+[R Video Tutorial #2: Scraping Data From the Web and Automatically Updating a WordPress Site](https://www.reddit.com/r/rstats/comments/at7tqv/r_video_tutorial_2_scraping_data_from_the_web_and/?st=JSF75LXL&sh=761ac03c)
+
+
+[Lesson 82 – Confidence Intervals in R: Week 3](https://www.reddit.com/r/rstats/comments/audesg/lesson_82_confidence_intervals_in_r_week_3/?st=JSJPFTMX&sh=720b8ce8)
+
+
+[Just Some Great R Tutorials for Stats People](https://www.reddit.com/r/statistics/comments/auftge/just_some_great_r_tutorials_for_stats_people/?st=JSJTLDKY&sh=466db862)
+
+
+[What Are Some Very Useful, Lesser Known R Packages for Data Science?](https://www.reddit.com/r/datascience/comments/av4z50/what_are_some_very_useful_lesser_known_r_packages/)
+
+
+[How to Turn Your Ggplot2 Visualization Into an Interactive Tweet](https://www.reddit.com/r/datascience/comments/avf3un/how_to_turn_your_ggplot2_visualization_into_an/)
+
+
+[Python for Business Repository - Machine Learning and Data Science](https://www.reddit.com/r/Python/comments/axg8i7/python_for_business_repository_machine_learning/)
+
+
+[10 Things R Can Do That Might Surprise You](https://simplystatistics.org/2019/03/13/10-things-r-can-do-that-might-surprise-you/)
+
+
+[Copyright in Closed-Source R Packages: the Right Way](https://www.reddit.com/r/rstats/comments/b2m8rn/copyright_in_closedsource_r_packages_the_right_way/?utm_source=share&utm_medium=ios_app)
+
+
+[Best Practices for Running an R Workshop?](https://www.reddit.com/r/rstats/comments/b3l5h3/best_practices_for_running_an_r_workshop/?utm_source=share&utm_medium=ios_app)
+
+
+[Auto-Generate R SDK (or API Client) for REST APIs Using OpenAPI Generator](https://www.reddit.com/r/Rlanguage/comments/b5b7ky/autogenerate_r_sdk_or_api_client_for_rest_apis/?utm_source=share&utm_medium=ios_app)
+
+
+[Writing R Documentation, Simplified](https://www.reddit.com/r/rstats/comments/bat7zd/writing_r_documentation_simplified/?utm_source=share&utm_medium=ios_app)
+
+
+[Basics in R Programming](https://blog.sicara.com/basics-r-programming-standards-52bea7aebd59?utm_source=share&utm_medium=ios_app)
+
+
+[Using Control Charts in R](https://www.r-bloggers.com/using-control-charts-in-r/)
+
+
+[Working With Your Facebook Data in R](https://www.r-bloggers.com/working-with-your-facebook-data-in-r/)
+
+
+[Writing Functions for Dplyr and Ggplot2 – April 2, 2018](https://www.r-bloggers.com/writing-functions-for-dplyr-and-ggplot2-april-2-2018/)
 
 --
 

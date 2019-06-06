@@ -173,6 +173,27 @@ How to Perform a Logistic Regression in R | DataScience+
 
 ## R Workflow / Version Control
 
+[A perfect RStudio layout (Ilya Kashnitsky, 2018)](https://www.r-bloggers.com/a-perfect-rstudio-layout/) 
+
+  * My current preferred layout
+  * Adjust in “Tools” –> “Global options” –> “Pane layout”:    
+     + Top Left: Source
+     + Bottom Left: History (then collapse)
+     + Top Right: Console
+     + Bottom Right: Everything else 
+
+[Project-Oriented Workflow (Bryan 2017)](https://www.tidyverse.org/articles/2017/12/workflow-vs-script/)
+
+  * Organize each logical project into a folder on your computer.
+     + Make sure the top-level folder advertises itself as such (with a .here, .git, or .Rproj) 
+  * Directories:
+     + Create all paths relative to the top-level directory.
+     + Whenever you work on this project, launch the R process from the project’s top-level directory. If you launch R from the shell, cd to the correct folder first.
+  * Write every script assuming it will be run in a fresh R process:
+     + User-level setup: Do not save .RData when you quit R and don’t load .RData when you fire up R. 
+     + Don’t do things in your .Rprofile that affect how R code runs, such as loading a package like dplyr or ggplot or setting an option such as stringsAsFactors = FALSE.
+     + Daily work habit: Restart R very often and re-run your under-development script from the top.
+
 [Git and GitHub · R packages](http://r-pkgs.had.co.nz/git.html)
 
 [GitHub - MaximeWack-tidyflow Tidyflow a workflow that fits the tidyverse](https://github.com/MaximeWack/tidyflow)    
@@ -183,14 +204,6 @@ How to Perform a Logistic Regression in R | DataScience+
 
 [ProjectTemplate](http://projecttemplate.net/getting_started.html)
 
-[A perfect RStudio layout (Ilya Kashnitsky, 2018)](https://www.r-bloggers.com/a-perfect-rstudio-layout/) 
-
-  * My current preferred layout
-  * Adjust in “Tools” –> “Global options” –> “Pane layout”:    
-     + Top Left: Source
-     + Bottom Left: History (then collapse)
-     + Top Right: Console
-     + Bottom Right: Everything else 
 
 [ProjectTemplate](http://projecttemplate.net/) package 
 
@@ -223,9 +236,6 @@ How to Perform a Logistic Regression in R | DataScience+
 
 
 [A Framework for Reproducible and Collaborative Data Science • workflowr](https://jdblischak.github.io/workflowr/)
-
-
-[Project-Oriented Workflow](https://www.tidyverse.org/articles/2017/12/workflow-vs-script/)
 
 
 
