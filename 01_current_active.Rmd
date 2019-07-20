@@ -1,18 +1,5 @@
 #Current Active Bookmarks  {#index}
 
-------
-
-## Here’s my intro to R recommendation:
-
-0. Read through 1,3, and 4 before starting
-
-1. [New to R? Kickstart your learning and career with these 6 steps! – paulvanderlaken.com](https://paulvanderlaken.com/2017/10/18/learn-r/amp/)
-
-2. (Step 5 from above) [R for Data Science](https://r4ds.had.co.nz/) (tidyverse)
-
-3. Read this: [Happy Git and GitHub for the useR](https://happygitwithr.com/)
-
-4: Read this: [Project-oriented workflow - Tidyverse](https://www.tidyverse.org/articles/2017/12/workflow-vs-script/)
 
 ------
 
@@ -123,9 +110,8 @@ Chapter: [Continuous Integration](https://bookdown.org/rdpeng/RProgDA/continuous
 
 
 ### Happy Git and GitHub for the useR
-*
-[Happy Git and GitHub for the useR (Bryan, 2018)](http://happygitwithr.com/)
 
+* [Happy Git and GitHub for the useR (Bryan, 2018)](http://happygitwithr.com/)
 * Amazing tutorial on getting set up with git and R
 * Will be a great resources for troubleshooting git/R problems
 * __New Project Workflow:__
@@ -211,3 +197,82 @@ https://www.webpagefx.com/blog/web-design/git-tutorials-beginners/
 https://dplyr.tidyverse.org/articles/programming.html
 
 * Good discussion of programming with dplyr (quoting, quosures, etc.)
+
+
+------
+
+# My intro to R recommendations:
+
+* There's a whole history/background with R, but here's what I think is the most important thing to know: there are 2 popular dialects in R, and you should become familiar with both.
+    * __Base R__: the base language, which can be pretty esoteric and mind-bending (but totally worth it)
+    * The __tidyverse__: a group of R packages that simplify working in R. There are Base R champions that dislike the tidyverse, but I like it and highly recommend using the tidyverse to bridge the gap between beginner and advanced understanding of R.
+
+
+__My intro to R recommendations (summarized):__
+
+0. Read through the links below before starting (at least glance through them)
+1. [New to R? Kickstart your learning and career with these 6 steps! – paulvanderlaken.com](https://paulvanderlaken.com/2017/10/18/learn-r/amp/) (learn R)
+    * Especially [R for Data Science](https://r4ds.had.co.nz/) (tidyverse)
+2. Read this: [Happy Git and GitHub for the useR](https://happygitwithr.com/) (workflow)
+3. Read this: [Project-oriented workflow - Tidyverse](https://www.tidyverse.org/articles/2017/12/workflow-vs-script/) (workflow)
+4. Read this: [A perfect RStudio layout (Ilya Kashnitsky, 2018)](https://www.r-bloggers.com/a-perfect-rstudio-layout/) (workflow)
+
+
+## Read this "New to R" article:
+
+* __[New to R Kickstart your learning and career with these 6 steps! – paulvanderlaken.com (Paul van der Laken, 2017)](https://paulvanderlaken.com/2017/10/18/learn-r/)__ (where I got most of these recommendations)
+
+
+## Start by setting up R:
+
+a. Create a directory for your R learning stuff somewhere on your computer.
+a. Download __[A (very) short introduction to R](https://cran.r-project.org/doc/contrib/Torfs+Brauer-Short-R-Intro.pdf)__ by Paul Torfs and Claudia Bauer 
+    + Read the introduction and follow the steps. It will help you install all R software on your own computer and familiarize you with the standard data types.
+a. We'll talk about your "R Workflow" at the end of this article
+
+
+## Spend some time learning the basics of Base R:
+
+a. You got a taste of Base R in [A (very) short introduction to R](https://cran.r-project.org/doc/contrib/Torfs+Brauer-Short-R-Intro.pdf).  Follow that with Swirl and Yarrr!
+a. __[Swirl](http://swirlstats.com/)__ - a course with 15 modules that provide mastery of the basics of R in the environment itself.
+    + Open up your RStudio and enter the two lines of code below in your console window. 
+    + `install.packages('swirl') #download swirl package`
+    + `library(swirl) #load in swirl package`
+    + Swirl ([webpage](http://swirlstats.com/)) will automatically start and after a couple of prompts you will be able to choose the learning course called 1: R Programming: The basics of programming in R.  
+a. [__YaRrr! The Pirate’s Guide to R (Phillips, 2017)__ starting in chapter 3](https://bookdown.org/ndphillips/YaRrr/jumpin.html).
+    + Start with chapter 3. It’s a fun book and will provide you with more knowledge on how to program custom functions, loops, and some basic statistical modelling techniques – the thing R was actually designed for.
+
+
+## Follow that by learning the tidyverse:
+
++ Work through __[R for Data Science (Grolemund & Wickham, 2017)](http://r4ds.had.co.nz/)__
+    + Here's a nice overview of the tidyverse: [tidyverse 101: Simplifying life for useRs – paulvanderlaken.com](https://paulvanderlaken.com/2017/07/07/tidyverse-101-simplifying-life-for-users/) 
+    + Oh, and I found this quite useful: [R for Data Science Solutions](https://jrnold.github.io/r4ds-exercise-solutions/tidy-data.html)
+
+
+## As you go about learning R, think about your "R workflow"" (I recommend three articles):
+
+a. __[Happy Git and GitHub for the useR (Bryan, 2018)](http://happygitwithr.com/)__ (using git with R)
+    * __New Project Workflow:__ [New project, GitHub first](http://happygitwithr.com/new-github-first.html)
+        1. Create a new github repository repository
+        1. Click "Clone or download" -> copy link
+        1. in RStudio -> File -> New Project -> Version Control -> Git -> paste url
+    * __Daily Workflow:__
+        + Start day with the “Pull” button from the “Git” tab in RStudio (make sure you are starting with the current versions)
+        + Save/Commit regularly with informative commit changes
+        + Amend Commits when you make incremental saves.  Do commits for separate changes.
+a. __[A perfect RStudio layout (Ilya Kashnitsky, 2018)](https://www.r-bloggers.com/a-perfect-rstudio-layout/)__ (My current preferred layout)
+    * Adjust in “Tools” –> “Global options” –> “Pane layout”:    
+        + Top Left: Source
+        + Bottom Left: History (then collapse)
+        + Top Right: Console
+        + Bottom Right: Everything else 
+a. __[Project-Oriented Workflow (Bryan 2017)](https://www.tidyverse.org/articles/2017/12/workflow-vs-script/)__ (how to think about projects in R)
+    * Organize each logical project into a folder on your computer (this is also where you put your .here, .git, and/or .Rproj files) 
+    * Directories:
+        + Create all paths relative to the top-level directory.
+        + Whenever you work on this project, launch the R process from the project’s top-level directory. If you launch R from the shell, `cd` to the correct folder first.
+    * Write every script assuming it will be run in a fresh R process:
+        + User-level setup: Do not save .RData when you quit R and don’t load .RData when you fire up R. 
+        + Don’t do things in your .Rprofile that affect how R code runs, such as loading a package like dplyr or ggplot or setting an option such as stringsAsFactors = FALSE.
+        + Daily work habit: Restart R very often and re-run your under-development script from the top.
