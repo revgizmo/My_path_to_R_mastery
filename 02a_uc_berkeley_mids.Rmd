@@ -8,6 +8,7 @@
 * [Student Handbook](https://ischool.berkeley.edu/intranet/students/mids)
 * [ischool Intranet](https://www.ischool.berkeley.edu/intranet)
 * [For New MIDS Students](https://www.ischool.berkeley.edu/intranet/students/mids/new)
+* [School of Information Wiki](https://wiki.ischool.berkeley.edu/index.php?title=Main_Page)
 
 [I School Virtual Campus](https://learn.datascience.berkeley.edu)
 
